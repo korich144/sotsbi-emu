@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text>Заголовки аутентификации определяют механизм аутентификации клиента в будущих запросах WWW-Authenticate или Proxy-Authenticate.</text>

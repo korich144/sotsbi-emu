@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text>Официально зарегистрированны IANA технологии применяющие только TCP: Network Mapper (NMAP), FTPS (FTP с SSL), Oracle, OpenVPN, Cisco Skinny(SCCP), DHCP для программы QIP, Sensor Control Unit Protocol(SCUP), а так же сетевые игры Battle.net и DOOM.</text>

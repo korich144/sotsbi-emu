@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text>Условные заголовки позволяют клиенту установить условие работы с ресурсом, при выполнении которого применяемый метод будет выполнен. Существуют условия: If-Match, If-None-Match,If-Modified-Since, If-Unmodified-Since и If-Range.</text>

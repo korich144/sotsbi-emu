@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text>Первый байт определяет тип сообщения (operation, op). Например, 1 – BOOTREQUEST или 2 – BOOTREPLY.</text>

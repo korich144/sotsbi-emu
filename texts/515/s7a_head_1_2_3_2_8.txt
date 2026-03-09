@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text>В заголовке DHCP передается 5 IP-адресов в полях: Ciaddr, Yiaddr, Siaddr, Giaddr (по 4 байта) и Chaddr (16 байт). Ciaddr (Client IP) - IP-адрес клиента, который задается для обновления имеющегося IP-адреса, если клиент находится в состояниях BOUND, RENEW или REBINDING и может отвечать на ARP-запросы.</text>

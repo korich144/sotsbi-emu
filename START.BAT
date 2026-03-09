@@ -1,0 +1,1 @@
+py emu.py | flashplayer.exe http://localhost:6144/u700net.swf
