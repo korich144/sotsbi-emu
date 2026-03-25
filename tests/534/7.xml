@@ -1,0 +1,10 @@
+<ROOT>
+<TARGET value="Первый тема"/>
+<THEME c1="3383713" c2="13034466" c3="3383713"/>
+<RESULT value="correct" label="" w_id="0" sublink=""/>
+<FINISH value="true"/><QUESTION value="Седьмой вопрос"/>
+<ANSWER id="0" value="Первый ответ"/>
+<ANSWER id="5" value="Шестой ответ"/>
+<STAT value=""/>
+<SCHEME id="bombom"/>
+</ROOT>
