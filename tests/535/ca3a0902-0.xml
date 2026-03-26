@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Сеть передачи данных. Стек TCP/IP" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какой из перечисленных типов адресации IPv4 используется в случае, когда пакет распространяют пакет по всем интерфейсам подсети?" />
+<ANSWER id="0" value="&gt; broadcast" />
+<ANSWER id="1" value="multicast" />
+<ANSWER id="2" value="anycast" />
+<ANSWER id="3" value="unicast" />
+
+</ROOT>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Сеть передачи данных. Служебные протоколы. Сервисы" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какие протоколы прикладного уровня можно отнести к протоколам переноса пользовательских данных?" />
+<ANSWER id="0" value="&gt; HTTP, FTP, RTP" />
+<ANSWER id="1" value="FTP, DNS, DHCP" />
+<ANSWER id="2" value="HTTP, FTP, NTP" />
+
+</ROOT>

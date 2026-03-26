@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Сеть передачи данных. Служебные протоколы. Сервисы" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какой протокол транспортного уровня обычно применяется для переноса информации динамичных онлайн-игр?" />
+<ANSWER id="0" value="TCP (Transmission Control Protocol)" />
+<ANSWER id="1" value="&gt; UDP (User Datagram Protocol)" />
+<ANSWER id="2" value="ATM (Asynchronous Transfer Mode)" />
+<ANSWER id="3" value="HTTP (HyperText Transfer Protocol)" />
+
+</ROOT>

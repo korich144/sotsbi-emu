@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Сеть передачи данных. Стек TCP/IP" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какие адреса может согласовывать протокол ARP?" />
+<ANSWER id="0" value="только MAC и IP адреса" />
+<ANSWER id="1" value="&gt; адреса на канальном уровне с адресами сетевого уровня" />
+<ANSWER id="2" value="IP-адреса и транспортные порты" />
+<ANSWER id="3" value="MAC-адреса и порты коммутатора" />
+<ANSWER id="4" value="IP-адреса и доменные имена" />
+
+</ROOT>

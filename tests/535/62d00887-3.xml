@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Сеть передачи данных. Стек TCP/IP" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какое максимальное число узлов в IP-сети, содержащей адрес 192.168.20.30/28?" />
+<ANSWER id="0" value="256" />
+<ANSWER id="1" value="254" />
+<ANSWER id="2" value="16" />
+<ANSWER id="3" value="&gt; 14" />
+<ANSWER id="4" value="30" />
+<ANSWER id="5" value="32" />
+<ANSWER id="6" value="8" />
+<ANSWER id="7" value="6" />
+
+</ROOT>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Сеть передачи данных. Служебные протоколы. Сервисы" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Каким сообщением DHCP сервер сообщает клиенту, что параметры, запрошенные клиентом, не могут быть применены?" />
+<ANSWER id="0" value="DHCPOFFER" />
+<ANSWER id="1" value="DHCPREQUEST" />
+<ANSWER id="2" value="DHCPACK" />
+<ANSWER id="3" value="&gt; DHCPNAK" />
+<ANSWER id="4" value="DHCPRELEASE" />
+<ANSWER id="5" value="DHCPINFORM" />
+<ANSWER id="6" value="DHCPDECLINE" />
+
+</ROOT>

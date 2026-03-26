@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Сеть передачи данных. Unix" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какая аббревиатура обозначает абонентский оптический узел, при подключении пользователя по технологии PON?" />
+<ANSWER id="0" value="Optical Line Terminal (OLT)" />
+<ANSWER id="1" value="&gt; Optical Network Terminal (ONT)" />
+<ANSWER id="2" value="Optical Distribution Network (ODN)" />
+<ANSWER id="3" value="Optical Access Terminal (OAT)" />
+<ANSWER id="4" value="Set-Top-Box (STB)" />
+
+</ROOT>

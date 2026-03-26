@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Сеть передачи данных. Служебные протоколы. Сервисы" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какой протокол был разработан компанией Google на замену протоколу HTTP/1.1?" />
+<ANSWER id="0" value="&gt; SPDY (speedy)" />
+<ANSWER id="1" value="SCCP (skinny)" />
+<ANSWER id="2" value="WebRTC" />
+
+</ROOT>

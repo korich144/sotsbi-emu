@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Сеть передачи данных. Служебные протоколы. Сервисы" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какие секции содержит сообщение протокола DNS?" />
+<ANSWER id="0" value="ID, QR, Opcode, AA, TC, RD, RA, Z, RCODE, QDCOUNT, ANCOUNT, NSCOUNT, ARCOUNT" />
+<ANSWER id="1" value="NAME, TYPE, CLASS, TTL, RDLENGTH, RDATA" />
+<ANSWER id="2" value="QNAME, QTYPE, QCLASS" />
+<ANSWER id="3" value="&gt; Header, Question, Answer, Authority, Additional" />
+
+</ROOT>

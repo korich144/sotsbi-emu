@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Сеть передачи данных. Служебные протоколы. Сервисы" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какой параметр невозможно настроить с помощью протокола DHCP?" />
+<ANSWER id="0" value="IP-адрес DNS-сервера" />
+<ANSWER id="1" value="маршрут по умолчанию" />
+<ANSWER id="2" value="имя хоста" />
+<ANSWER id="3" value="IP-адрес хоста" />
+<ANSWER id="4" value="?&gt; MAC-адрес хоста" />
+
+</ROOT>

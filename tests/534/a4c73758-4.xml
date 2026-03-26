@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Сеть передачи данных. Служебные протоколы. Сервисы" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="На основе какого протокола был создан протокол DHCP?" />
+<ANSWER id="0" value="SNMP" />
+<ANSWER id="1" value="NTP" />
+<ANSWER id="2" value="RARP" />
+<ANSWER id="3" value="NetConf" />
+<ANSWER id="4" value="&gt; BOOTP" />
+
+</ROOT>

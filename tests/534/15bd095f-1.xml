@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Сеть передачи данных. Служебные протоколы. Сервисы" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какой протокол используется для отправки эл. почты?" />
+<ANSWER id="0" value="INAP" />
+<ANSWER id="1" value="&gt; SMTP" />
+<ANSWER id="2" value="POP3" />
+<ANSWER id="3" value="SNMP" />
+
+</ROOT>

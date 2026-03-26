@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Сеть передачи данных. Стек TCP/IP" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Сколько байт составляет длина адреса в IPv6?" />
+<ANSWER id="0" value="4" />
+<ANSWER id="1" value="?&gt; 16" />
+<ANSWER id="2" value="8" />
+<ANSWER id="3" value="32" />
+<ANSWER id="4" value="48" />
+<ANSWER id="5" value="64" />
+<ANSWER id="6" value="128" />
+
+</ROOT>

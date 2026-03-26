@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Сеть передачи данных. Unix" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="В какой топологии применялся механизм обмена маркером, дающим право на передачу данных?" />
+<ANSWER id="0" value="шина" />
+<ANSWER id="1" value="звезда" />
+<ANSWER id="2" value="&gt; кольцо" />
+<ANSWER id="3" value="полносвязная" />
+
+</ROOT>

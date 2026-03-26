@@ -6,8 +6,9 @@ from http.server import HTTPServer, BaseHTTPRequestHandler
 
 # Global storage
 user_sessions = {}          # session -> {w_id: current_question_number}
-test_answers = {}           # w_id -> {q_num: [correct_answers]}
+test_answers = {}           # w_id -> {q_key: [correct_answers]}
 test_total_q = {}           # w_id -> total_questions
+test_files = {}             # w_id -> [sorted_filenames]
 
 def load_test_data(w_id):
     """Load answers and count questions for a test."""
@@ -19,13 +20,10 @@ def load_test_data(w_id):
     if not os.path.isdir(test_dir):
         return None, None
 
-    # Count questions: files matching *.xml, sort numerically
+    # Count questions: files matching *.xml, sort lexicographically
     xml_files = [f for f in os.listdir(test_dir) if f.endswith('.xml')]
-    try:
-        xml_files.sort(key=lambda x: int(x.split('.')[0]))
-        total_q = len(xml_files)
-    except ValueError:
-        total_q = 0
+    xml_files.sort()  # natural (lexicographic) sort
+    total_q = len(xml_files)
 
     # Parse answers.txt
     answers_path = os.path.join(test_dir, 'answers.txt')
@@ -39,26 +37,52 @@ def load_test_data(w_id):
                 parts = line.split()
                 if len(parts) < 2:
                     continue
+                key = parts[0]
+                # Try to parse key as integer (for backward compatibility)
                 try:
-                    q_num = int(parts[0])
+                    key_int = int(key)
+                    key = key_int
+                except ValueError:
+                    # keep as string (filename)
+                    pass
+                try:
                     correct = [int(x) for x in parts[1:]]
-                    answers[q_num] = correct
+                    answers[key] = correct
                 except ValueError:
                     continue
 
     test_total_q[w_id] = total_q
     test_answers[w_id] = answers
+    test_files[w_id] = xml_files
     return total_q, answers
 
 def build_question_xml(w_id, q_num, result_value, is_finish, current_q, total_q):
     """Read question XML, modify RESULT, FINISH, STAT, and return as bytes."""
+    # q_num is the question index (1-based) corresponding to position in test_files[w_id]
     safe_w_id = os.path.basename(w_id)
-    filepath = os.path.join('tests', safe_w_id, f'{q_num}.xml')
+    if w_id not in test_files:
+        # Fallback: test not loaded or doesn't exist
+        fallback_path = os.path.join('tests', 'test404.xml')
+        try:
+            with open(fallback_path, 'rb') as f:
+                return f.read()
+        except FileNotFoundError:
+            return b'<ROOT><ERROR>Test not found</ERROR></ROOT>'
+    file_list = test_files[w_id]
+    if q_num < 1 or q_num > len(file_list):
+        # Invalid question number
+        fallback_path = os.path.join('tests', 'test404.xml')
+        try:
+            with open(fallback_path, 'rb') as f:
+                return f.read()
+        except FileNotFoundError:
+            return b'<ROOT><ERROR>Question not found</ERROR></ROOT>'
+    filename = file_list[q_num - 1]
+    filepath = os.path.join('tests', safe_w_id, filename)
     try:
         tree = ET.parse(filepath)
         root = tree.getroot()
     except (FileNotFoundError, ET.ParseError):
-        # If file is missing, fallback to test404.xml
         fallback_path = os.path.join('tests', 'test404.xml')
         try:
             with open(fallback_path, 'rb') as f:
@@ -284,12 +308,21 @@ class EmulatorHandler(BaseHTTPRequestHandler):
                 # Already finished, send last question with FINISH=true
                 current_q = total_q
 
+            # Determine current filename
+            file_list = test_files[w_id]
+            current_filename = file_list[current_q - 1]
+            # Get base name without extension for lookup
+            base_filename = os.path.splitext(current_filename)[0]
+
             # Process answer if provided and non-zero
             result_value = None
             if answer is not None:
-                # Evaluate answer for the current question
-                correct = answers.get(current_q, [])
-                if answer in correct:
+                # Try to get correct answers: first by filename, then by index
+                correct = answers.get(base_filename)
+                if correct is None:
+                    # Fallback to numeric index (1-based)
+                    correct = answers.get(current_q)
+                if answer in (correct or []):
                     result_value = "correct"
                 else:
                     result_value = "wrong"
