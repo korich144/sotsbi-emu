@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Уровни модели OSI. " /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Какой протокол прикладного уровня без сохранения состояния используется сервисом World Wide Web?" />
+<ANSWER id="0" value="DNS" />
+<ANSWER id="1" value="?&gt; HTTP" />
+<ANSWER id="2" value="NFS" />
+<ANSWER id="3" value="NTP" />
+<ANSWER id="4" value="XMPP" />
+<ANSWER id="5" value="SSH" />
+
+</ROOT>

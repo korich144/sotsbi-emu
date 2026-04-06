@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Сеть NGN. Архитектура SoftSwitch" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="В каком функциональном элементе программного коммутатора осуществляется преобразование и взаимодействие ресурсов, используемых для передачи пользовательской информации?" />
+<ANSWER id="0" value="SG" />
+<ANSWER id="1" value="CSCF" />
+<ANSWER id="2" value="&gt; MGW" />
+<ANSWER id="3" value="HSS" />
+
+</ROOT>

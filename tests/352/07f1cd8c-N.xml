@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Администрирование UNIX-подобных систем " /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Администратор физически заменил в сервере сетевой адаптер. Он хочет убедиться в том, что новое устройство корректно определилось при загрузке. Как ему это сделать?" />
+<ANSWER id="0" value="ls -l /dev/eth*" />
+<ANSWER id="1" value="?&gt; dmesg " />
+<ANSWER id="2" value="hwstat " />
+<ANSWER id="3" value="cat /proc/net " />
+
+</ROOT>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Фиксированная сеть. Общеканальная сигнализация ОКС №7" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какие дополнительные поля MSU отличают её от других сигнальных единиц?" />
+<ANSWER id="0" value="&gt; SIO, SIF" />
+<ANSWER id="1" value="FIB,FSN" />
+<ANSWER id="2" value="BIB, BSN" />
+
+</ROOT>

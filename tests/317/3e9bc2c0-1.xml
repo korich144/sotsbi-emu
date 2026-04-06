@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Протокол ААА: Diameter " /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Тип пары атрибут-значение определяется следующим полем в заголовке сообщения  Diameter:" />
+<ANSWER id="0" value="Полем флагов AVP" />
+<ANSWER id="1" value="&gt; Полем код AVP" />
+<ANSWER id="2" value="Полем данных" />
+<ANSWER id="3" value="Полем длина AVP" />
+
+</ROOT>

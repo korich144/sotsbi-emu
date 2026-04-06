@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Сеть NGN. Архитектура SoftSwitch" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какая функция программного коммутатора обеспечивает возможность переноса сигнальной информации сети ОКС№7 по сети IP?" />
+<ANSWER id="0" value="&gt; SG" />
+<ANSWER id="1" value="MGC" />
+<ANSWER id="2" value="MGW" />
+<ANSWER id="3" value="TGW" />
+<ANSWER id="4" value="HSS" />
+
+</ROOT>

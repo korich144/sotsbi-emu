@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Общее назначение SCCP. Сервисные примитивы. " /><THEME c1="16680295" c2="16777215" c3="0" /><QUESTION value="С помощью какого примитива пользователи SCCP получают возможность переноса сигнальных сообщений по сети сигнализации без создания сигнального соединения?" />
+<ANSWER id="0" value="N-RESET" />
+<ANSWER id="1" value="N-CONNECT" />
+<ANSWER id="2" value="N-DATA" />
+<ANSWER id="3" value="&gt; N-UNIDATA" />
+
+</ROOT>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Сеть передачи данных. Служебные протоколы. Сервисы" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какой из методов HTTP позволяет дополнить существующий ресурс?" />
+<ANSWER id="0" value="POST" />
+<ANSWER id="1" value="PUT" />
+<ANSWER id="2" value="GET" />
+<ANSWER id="3" value="HEAD" />
+<ANSWER id="4" value="?&gt; PATCH" />
+<ANSWER id="5" value="DELETE" />
+
+</ROOT>

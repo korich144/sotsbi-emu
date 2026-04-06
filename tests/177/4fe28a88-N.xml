@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Сетевая безопасность. Сетевые атаки, Firewall. " /><THEME c1="9285627" c2="15266303" c3="9285627" /><QUESTION value="Какая атака для передачи запросов злоумышленника  использует в качестве туннеля  протокол ICMP?" />
+<ANSWER id="0" value="?&gt; Атака Loki." />
+<ANSWER id="1" value="DoS атака." />
+<ANSWER id="2" value="DDoS атака." />
+
+</ROOT>

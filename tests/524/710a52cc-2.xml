@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Сеть NGN. IP-телефония" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="SDP описание устанавливаемой сессии может содержаться:" />
+<ANSWER id="0" value="в запросе" />
+<ANSWER id="1" value="в ответе" />
+<ANSWER id="2" value="&gt; оба ответа верны" />
+
+</ROOT>

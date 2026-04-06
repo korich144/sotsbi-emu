@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Фиксированная сеть. Процедуры ISUP" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="На основании анализа какой информации ISUP формирует код DPC:" />
+<ANSWER id="0" value="номера тракта Е1" />
+<ANSWER id="1" value="&gt; номера вызываемого абонента" />
+<ANSWER id="2" value="номера звена передачи данных." />
+
+</ROOT>

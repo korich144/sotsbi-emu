@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Мобильная сеть. Протоколы домена CS" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какая из подсистем сигнализации ОКС №7 всегда пользуется услугами TCAP и SCCP?" />
+<ANSWER id="0" value="&gt; MAP" />
+<ANSWER id="1" value="MTP" />
+<ANSWER id="2" value="ISUP" />
+
+</ROOT>

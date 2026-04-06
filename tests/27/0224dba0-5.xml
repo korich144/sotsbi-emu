@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Параметры сообщений MEGACO " /><THEME c1="4950084" c2="14216152" c3="4950084" /><QUESTION value="Укажите дескриптор протокола MEGACO/H.248 запрашивающий перечень информации, которую необходимо передавать из MG в MGC (дескриптор по сути является списком требуемых дескрипторов ответа на команду)?" />
+<ANSWER id="0" value="Media" />
+<ANSWER id="1" value="Signals" />
+<ANSWER id="2" value="ServiceChange" />
+<ANSWER id="3" value="Error" />
+<ANSWER id="4" value="ObservedEvents " />
+<ANSWER id="5" value="&gt; Audit " />
+<ANSWER id="6" value="все ответы неверны" />
+
+</ROOT>

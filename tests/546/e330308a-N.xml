@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="ИКТ - Информационно-коммуникационные технологии. Пост NGN. Интернет вещей (IoT). Протокол MQTT. Проверка основных знаний по протоколу MQTT" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какое сообщение протокола MQTT передается MQTT-клиентом для отключения от сервера?" />
+<ANSWER id="0" value="?&gt; DISCONNECT" />
+<ANSWER id="1" value="CONNECT" />
+<ANSWER id="2" value="PUBREL" />
+<ANSWER id="3" value="UNSUBSCRIBE" />
+<ANSWER id="4" value="PINGREQ" />
+
+</ROOT>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Закрепление полученных знаний по протоколу передачи файлов" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какой код сообщения FTP уведомляет клиента о закрытии каналов связи протокола FTP?" />
+<ANSWER id="0" value="220" />
+<ANSWER id="1" value="200" />
+<ANSWER id="2" value="230" />
+<ANSWER id="3" value="125" />
+<ANSWER id="4" value="&gt; 221" />
+<ANSWER id="5" value="150" />
+<ANSWER id="6" value="226" />
+
+</ROOT>

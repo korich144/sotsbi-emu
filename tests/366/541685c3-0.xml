@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Основы протокола IP " /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какой флаг используется при фрагментации пакетов с целью указать на то, является ли фрагмент промежуточным или последним фрагментом исходного пакета?" />
+<ANSWER id="0" value="&gt; MF (more fragments)" />
+<ANSWER id="1" value="DF (don’t fragment)" />
+<ANSWER id="2" value="Верного ответа нет" />
+<ANSWER id="3" value="Оба ответа верны" />
+
+</ROOT>

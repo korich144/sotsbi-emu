@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Проверить владение знаниями по формату протокола HTTP" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="В каком заголовке HTTP ответа указываются домены в которых разрешено использовать полученные данные?" />
+<ANSWER id="0" value="&gt; Content-Security-Policy" />
+<ANSWER id="1" value="Security-Control" />
+<ANSWER id="2" value="Transfer-Policy" />
+
+</ROOT>

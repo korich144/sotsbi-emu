@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Мобильная сеть. Протоколы домена CS" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какая подсистема на основе анализа поля SIO осуществляет выбор подсистемы, к которой адресовано сообщение?" />
+<ANSWER id="0" value="SCCP" />
+<ANSWER id="1" value="&gt; MTP3" />
+<ANSWER id="2" value="MTP2" />
+<ANSWER id="3" value="TCAP" />
+
+</ROOT>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Взаимодействие сетей КК с КП" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Укажите, в какую подсистему  направляется сообщение, поступившее  в SCCP из MTP3, если после преобразования GT (глобального заголовка), полученный DPC, равен коду данного пункта сигнализации:" />
+<ANSWER id="0" value="SCCP" />
+<ANSWER id="1" value="&gt; TCAP" />
+<ANSWER id="2" value="MTP3" />
+<ANSWER id="3" value="CAP" />
+<ANSWER id="4" value="MAP" />
+
+</ROOT>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Процедуры аутентификации, обновления зоны местонахождения" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="С помощью какого  сообщения VLR информирует HLR об ограничениях в обслуживании  пользователя, переместившегося в новую зону обслуживания." />
+<ANSWER id="0" value="&gt; MAP-INSERT-SUBSCRIBER-DATA ack" />
+<ANSWER id="1" value="MAP-CANCEL-LOCATION" />
+<ANSWER id="2" value="MAP-INSERT-SUBSCRIBER-DATA" />
+
+</ROOT>

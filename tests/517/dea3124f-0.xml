@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Мобильная сеть. Протоколы домена CS" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Инициирование и реализацию процедур MAP осуществляет:" />
+<ANSWER id="0" value="&gt; Пользователь MAP" />
+<ANSWER id="1" value="Провайдер MAP" />
+<ANSWER id="2" value="Пользователь MAP, Провайдер MAP" />
+
+</ROOT>

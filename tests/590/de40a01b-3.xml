@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Проверка знаний основ и архитектуры 5G" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Какая из перечисленных сетей доступа является non- 3GPP Access Network?" />
+<ANSWER id="0" value="UTRAN" />
+<ANSWER id="1" value="LTE" />
+<ANSWER id="2" value="5G(New Radio - NR)" />
+<ANSWER id="3" value="&gt; Wi-Fi" />
+
+</ROOT>

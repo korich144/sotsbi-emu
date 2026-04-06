@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Обмен сообщениями протокола RADIUS при осуществлении контроля прав доступа пользователя " /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Какое сообщение протокола RADIUS информирует пользователя о некорректности принятых атрибутов?" />
+<ANSWER id="0" value="Access-Accept" />
+<ANSWER id="1" value="Access-Challenge" />
+<ANSWER id="2" value="Disconnect-Request" />
+<ANSWER id="3" value="?&gt; Access-Reject" />
+<ANSWER id="4" value="Change-of- authorization NAK" />
+
+</ROOT>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Проверка знаний основ и архитектуры 5G" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Общая архитектура сетей 5G (5GS) состоит из:" />
+<ANSWER id="0" value="&gt; Подсистемы радиодоступа NR (New Radio) или 5G-AN (5G Access Network) и базовой сети 5G Core Network (5GC)" />
+<ANSWER id="1" value="Плоскости управления (5GC Control Plane) и плоскости пользователя (5GC User Plane)" />
+<ANSWER id="2" value="Базовых станций gNb и eNB" />
+
+</ROOT>

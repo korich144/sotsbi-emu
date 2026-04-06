@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Мобильная сеть. Протоколы домена CS" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Пользователь MAP и провайдер MAP в рамках одного сетевого элемента взаимодействуют посредством:" />
+<ANSWER id="0" value="&gt; Примитивов" />
+<ANSWER id="1" value="Сообщений" />
+<ANSWER id="2" value="Команд" />
+
+</ROOT>

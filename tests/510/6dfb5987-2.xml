@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Фиксированная сеть. Общеканальная сигнализация ОКС №7" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какая сигнальная единица используется для подтверждения значащей сигнальной единицы?" />
+<ANSWER id="0" value="MSU" />
+<ANSWER id="1" value="LSSU" />
+<ANSWER id="2" value="&gt; FISU" />
+
+</ROOT>

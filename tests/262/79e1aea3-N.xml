@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Уровни модели OSI. " /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Какой протокол определяет механизм поддержки безопасности данных на уровне между протоколами приложений, такими как HTTP, Telnet, FTP и протоколом TCP/IP?" />
+<ANSWER id="0" value="XMPP" />
+<ANSWER id="1" value="?&gt; SSL" />
+<ANSWER id="2" value="NTP" />
+<ANSWER id="3" value="HTTP" />
+<ANSWER id="4" value="SIP" />
+<ANSWER id="5" value="ICMP" />
+
+</ROOT>

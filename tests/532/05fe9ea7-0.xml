@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Фиксированная сеть. Процедуры ISUP" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какое сообщение ISUP, из указанных ниже, используется для передачи цифр номера вызываемого абонента?" />
+<ANSWER id="0" value="&gt; Initial Address Message, IAM" />
+<ANSWER id="1" value="Information, INF" />
+<ANSWER id="2" value="Circuit group reset, GRS" />
+<ANSWER id="3" value="Call progress, CPG" />
+
+</ROOT>

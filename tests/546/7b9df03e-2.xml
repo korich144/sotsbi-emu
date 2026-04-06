@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="ИКТ - Информационно-коммуникационные технологии. Пост NGN. Интернет вещей (IoT). Протокол MQTT. Проверка основных знаний по протоколу MQTT" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какое сообщение MQTT-клиент (подписчик) отправляет брокеру для запроса подписки на интересующую его тему?" />
+<ANSWER id="0" value="CONNECT" />
+<ANSWER id="1" value="PUBLISH" />
+<ANSWER id="2" value="&gt; SUBSCRIBE" />
+<ANSWER id="3" value="PINGREQ" />
+
+</ROOT>

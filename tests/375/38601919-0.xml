@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Основы протокола TCP " /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какой флаг указывает на то, что поле «Указатель важности» задействовано?" />
+<ANSWER id="0" value="&gt; URG" />
+<ANSWER id="1" value="SYN" />
+<ANSWER id="2" value="ACK" />
+<ANSWER id="3" value="PSH" />
+
+</ROOT>

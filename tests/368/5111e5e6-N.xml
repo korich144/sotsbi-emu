@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Основная терминология и принципы работы протокола OSPF " /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какие из нижеперечисленных протоколов являются протоколами внутреннего шлюза?" />
+<ANSWER id="0" value="OSPF, IP, RIP" />
+<ANSWER id="1" value="OSPF, RIP, BGP" />
+<ANSWER id="2" value="BGP, IS-IS" />
+<ANSWER id="3" value="?&gt; OSPF, RIP, IS-IS" />
+
+</ROOT>

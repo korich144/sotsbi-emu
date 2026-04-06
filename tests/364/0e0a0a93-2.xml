@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Основы VLAN " /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какое утверждение об использовании сетей VLAN для сегментации верно? " />
+<ANSWER id="0" value="VLAN увеличивает размер доменов коллизий." />
+<ANSWER id="1" value="VLAN упрощает администрирование сети" />
+<ANSWER id="2" value="&gt; VLAN повышает безопасность сети." />
+
+</ROOT>

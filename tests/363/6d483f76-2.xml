@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Протокол ARP " /><THEME c1="14135026" c2="16121850" c3="14135026" /><QUESTION value="Какое поле заголовка ARP содержит MAC-адрес получателя при ARP запросе?" />
+<ANSWER id="0" value="TPA" />
+<ANSWER id="1" value="SPA" />
+<ANSWER id="2" value="&gt; THA" />
+<ANSWER id="3" value="SHA" />
+
+</ROOT>

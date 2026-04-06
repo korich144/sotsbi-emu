@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Криптография " /><THEME c1="9285627" c2="15266303" c3="9285627" /><QUESTION value="Чему эквивалентна запись d*d = e (mod n)?" />
+<ANSWER id="0" value="d*d - e = k*n, где k - целое положительное число" />
+<ANSWER id="1" value="Число e является квадратичным вычетом по модулю n" />
+<ANSWER id="2" value="?&gt; Все варианты ответов верны" />
+<ANSWER id="3" value="d*d и e имеют одинаковые остатки при делении на n" />
+<ANSWER id="4" value="Все варианты ответов НЕ верны" />
+
+</ROOT>

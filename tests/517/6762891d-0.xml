@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Мобильная сеть. Протоколы домена CS" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Код DPC в подсистеме SCCP при передаче сообщений MAP может быть определен на основании анализа:" />
+<ANSWER id="0" value="&gt; GT" />
+<ANSWER id="1" value="MSISDN вызываемого абонента" />
+<ANSWER id="2" value="MSISDN вызывающего абонента" />
+
+</ROOT>

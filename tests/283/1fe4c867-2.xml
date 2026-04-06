@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Сеть MAP, идентификаторы, определения, услуги" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Данные, связанные с доставкой коротких сообщений пользователю (Data related to short message support) хранятся:" />
+<ANSWER id="0" value="Только в VLR" />
+<ANSWER id="1" value="Только в HLR" />
+<ANSWER id="2" value="&gt; В VLR и HLR" />
+
+</ROOT>

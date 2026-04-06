@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Сеть передачи данных. Служебные протоколы. Сервисы" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какое поле заголовка сообщений протокола DNS указывает количество записей в секции Answer?" />
-<ANSWER id="0" value="QDCOUNT" />
-<ANSWER id="1" value="NSCOUNT" />
-<ANSWER id="2" value="ARCOUNT" />
-<ANSWER id="3" value="?&gt; ANCOUNT" />
-
-</ROOT>

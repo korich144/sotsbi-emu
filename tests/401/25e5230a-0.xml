@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Закрепить знания по технологии Ethernet" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какие обязательные поля подуровня LLC включаются в заголовок кадра?" />
+<ANSWER id="0" value="&gt; поля точек источника и назначения сетевого сервиса(SAP), тип кадра LLC" />
+<ANSWER id="1" value="DSAP, SSAP, Control и Protocol" />
+<ANSWER id="2" value="только DSAP и SSAP" />
+<ANSWER id="3" value="только тип кадра LLC" />
+
+</ROOT>

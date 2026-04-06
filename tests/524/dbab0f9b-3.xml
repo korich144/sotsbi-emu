@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Сеть NGN. IP-телефония" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="С помощью какого запроса SIP осуществляется разрушение установленной мультимедийной сессии?" />
+<ANSWER id="0" value="INVITE" />
+<ANSWER id="1" value="REGISTER" />
+<ANSWER id="2" value="СANCEL" />
+<ANSWER id="3" value="&gt; BYE" />
+<ANSWER id="4" value="ACK" />
+
+</ROOT>

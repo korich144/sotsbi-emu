@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Мобильная сеть. Стандарт GSM 900/1800 МГц" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какие данные, хранящиеся в HLR, указывают текущую зону обслуживания пользователя?" />
+<ANSWER id="0" value="&gt; Номер MSC" />
+<ANSWER id="1" value="Идентификатор LAI" />
+<ANSWER id="2" value="Глобальный идентификатор соты CGID" />
+
+</ROOT>

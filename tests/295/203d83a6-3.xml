@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Протокол H.323 " /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Какой протокол используется для передачи мультимедийной пользовательской информации в режиме реального времени в сети H.323?" />
+<ANSWER id="0" value="H.225" />
+<ANSWER id="1" value="H.245" />
+<ANSWER id="2" value="RAS" />
+<ANSWER id="3" value="&gt; RTP/RTCP" />
+<ANSWER id="4" value="G.711, H.261" />
+<ANSWER id="5" value="Все варианты ответов верны." />
+
+</ROOT>

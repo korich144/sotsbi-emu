@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Протокол H.225 " /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Какое сообщение протокола H.225 передается вызывающим оконечным оборудованием с целью инициировать установление соединения?" />
+<ANSWER id="0" value="&gt; Setup" />
+<ANSWER id="1" value="Connect" />
+<ANSWER id="2" value="Register" />
+<ANSWER id="3" value="Invite" />
+<ANSWER id="4" value="Call Proceeding" />
+
+</ROOT>

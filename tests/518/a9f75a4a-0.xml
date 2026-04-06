@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Мобильная сеть. Процедуры обновления данных" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Если пользователь, перемещается в соту, принадлежащую той же зоне местонахождения, что и предыдущая сота, какие данные обновляются в VLR?" />
+<ANSWER id="0" value="&gt; Данные не обновляются" />
+<ANSWER id="1" value="Cell Global ID" />
+<ANSWER id="2" value="LAI" />
+<ANSWER id="3" value="Cell Global ID и LAI" />
+
+</ROOT>

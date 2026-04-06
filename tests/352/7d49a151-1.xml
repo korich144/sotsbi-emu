@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Администрирование UNIX-подобных систем " /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="При срабатывании какого действия брандмауэра iptables отправитель пакета получит в ответ сообщение &quot;Порт недоступен&quot; ?" />
+<ANSWER id="0" value="DROP" />
+<ANSWER id="1" value="&gt; REJECT" />
+<ANSWER id="2" value="В обоих случаях." />
+
+</ROOT>

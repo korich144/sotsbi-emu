@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Уровни модели OSI. " /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Какие порты используются для передачи сообщений RADIUS?" />
+<ANSWER id="0" value="53" />
+<ANSWER id="1" value="21" />
+<ANSWER id="2" value="22" />
+<ANSWER id="3" value="123" />
+<ANSWER id="4" value="?&gt; 1812" />
+<ANSWER id="5" value="69" />
+<ANSWER id="6" value="81" />
+
+</ROOT>

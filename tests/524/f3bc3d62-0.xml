@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Сеть NGN. IP-телефония" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какой из перечисленных запросов передается после получения окончательного ответа в INVITE транзакции?" />
+<ANSWER id="0" value="&gt; ACK" />
+<ANSWER id="1" value="REGISTER" />
+<ANSWER id="2" value="СANCEL" />
+<ANSWER id="3" value="BYE" />
+
+</ROOT>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Администрирование UNIX-подобных систем " /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какими клавишами осуществляется прокрутка вывода в терминале?" />
+<ANSWER id="0" value="клавишами курсора" />
+<ANSWER id="1" value="Alt + [, ]" />
+<ANSWER id="2" value="&gt; Shift + PgUp, PgDn" />
+<ANSWER id="3" value="Ctrl + клавишами курсора" />
+
+</ROOT>

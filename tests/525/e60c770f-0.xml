@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Сеть NGN. Архитектура SoftSwitch" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Если в шлюзе сигнализации реализуется уровень адаптации протокола SIGTRAN M3UA, функции какого элемента сети ОКС№7 он реализует?" />
+<ANSWER id="0" value="&gt; STP" />
+<ANSWER id="1" value="ST" />
+<ANSWER id="2" value="SEP" />
+
+</ROOT>

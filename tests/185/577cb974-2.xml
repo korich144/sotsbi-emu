@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Криптография " /><THEME c1="9285627" c2="15266303" c3="9285627" /><QUESTION value="Какие алгоритмы шифрования можно отнести к потоковым?" />
+<ANSWER id="0" value="RC2, DES" />
+<ANSWER id="1" value="RC6, 3DES" />
+<ANSWER id="2" value="&gt; RC4, SEAL, WAKE  " />
+<ANSWER id="3" value="RC5, IDEA" />
+
+</ROOT>

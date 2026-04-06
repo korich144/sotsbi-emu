@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Проверка знаний основ и архитектуры 5G" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Какой тип услуги, предоставляемый сетью 5G, используется для ресурсоемких приложений?" />
+<ANSWER id="0" value="&gt; Усовершенствованная широкополосная мобильная связь –eMBB (Extreme Mobile BroadBands)" />
+<ANSWER id="1" value="Высоконадежная межмашинная связь с низкими задержками и высоким уровнем мобильности  - URLLC (Ultra-reliable and low latency communications)" />
+<ANSWER id="2" value="Массовая межмашинная связь – mMTC (Massive Machine-Type Communications)" />
+
+</ROOT>

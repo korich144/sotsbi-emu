@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Сценарии обмена сообщениями подсистемы ISUP " /><THEME c1="5496063" c2="11727871" c3="5496063" /><QUESTION value="Какое сообщение ISUP используется для передачи недостающих цифр номера вызываемого абонента при передаче адресной информации с перекрытием?" />
+<ANSWER id="0" value="&gt; Subsequent address message, SAM" />
+<ANSWER id="1" value="Information, INF " />
+<ANSWER id="2" value="Circuit group reset, GRS" />
+<ANSWER id="3" value="Call progress, CPG" />
+
+</ROOT>

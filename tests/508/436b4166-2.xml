@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="ИКТ - Информационно-коммуникационные технологии. Введение" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какой из перечисленных ниже протоколов является протоколом прикладного уровня модели OSI?" />
+<ANSWER id="0" value="MTP" />
+<ANSWER id="1" value="UDP" />
+<ANSWER id="2" value="&gt; DNS" />
+<ANSWER id="3" value="Ethernet" />
+<ANSWER id="4" value="ICMP" />
+<ANSWER id="5" value="IP" />
+
+</ROOT>

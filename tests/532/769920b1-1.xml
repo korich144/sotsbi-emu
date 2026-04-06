@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Фиксированная сеть. Процедуры ISUP" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Для возврата канала в исходное состояние в конфликтных ситуациях (например, в случае сбоя памяти) используется сообщение:" />
+<ANSWER id="0" value="Release, REL" />
+<ANSWER id="1" value="&gt; Reset circuit, RSC" />
+<ANSWER id="2" value="Release complete, RLC" />
+<ANSWER id="3" value="Blocking, BLO" />
+<ANSWER id="4" value="Circuit group reset, GRS" />
+
+</ROOT>

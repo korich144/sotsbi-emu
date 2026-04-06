@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Сеть передачи данных. Стек TCP/IP" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Сколько уровней в модели TCP/IP?" />
+<ANSWER id="0" value="7" />
+<ANSWER id="1" value="5" />
+<ANSWER id="2" value="&gt; 4" />
+<ANSWER id="3" value="2" />
+<ANSWER id="4" value="3" />
+
+</ROOT>

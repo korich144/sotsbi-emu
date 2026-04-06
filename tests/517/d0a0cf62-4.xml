@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Мобильная сеть. Протоколы домена CS" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какие сетевые элементы используют подсистемы MAP и ISUP в процессе обслуживания пользователя в сети GSM?" />
+<ANSWER id="0" value="MSC" />
+<ANSWER id="1" value="HLR" />
+<ANSWER id="2" value="GMSC" />
+<ANSWER id="3" value="VLR" />
+<ANSWER id="4" value="&gt; MSC, GMSC" />
+
+</ROOT>

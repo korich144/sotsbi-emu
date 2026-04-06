@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Сеть MAP, идентификаторы, определения, услуги" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Международный идентификатор оборудования MS и версия программного обеспечения IMEISV хранится:" />
+<ANSWER id="0" value="В SIM карте, MSC, AuC" />
+<ANSWER id="1" value="&gt; В терминале пользователя, HLR, VLR, EIR" />
+
+</ROOT>

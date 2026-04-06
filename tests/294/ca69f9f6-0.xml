@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Протокол H.245 " /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Какие категории сообщений передаются по управляющему каналу Н.245 ?" />
+<ANSWER id="0" value="&gt; Запрос (Request), Ответ (Response), Команда (Command) и Индикация (Indication)." />
+<ANSWER id="1" value="Запрос (Request), Ответ (Response)." />
+<ANSWER id="2" value="Запрос (Request), Ответ (Response), Команда (Command)." />
+<ANSWER id="3" value="Ответ (Response), Команда (Command) и Индикация (Indication)." />
+<ANSWER id="4" value="Ответ (Response), Команда (Command)." />
+
+</ROOT>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Основы VLAN " /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какой открытый стандарт IEEE помечает кадры VLAN?" />
+<ANSWER id="0" value="&gt; 802.1Q" />
+<ANSWER id="1" value="802.2" />
+<ANSWER id="2" value="802.1n" />
+<ANSWER id="3" value="802.3" />
+
+</ROOT>

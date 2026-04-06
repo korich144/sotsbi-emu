@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Основы VLAN " /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какое сетевое устройство позволяет передавать данные между VLAN сетями?" />
+<ANSWER id="0" value="Switch" />
+<ANSWER id="1" value="?&gt; Router и Switch L3" />
+<ANSWER id="2" value="Hub" />
+<ANSWER id="3" value="Ни одно из вышеперечисленных" />
+
+</ROOT>

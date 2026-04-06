@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Основы VLAN " /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какие протоколы могут использоваться для обмена информацией конфигурации VLAN сетей между коммутаторами?" />
+<ANSWER id="0" value="STP (Spanning Tree Protocol)" />
+<ANSWER id="1" value="&gt; VTP (VLAN Trunking Protocol) и GVRP (GARP VLAN Registration Protocol)" />
+<ANSWER id="2" value="LDP (Label Distribution Protocol)" />
+<ANSWER id="3" value="BGP (Border Gateway Protocol)" />
+
+</ROOT>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Уровни модели OSI. " /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Протокол HTTPS - это..." />
+<ANSWER id="0" value="расширение протокола HTTP, поддерживающее шифрование." />
+<ANSWER id="1" value="обычный протокол HTTP, работающий через шифрованные транспортные механизмы SSL и TLS. " />
+<ANSWER id="2" value="протокол прикладного уровня модели OSI." />
+<ANSWER id="3" value="?&gt; Все утверждения верны." />
+
+</ROOT>

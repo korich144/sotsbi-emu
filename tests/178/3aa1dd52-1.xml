@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Сканеры безопасности. IPS, IDS. " /><THEME c1="9285627" c2="15266303" c3="9285627" /><QUESTION value="Метод обнаружения атаки (вредоносного трафика) основанный на обнаружении характерных признаков атаки или вируса, называют:" />
+<ANSWER id="0" value="Методом аномалий (anomaly-based)." />
+<ANSWER id="1" value="&gt; Методом сигнатур (signature-based)." />
+<ANSWER id="2" value="Методом, основанном на политике (policy-based)." />
+
+</ROOT>

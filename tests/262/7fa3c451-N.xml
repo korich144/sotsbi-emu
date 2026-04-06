@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Уровни модели OSI. " /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Какой порт по умолчанию используется для сервиса TFTP?" />
+<ANSWER id="0" value="53/TCP, UDP" />
+<ANSWER id="1" value="21/TCP, UDP" />
+<ANSWER id="2" value="22/TCP, UDP" />
+<ANSWER id="3" value="123/TCP, UDP" />
+<ANSWER id="4" value="23/TCP, UDP" />
+<ANSWER id="5" value="?&gt; 69/TCP, UDP" />
+<ANSWER id="6" value="81/TCP, UDP" />
+
+</ROOT>

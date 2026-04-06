@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="ИКТ - Информационно-коммуникационные технологии. Пост NGN. Интернет вещей (IoT). Протокол MQTT. Проверка основных знаний по протоколу MQTT" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какой порт используется для передачи сообщений MQTT по умолчанию?" />
+<ANSWER id="0" value="&gt; 1883" />
+<ANSWER id="1" value="5060" />
+<ANSWER id="2" value="21" />
+<ANSWER id="3" value="991" />
+
+</ROOT>

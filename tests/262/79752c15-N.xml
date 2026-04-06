@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Уровни модели OSI. " /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Какой основной тип данных переносит протокол HTTP?" />
+<ANSWER id="0" value="гипертекстовых документов" />
+<ANSWER id="1" value="изображений" />
+<ANSWER id="2" value="текстовых файлов" />
+<ANSWER id="3" value="аудио файлов" />
+<ANSWER id="4" value="видео файлов" />
+<ANSWER id="5" value="?&gt; все варианты ответов верны" />
+
+</ROOT>

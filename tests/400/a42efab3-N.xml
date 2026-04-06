@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Проверить владение знаниями по формату протокола HTTP" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какая версия протокола HTTP используется на данный момент?" />
+<ANSWER id="0" value="0.5" />
+<ANSWER id="1" value="0.75" />
+<ANSWER id="2" value="0.9" />
+<ANSWER id="3" value="1" />
+<ANSWER id="4" value="1.1" />
+<ANSWER id="5" value="1.4" />
+<ANSWER id="6" value="?&gt; 2.0" />
+<ANSWER id="7" value="2.2" />
+
+</ROOT>

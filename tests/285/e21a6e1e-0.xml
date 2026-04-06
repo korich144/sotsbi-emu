@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Процедуры аутентификации, обновления зоны местонахождения" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какие параметры обязательно передаются в HLR в запросе MAP-UPDATE-LOCATION?" />
+<ANSWER id="0" value="&gt; IMSI, MSC number, VLR number" />
+<ANSWER id="1" value="IMSI, Paging Area, IMEISV" />
+
+</ROOT>

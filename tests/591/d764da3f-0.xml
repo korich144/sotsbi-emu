@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Проверка знаний по теме сетевые функции базовой сети 5G и протоколы" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Какие сетевые функции являются обязательными при построении архитектуры 5G?" />
+<ANSWER id="0" value="&gt; AMF, SMF, UPF" />
+<ANSWER id="1" value="AMF, NSSF, AUSF" />
+<ANSWER id="2" value="PCF, SMF, AF" />
+
+</ROOT>

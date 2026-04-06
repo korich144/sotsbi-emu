@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Протокол RIP " /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какой UDP порт использует протокол RIP?" />
+<ANSWER id="0" value="&gt; 520" />
+<ANSWER id="1" value="87" />
+<ANSWER id="2" value="48" />
+<ANSWER id="3" value="22" />
+<ANSWER id="4" value="8080" />
+
+</ROOT>

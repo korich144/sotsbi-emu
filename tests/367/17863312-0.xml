@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Протокол RIP " /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какое значение метрики называется “Бесконечно большой метрикой”?" />
+<ANSWER id="0" value="&gt; 16" />
+<ANSWER id="1" value="15" />
+<ANSWER id="2" value="00" />
+<ANSWER id="3" value="99" />
+<ANSWER id="4" value="17" />
+
+</ROOT>

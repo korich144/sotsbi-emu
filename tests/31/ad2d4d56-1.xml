@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Установление и разрушение сигнального звена                                                                                                      " /><THEME c1="16615443" c2="16635796" c3="16615443" /><QUESTION value="Что означает статус индикации SIN?" />
+<ANSWER id="0" value="звено не сфазировано" />
+<ANSWER id="1" value="&gt; нормальное фазирование" />
+<ANSWER id="2" value="аварийное фазирование" />
+<ANSWER id="3" value="вне обслуживания" />
+
+</ROOT>

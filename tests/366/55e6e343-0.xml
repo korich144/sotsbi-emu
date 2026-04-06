@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Основы протокола IP " /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какой диапазон значений первого октета у адресов класса D?" />
+<ANSWER id="0" value="&gt; 224 - 239" />
+<ANSWER id="1" value="240 - 247" />
+<ANSWER id="2" value="1 - 126" />
+<ANSWER id="3" value="128 - 191" />
+
+</ROOT>

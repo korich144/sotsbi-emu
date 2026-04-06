@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Передача речи по IP-сети. Протокол передачи данных RTP.                            " /><THEME c1="10079385" c2="14745571" c3="10079385" /><QUESTION value="Услугами какого протокола транспортного уровня пользуется протокол RTP? " />
+<ANSWER id="0" value="&gt; UDP " />
+<ANSWER id="1" value="MTP" />
+<ANSWER id="2" value="TCP" />
+<ANSWER id="3" value="IP" />
+
+</ROOT>

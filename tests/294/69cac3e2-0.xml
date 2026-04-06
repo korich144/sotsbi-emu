@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Протокол H.245 " /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Какое оборудование становится ведущим после выполнения процедуры определения ведущего и ведомого оборудования?" />
+<ANSWER id="0" value="&gt; Ведущим становится оборудование, поместившее большее число в поле terminalType сообщения MasterSlaveDetermination, а при совпадении типов оборудования – большее число в поле statusDeterminationNumber." />
+<ANSWER id="1" value="Ведущим становится оборудование, поместившее большее число в поле terminalType сообщения MasterSlaveDeterminationAck, а при совпадении типов оборудования – большее число в поле statusDeterminationNumber." />
+<ANSWER id="2" value="Ведущим становится оборудование, поместившее большее число в поле statusDeterminationNumber сообщения MasterSlaveDetermination и меньшее число в поле terminalType." />
+<ANSWER id="3" value="Ведущим становится оборудование, поместившее большее число в поле statusDeterminationNumber сообщения MasterSlaveDeterminationAck, а при совпадении типов оборудования – большее число в поле terminalType." />
+
+</ROOT>

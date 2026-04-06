@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Основы VLAN " /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Сколько бит в кадре 802.1Q отводится под идентификатор VLAN?" />
+<ANSWER id="0" value="16 бит" />
+<ANSWER id="1" value="&gt; 12 бит" />
+<ANSWER id="2" value="8 бит" />
+<ANSWER id="3" value="все варианты верны" />
+
+</ROOT>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Протокол H.323 " /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Идентификатор TSAP, используемый для адресации в протоколе H.323, -это:" />
+<ANSWER id="0" value="Зарегистрированное имя пользователя" />
+<ANSWER id="1" value="Сетевой адрес " />
+<ANSWER id="2" value="&gt; Транспортный адрес " />
+<ANSWER id="3" value="Универсальный идентификатор ресурсов" />
+
+</ROOT>

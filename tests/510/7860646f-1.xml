@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Фиксированная сеть. Общеканальная сигнализация ОКС №7" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какие подсистемы ОКС №7 используются для переноса сообщений ISUP при установлении телефонного соединения?" />
+<ANSWER id="0" value="IP, TCP, UDP" />
+<ANSWER id="1" value="&gt; MTP1, MTP2, MTP3 " />
+<ANSWER id="2" value="TUP, DUP" />
+
+</ROOT>

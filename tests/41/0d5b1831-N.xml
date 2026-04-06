@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Адресация сообщений SCCP. Маршрутизация. " /><THEME c1="16680295" c2="16777215" c3="0" /><QUESTION value="Глобальный заголовок – это…?" />
+<ANSWER id="0" value="номер DPC" />
+<ANSWER id="1" value="номер пользователской подсистемы " />
+<ANSWER id="2" value="?&gt; сетевой адрес пользователя" />
+<ANSWER id="3" value="информация управления сетевым протоколом" />
+
+</ROOT>

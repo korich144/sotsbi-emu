@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Процедуры аутентификации, обновления зоны местонахождения" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Сколько параметров включает вектор аутентификации в сети стандарта UMTS?" />
+<ANSWER id="0" value="3" />
+<ANSWER id="1" value="&gt; 5" />
+<ANSWER id="2" value="7" />
+<ANSWER id="3" value="9" />
+
+</ROOT>

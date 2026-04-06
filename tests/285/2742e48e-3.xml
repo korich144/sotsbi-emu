@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Процедуры аутентификации, обновления зоны местонахождения" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Сообщение MAP-CANCEL-LOCATION передается между:" />
+<ANSWER id="0" value="VLR и MSC" />
+<ANSWER id="1" value="HLR и VLR " />
+<ANSWER id="2" value="VLR и предыдущим VLR" />
+<ANSWER id="3" value="&gt; HLR и предыдущим VLR " />
+
+</ROOT>

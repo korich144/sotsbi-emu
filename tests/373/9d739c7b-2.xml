@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="LDP                                                                                                           " /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Сколько бит длина у поля Message Length LDP сообщения?" />
+<ANSWER id="0" value="1" />
+<ANSWER id="1" value="4" />
+<ANSWER id="2" value="&gt; 15" />
+<ANSWER id="3" value="31" />
+
+</ROOT>

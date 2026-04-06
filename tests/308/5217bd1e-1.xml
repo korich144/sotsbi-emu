@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Взаимодействие сетей КК с КП" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Архитектура CN какого стандарта радиодоступа, согласно требованиям 3GPP, включает SG?" />
+<ANSWER id="0" value="GSM" />
+<ANSWER id="1" value="&gt; UMTS" />
+<ANSWER id="2" value="LTE" />
+
+</ROOT>

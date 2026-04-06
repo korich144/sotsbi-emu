@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Сеть NGN. IP-телефония" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="На каком уровне стека протоколов UDP/TCP/IP находится протокол SIP?" />
+<ANSWER id="0" value="&gt; прикладном" />
+<ANSWER id="1" value="сетевом" />
+<ANSWER id="2" value="транспортном" />
+
+</ROOT>

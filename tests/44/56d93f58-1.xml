@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Формат сообщений протокола SIP. Запросы и ответы.                                  " /><THEME c1="12438086" c2="15400860" c3="12438086" /><QUESTION value="Какие заголовки запроса изменяются при прохождении запроса через прокси-сервер?" />
+<ANSWER id="0" value="Заголовки Call-ID, From, To" />
+<ANSWER id="1" value="&gt; Заголовки Max-Forwards, Via" />
+<ANSWER id="2" value="Заголовки Content-Type, Content-Length" />
+<ANSWER id="3" value="Заголовки Call-ID, CSeq" />
+
+</ROOT>

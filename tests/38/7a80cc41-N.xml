@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Передача речи по IP-сети. Протокол передачи данных RTP.                            " /><THEME c1="10079385" c2="14745571" c3="10079385" /><QUESTION value="Процедура с установлением соединения и подтверждением называется" />
+<ANSWER id="0" value="LLC" />
+<ANSWER id="1" value="LLC1" />
+<ANSWER id="2" value="?&gt; LLC2" />
+<ANSWER id="3" value="LLC3" />
+
+</ROOT>

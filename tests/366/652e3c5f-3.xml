@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Основы протокола IP " /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Каким максимальным значением TTL (Время жизни) может обладать IP пакет?" />
+<ANSWER id="0" value="128" />
+<ANSWER id="1" value="225" />
+<ANSWER id="2" value="192" />
+<ANSWER id="3" value="&gt; 255" />
+
+</ROOT>

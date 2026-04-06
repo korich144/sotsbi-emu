@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Проверить владение знаниями по формату протокола HTTP" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Где указывается запрашиваемый файл в протоколе HTTP?" />
+<ANSWER id="0" value="В ответе HTTP в заголовке File" />
+<ANSWER id="1" value="&gt; В стартовой строке HTTP запроса" />
+<ANSWER id="2" value="В заголовке URL HTTP запроса, размещенного после стартовой строки" />
+<ANSWER id="3" value="В стартовой строке ответа HTTP" />
+
+</ROOT>

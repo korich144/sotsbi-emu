@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Фиксированная сеть. Общеканальная сигнализация ОКС №7" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какая подсистема может передавать в сигнальный терминал своего SP значение статуса сигнального звена?" />
+<ANSWER id="0" value="&gt; Подсистема передачи сообщений 3 (Message Transfer Part 3)" />
+<ANSWER id="1" value="Подсистема передачи сообщений 2 (Message Transfer Part 2)" />
+<ANSWER id="2" value="Подсистема-пользователь сети с интеграцией служб (ISUP, ISDN User Part)" />
+<ANSWER id="3" value="Прикладная подсистема интеллектуальной сети (INAP, Intelligent Network Application Part)" />
+<ANSWER id="4" value="Подсистема управления сигнальными соединениями (SCCP, Signalling Connection Control Part)" />
+
+</ROOT>

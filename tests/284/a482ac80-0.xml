@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="MAP-user, MAP-provider" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="После приема MAP-ServicePrimitiveName REQ Провайдер MAP инициирует передачу компонентов с помощью примитива:" />
+<ANSWER id="0" value="&gt; TC-INVOKE" />
+<ANSWER id="1" value="TC_BEGIN" />
+
+</ROOT>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Основы протокола IP " /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какое поле IP пакета использует получатель для того, чтобы фрагменты разных дейтаграмм не перемешивались?" />
+<ANSWER id="0" value="&gt; ID" />
+<ANSWER id="1" value="TL" />
+<ANSWER id="2" value="IHL" />
+<ANSWER id="3" value="FL" />
+
+</ROOT>

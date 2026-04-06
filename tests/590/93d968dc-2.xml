@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Проверка знаний основ и архитектуры 5G" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="С помощью какого интерфейса соединены между собой все узлы подсистемы радиодоступа?" />
+<ANSWER id="0" value="NG" />
+<ANSWER id="1" value="NR" />
+<ANSWER id="2" value="&gt; Xn" />
+
+</ROOT>

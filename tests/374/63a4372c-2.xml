@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Основы протокола UDP " /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Чем отличается UDP заголовок от UDP пакета?" />
+<ANSWER id="0" value="ничем не отличаются" />
+<ANSWER id="1" value="UDP заголовок содержит поле данных, а UDP пакет нет" />
+<ANSWER id="2" value="&gt; UDP пакет содержит поле данных, а UDP заголовок нет" />
+
+</ROOT>

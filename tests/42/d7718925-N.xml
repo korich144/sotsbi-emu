@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Обмен сообщениями протокола SIP при осуществлении вызовов и реализации дополнительных услуг.                                                                                                 " /><THEME c1="12438086" c2="15400860" c3="12438086" /><QUESTION value="Какой запрос используется для уведомления элемента сети SIP о том, что событие, информация о котором запрашивалась в запросе SUBSCRIBE, произошло?" />
+<ANSWER id="0" value="?&gt; NOTIFY" />
+<ANSWER id="1" value="INFO" />
+<ANSWER id="2" value="UPDATE" />
+<ANSWER id="3" value="ACK" />
+<ANSWER id="4" value="INVITE" />
+
+</ROOT>

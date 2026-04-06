@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Обмен сообщениями протокола SIP при осуществлении вызовов и реализации дополнительных услуг.                                                                                                 " /><THEME c1="12438086" c2="15400860" c3="12438086" /><QUESTION value="Какой запрос завершает установление соединения?" />
+<ANSWER id="0" value="&gt; ACK" />
+<ANSWER id="1" value="CONNECT" />
+<ANSWER id="2" value="SETUP " />
+<ANSWER id="3" value="INVITE" />
+<ANSWER id="4" value="200 OK" />
+
+</ROOT>

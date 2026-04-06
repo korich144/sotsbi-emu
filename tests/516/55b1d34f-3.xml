@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Мобильная сеть. Стандарт GSM 900/1800 МГц" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какой способ разделения ресурсов используется на радио интерфейсе в стандарте GSM при организации дуплексного разговорного канала?" />
+<ANSWER id="0" value="TDMA" />
+<ANSWER id="1" value="CDMA" />
+<ANSWER id="2" value="FDMA" />
+<ANSWER id="3" value="&gt; TDMA/FDMA" />
+
+</ROOT>

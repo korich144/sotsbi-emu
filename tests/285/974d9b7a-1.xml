@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Процедуры аутентификации, обновления зоны местонахождения" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="С помощью какого запроса MAP VLR инициирует услугу обновления местонахождения?" />
+<ANSWER id="0" value="MAP-UPDATE-LOCATION-AREA " />
+<ANSWER id="1" value="&gt; MAP-UPDATE-LOCATION" />
+
+</ROOT>

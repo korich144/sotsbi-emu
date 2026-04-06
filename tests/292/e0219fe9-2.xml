@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Протокол RAS " /><THEME c1="11523953" c2="14741449" c3="11523953" /><QUESTION value="В каком параметре сообщения RCF (Registration Confirmation) указывается срок годности регистрации?" />
+<ANSWER id="0" value="keepAlive" />
+<ANSWER id="1" value="time" />
+<ANSWER id="2" value="&gt; timeToLive" />
+<ANSWER id="3" value="registrationTime" />
+
+</ROOT>

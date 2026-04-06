@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Параметры сообщений MEGACO " /><THEME c1="4950084" c2="14216152" c3="4950084" /><QUESTION value="Какой параметр Пакета контроля аналоговых абонентских линий указывает, на событие, что абонент положил трубку?" />
+<ANSWER id="0" value="&gt; on, on-hook" />
+<ANSWER id="1" value="off, off-hook" />
+<ANSWER id="2" value="fl, flashhook" />
+<ANSWER id="3" value="другим параметром." />
+
+</ROOT>

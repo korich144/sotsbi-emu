@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Структура и назначения OSPF-пакетов " /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="От чего зависит содержимое тела OSPF-пакета?" />
+<ANSWER id="0" value="от пути следования пакета" />
+<ANSWER id="1" value="от длины пакета" />
+<ANSWER id="2" value="&gt; от типа пакета" />
+
+</ROOT>

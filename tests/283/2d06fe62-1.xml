@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Сеть MAP, идентификаторы, определения, услуги" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Параметр «Номер хэндовера» имеет структуру аналогичную:" />
+<ANSWER id="0" value="IMSI" />
+<ANSWER id="1" value="&gt; MSISDN" />
+<ANSWER id="2" value="IMEI" />
+
+</ROOT>

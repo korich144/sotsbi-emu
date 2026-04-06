@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Проверить владение знаниями по формату протокола HTTP" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="В каком заголовке HTTP ответа указывается название программного обеспечения выполняющего функции web-сервера?" />
+<ANSWER id="0" value="Adress" />
+<ANSWER id="1" value="Host" />
+<ANSWER id="2" value="&gt; Server" />
+<ANSWER id="3" value="Client" />
+<ANSWER id="4" value="User-Agent" />
+<ANSWER id="5" value="Server-Agent" />
+
+</ROOT>

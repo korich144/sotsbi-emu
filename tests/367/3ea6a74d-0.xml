@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Протокол RIP " /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какая аутентификация осуществляется в RIPv2?" />
+<ANSWER id="0" value="&gt; Текстовая и MD5" />
+<ANSWER id="1" value="Только текстовая аутентификация" />
+<ANSWER id="2" value="Только MD5" />
+<ANSWER id="3" value="Многофакторная аутентификация" />
+
+</ROOT>

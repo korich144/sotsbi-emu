@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Основы протокола IP " /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="К какому классу относятся локальные сети (LAN)? Например, SOHO." />
+<ANSWER id="0" value="A" />
+<ANSWER id="1" value="B" />
+<ANSWER id="2" value="&gt; C" />
+<ANSWER id="3" value="D" />
+<ANSWER id="4" value="E" />
+
+</ROOT>

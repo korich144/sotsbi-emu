@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Типы сообщений MEGACO " /><THEME c1="4950084" c2="14216152" c3="4950084" /><QUESTION value="Какие команды протокола MEGACO/H.248 отправлет MGC?" />
+<ANSWER id="0" value="Add(Добавить), Subtract(Отключить), Move(Перевести), AuditValue(Проверить порт)и AuditCapabilities(Проверить возможности порта)" />
+<ANSWER id="1" value="Modify(Изменить) и Subtract(Отключить)" />
+<ANSWER id="2" value="?&gt; Add(Добавить), Subtract(Отключить), Move(Перевести), Modify(Изменить), ServiceChange(Рестарт), AuditValue(Проверить порт)и AuditCapabilities(Проверить возможности порта)" />
+<ANSWER id="3" value="Move(Перевести)" />
+<ANSWER id="4" value="AuditValue(Проверить порт)и AuditCapabilities(Проверить возможности порта)" />
+<ANSWER id="5" value="AuditCapabilities(Проверить возможности порта)" />
+<ANSWER id="6" value="Notify(Уведомить)" />
+<ANSWER id="7" value="ServiceChange(Рестарт)" />
+<ANSWER id="8" value="все ответы неверны" />
+
+</ROOT>

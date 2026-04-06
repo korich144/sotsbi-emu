@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Сценарии обмена сообщениями подсистемы ISUP " /><THEME c1="5496063" c2="11727871" c3="5496063" /><QUESTION value="Какое сообщение передается для повторного подключения абонента к участию в сеансе связи, после его прерывания сообщением Приостановка связи (SUSPEND, SUS)?" />
+<ANSWER id="0" value="&gt; Resume, RES" />
+<ANSWER id="1" value="Suspend, SUS" />
+<ANSWER id="2" value="Connect, CON" />
+<ANSWER id="3" value="Answer, ANM" />
+<ANSWER id="4" value="Ringing send, RNG" />
+
+</ROOT>

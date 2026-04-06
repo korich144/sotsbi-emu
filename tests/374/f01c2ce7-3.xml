@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Основы протокола UDP " /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какой небезопасный протокол передачи файлов использует UDP в качестве транспортного протокола?" />
+<ANSWER id="0" value="DHCP" />
+<ANSWER id="1" value="OSPF" />
+<ANSWER id="2" value="FTP" />
+<ANSWER id="3" value="&gt; TFTP" />
+
+</ROOT>

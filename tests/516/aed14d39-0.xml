@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Мобильная сеть. Стандарт GSM 900/1800 МГц" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Аббревиатура GSM в настоящий момент обозначает:" />
+<ANSWER id="0" value="&gt; Global System for Mobile communication" />
+<ANSWER id="1" value="Groupe Special Mobile" />
+<ANSWER id="2" value="Digital Global System" />
+
+</ROOT>

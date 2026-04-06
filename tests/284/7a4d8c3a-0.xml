@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="MAP-user, MAP-provider" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какой подуровень ТСАР обеспечивает создание, поддержку и прерывание диалога?" />
+<ANSWER id="0" value="&gt; Подуровень транзакций" />
+<ANSWER id="1" value="Подуровень компонентов" />
+
+</ROOT>

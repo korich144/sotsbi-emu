@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="ИКТ - Информационно-коммуникационные технологии. Пост NGN. Интернет вещей (IoT). Протокол MQTT. Проверка основных знаний по протоколу MQTT" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Сколько уровней качества обслуживания QoS поддерживает протокол MQTT?" />
+<ANSWER id="0" value="1" />
+<ANSWER id="1" value="2" />
+<ANSWER id="2" value="&gt; 3" />
+<ANSWER id="3" value="4" />
+<ANSWER id="4" value="Протокол MQTT не поддерживает качество обслуживания QoS" />
+
+</ROOT>

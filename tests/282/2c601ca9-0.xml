@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Стандарт GSM, радиодоступ" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какова скорость передачи речи (Full Rate) обеспечиваемая в стандарте GSM на радио интерфейсе:" />
+<ANSWER id="0" value="&gt; 13 кбит/с" />
+<ANSWER id="1" value="6.5 кбит/с" />
+<ANSWER id="2" value="57 кбит/с" />
+
+</ROOT>

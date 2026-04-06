@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Закрепление знаний по технологии работы услуги доменных имен" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какие протоколы транспортного и сетевого уровней использует DNS?" />
+<ANSWER id="0" value="TCP/IP" />
+<ANSWER id="1" value="&gt; UDP/IP" />
+<ANSWER id="2" value="SCTP/IP" />
+<ANSWER id="3" value="TCP/ATM" />
+<ANSWER id="4" value="UDP/Ethernet" />
+<ANSWER id="5" value="SCTP/TLS" />
+
+</ROOT>

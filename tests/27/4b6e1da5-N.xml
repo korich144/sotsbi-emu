@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Параметры сообщений MEGACO " /><THEME c1="4950084" c2="14216152" c3="4950084" /><QUESTION value="Является ли опциональным дескриптор Statistics протокола MEGACO/H.248?" />
+<ANSWER id="0" value="?&gt; Да, он всегда является опциональным, и может быть передан в ответе на запрос." />
+<ANSWER id="1" value="В некоторых командах он является обязательным (Substract, AuditValue)." />
+<ANSWER id="2" value="Нет, это обязательный дескриптор" />
+
+</ROOT>

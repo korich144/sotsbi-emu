@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Мобильная сеть. Стандарт GSM 900/1800 МГц" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какой элемент домена CS GSM осуществляет взаимодействие мобильной сети с телефонными сетями фиксированной и мобильной связи других Операторов?" />
+<ANSWER id="0" value="MSC" />
+<ANSWER id="1" value="VLR" />
+<ANSWER id="2" value="HLR" />
+<ANSWER id="3" value="EIR, AuC" />
+<ANSWER id="4" value="&gt; GMSC" />
+
+</ROOT>

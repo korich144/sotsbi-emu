@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Взаимодействие сетей КК с КП" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Если VLR и HLR взаимодействуют по сети IP, какой уровень адаптации протокола SIGTRAN в этом случае используется в данных сетевых элементах?" />
+<ANSWER id="0" value="M2UA" />
+<ANSWER id="1" value="&gt; SUA" />
+<ANSWER id="2" value="M3UA" />
+<ANSWER id="3" value="M2PA" />
+
+</ROOT>

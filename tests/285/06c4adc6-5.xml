@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Процедуры аутентификации, обновления зоны местонахождения" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Укажите, какие из этих услуг запрашиваются в рамках реализации процедуры обновления местонахождения?" />
+<ANSWER id="0" value="MAP_UPDATE_LOCATION_AREA, MAP_UPDATE_LOCATION" />
+<ANSWER id="1" value="MAP_CANCEL_LOCATION" />
+<ANSWER id="2" value="MAP_INSERT_SUBSCRIBER_DATA" />
+<ANSWER id="3" value="MAP_SEND_IDENTIFICATION" />
+<ANSWER id="4" value="MAP_AUTHENTICATE" />
+<ANSWER id="5" value="&gt; Все указанные услуги" />
+
+</ROOT>

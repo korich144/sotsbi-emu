@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="MAP-user, MAP-provider" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Как называются информационные единицы, с помощью которых осуществляется  взаимодействие пользователя MAP с провайдером услуг MAP?" />
+<ANSWER id="0" value="&gt; Примитивы" />
+<ANSWER id="1" value="Сообщения" />
+
+</ROOT>

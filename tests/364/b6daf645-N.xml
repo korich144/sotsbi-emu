@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Основы VLAN " /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какой диапазон возможных значений VLAN применяется в стандарте 802.1Q, за вычетом двух зарезервированных?" />
+<ANSWER id="0" value="0 - 1024" />
+<ANSWER id="1" value="0 - 2048" />
+<ANSWER id="2" value="?&gt; 1 - 4094 " />
+<ANSWER id="3" value=" Нет верного ответа" />
+
+</ROOT>

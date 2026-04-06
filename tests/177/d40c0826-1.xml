@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Сетевая безопасность. Сетевые атаки, Firewall. " /><THEME c1="9285627" c2="15266303" c3="9285627" /><QUESTION value="Коммутатор 2-ого уровня для принятия решения о пересылке или маршрутизации анализирует информацию заголовка:" />
+<ANSWER id="0" value="IP пакета." />
+<ANSWER id="1" value="&gt; Кадра Ethernet." />
+<ANSWER id="2" value="Обоих уровней." />
+
+</ROOT>

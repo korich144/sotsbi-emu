@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Сетевая безопасность. Сетевые атаки, Firewall. " /><THEME c1="9285627" c2="15266303" c3="9285627" /><QUESTION value="Какой протокол прикладного уровня позволяет присваивать сетевым элементам IP-адреса в режиме реального времени?" />
+<ANSWER id="0" value="?&gt; DHCP." />
+<ANSWER id="1" value="RARP." />
+<ANSWER id="2" value="ARP." />
+
+</ROOT>

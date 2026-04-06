@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Сканеры безопасности. IPS, IDS. " /><THEME c1="9285627" c2="15266303" c3="9285627" /><QUESTION value="Выберите правильное утверждение:" />
+<ANSWER id="0" value="&gt; Каждая IPS включает в себя модуль IDS." />
+<ANSWER id="1" value="Каждая IDS включает в себя модуль IPS." />
+
+</ROOT>

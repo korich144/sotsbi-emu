@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Общее назначение SCCP. Сервисные примитивы. " /><THEME c1="16680295" c2="16777215" c3="0" /><QUESTION value="При получении какого примитива дублированная подсистема-пользователь SCCP cможет перейти в состояние &quot;вне обслуживания&quot;?" />
+<ANSWER id="0" value="N-COORD, Request" />
+<ANSWER id="1" value="N-COORD, Indication" />
+<ANSWER id="2" value="N-COORD, Response" />
+<ANSWER id="3" value="&gt; N-COORD, Confirm" />
+
+</ROOT>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Передача речи по IP-сети. Протокол передачи данных RTP.                            " /><THEME c1="10079385" c2="14745571" c3="10079385" /><QUESTION value="Какой информационный ответ протокола SIP указывает что местоположение вызываемого пользователя определено?" />
+<ANSWER id="0" value="Trying" />
+<ANSWER id="1" value="?&gt; Ringing" />
+<ANSWER id="2" value="Session Progress" />
+<ANSWER id="3" value="OK" />
+<ANSWER id="4" value="Accepted" />
+
+</ROOT>

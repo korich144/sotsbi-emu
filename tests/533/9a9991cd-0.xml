@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Фиксированная сеть. Процедуры INAP" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какое оборудование обеспечивает взаимодействие двух подсистем ОКС№7 (ISUP и INAP) при выполнении интеллектуальной услуги?" />
+<ANSWER id="0" value="&gt; SSP" />
+<ANSWER id="1" value="SCP" />
+<ANSWER id="2" value="STP" />
+
+</ROOT>

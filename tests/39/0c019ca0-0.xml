@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Общее назначение SCCP. Сервисные примитивы. " /><THEME c1="16680295" c2="16777215" c3="0" /><QUESTION value="С помощью какого примитива подсистема SCCP запрашивает у подсистемы MTP услугу переноса сообщения средствами MTP?" />
+<ANSWER id="0" value="&gt; MTP-TRANSFER, Request" />
+<ANSWER id="1" value="MTP-TRANSFER, Indication" />
+<ANSWER id="2" value="N-DATA, Request" />
+<ANSWER id="3" value="N-DATA, Indication" />
+<ANSWER id="4" value="N-UNITDATA, Request" />
+<ANSWER id="5" value="MTP-RESUME, Indication" />
+
+</ROOT>

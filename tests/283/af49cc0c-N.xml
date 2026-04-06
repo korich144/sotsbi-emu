@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Сеть MAP, идентификаторы, определения, услуги" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Код России в идентификаторе IMSI имеет значение" />
+<ANSWER id="0" value="7" />
+<ANSWER id="1" value="?&gt; 250" />
+<ANSWER id="2" value="256" />
+<ANSWER id="3" value="8" />
+
+</ROOT>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Протокол H.245 " /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Какое сообщение протокола H.245 передает информацию об алгоритмах, используемых для декодирования принимаемой и кодирования передаваемой информации, то есть режимы, в которых оборудование может функционировать?" />
+<ANSWER id="0" value="&gt; TerminalCapabilitySet" />
+<ANSWER id="1" value="MasterSlaveDetermination" />
+<ANSWER id="2" value="RequestMode" />
+<ANSWER id="3" value="TerminalCapabilitySetAck" />
+<ANSWER id="4" value="MasterSlaveDeterminationAck" />
+
+</ROOT>

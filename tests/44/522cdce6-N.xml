@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Формат сообщений протокола SIP. Запросы и ответы.                                  " /><THEME c1="12438086" c2="15400860" c3="12438086" /><QUESTION value="Какие заголовки одинаковы для запроса и ответов на этот запрос?" />
+<ANSWER id="0" value="?&gt; Заголовки Call-ID, CSeq" />
+<ANSWER id="1" value="Заголовки Max-Forwards, Contact " />
+<ANSWER id="2" value="Заголовки Content-Type, Content-Length" />
+<ANSWER id="3" value="Заголовки Allow, Info" />
+
+</ROOT>

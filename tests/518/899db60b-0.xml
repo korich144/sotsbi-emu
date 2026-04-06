@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Мобильная сеть. Процедуры обновления данных" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Если пользователь перемещается в новую соту, принадлежащую новой зоне местонахождения, обслуживаемую тем же MSC, какие данные изменяются в VLR?" />
+<ANSWER id="0" value="&gt; Cell Global ID, LAI, TMSI" />
+<ANSWER id="1" value="Данные не обновляются" />
+<ANSWER id="2" value="Cell Global ID и LAI" />
+<ANSWER id="3" value="LAI" />
+
+</ROOT>

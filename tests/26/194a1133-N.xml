@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Типы сообщений MEGACO " /><THEME c1="4950084" c2="14216152" c3="4950084" /><QUESTION value="Какой минимальный набор типов команд протокола MEGACO/H.248 необходим для обслуживания базового вызова?" />
+<ANSWER id="0" value="Add(Добавить)и Notify(Уведомить)" />
+<ANSWER id="1" value="Modify(Изменить)и Notify(Уведомить)" />
+<ANSWER id="2" value="?&gt; Add(Добавить), Subtract(Отключить) и Notify(Уведомить)" />
+<ANSWER id="3" value="Move(Перевести)и Notify(Уведомить)" />
+<ANSWER id="4" value="Add(Добавить), Subtract(Отключить), Notify(Уведомить)и AuditValue(Проверить порт)" />
+<ANSWER id="5" value="Add(Добавить), Subtract(Отключить), Notify(Уведомить), AuditValue(Проверить порт), AuditCapabilities(Проверить возможности порта), ServiceChange(Рестарт), Modify(Изменить) и Move(Перевести) " />
+<ANSWER id="6" value="Add(Добавить), Subtract(Отключить), Notify(Уведомить) и Modify(Изменить)" />
+<ANSWER id="7" value="Add(Добавить), Subtract(Отключить), Notify(Уведомить), Modify(Изменить) и ServiceChange(Рестарт)" />
+<ANSWER id="8" value="Modify(Изменить), Move(Перевести)и Notify(Уведомить)" />
+
+</ROOT>

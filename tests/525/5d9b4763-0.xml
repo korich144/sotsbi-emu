@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Сеть NGN. Архитектура SoftSwitch" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какие протоколы реализованы в функциональном объекте MG-F (Media Gateway Function)?" />
+<ANSWER id="0" value="&gt; RTP/RTCP, TDM, H.248, MGCP" />
+<ANSWER id="1" value="RTP/RTCP, TDM" />
+<ANSWER id="2" value="RTP/RTCP, TDM, SIP" />
+
+</ROOT>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Протокол H.225 " /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Какое сообщение протокола H.225 используется для активации различных услуг только во время фазы установления соединения?" />
+<ANSWER id="0" value="Alerting" />
+<ANSWER id="1" value="Information" />
+<ANSWER id="2" value="Notify" />
+<ANSWER id="3" value="&gt; Facility" />
+<ANSWER id="4" value="Setup" />
+
+</ROOT>

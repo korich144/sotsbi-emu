@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Сеть передачи данных. Стек TCP/IP" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какое поле служебного заголовка ARP определяет запрос или ответ протокола?" />
+<ANSWER id="0" value="hardware type" />
+<ANSWER id="1" value="protocol type" />
+<ANSWER id="2" value="&gt; operation" />
+<ANSWER id="3" value="sender protocol address" />
+<ANSWER id="4" value="sender hardware address" />
+<ANSWER id="5" value="software type" />
+
+</ROOT>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Основная терминология и принципы работы протокола BGP " /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какое сообщение отправляет BGP-система в состоянии Active, если установлено транспортное соединение?" />
+<ANSWER id="0" value="UPDATE" />
+<ANSWER id="1" value="KEEPALIVE" />
+<ANSWER id="2" value="NOTIFICATION" />
+<ANSWER id="3" value="&gt; OPEN" />
+
+</ROOT>

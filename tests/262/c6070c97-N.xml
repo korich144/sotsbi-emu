@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Уровни модели OSI. " /><THEME c1="0" c2="0" c3="0" /><QUESTION value="На основе какого протокола уже открыто множество частных и корпоративных серверов мгновенного обмена сообщениями, например, такие как Facebook, Google Talk, Одноклассники.ru, QIP, LiveJournal и др.?" />
+<ANSWER id="0" value="TLS" />
+<ANSWER id="1" value="HTTPS" />
+<ANSWER id="2" value="NFS" />
+<ANSWER id="3" value="NTP" />
+<ANSWER id="4" value="?&gt; XMPP" />
+<ANSWER id="5" value="DNS" />
+
+</ROOT>

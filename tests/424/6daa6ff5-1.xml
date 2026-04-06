@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Протокол DHCP" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какое сообщение отправляет DHCP сервер для подтверждения параметров клиента в ответ на сообщение DHCPREQUEST?" />
+<ANSWER id="0" value="DHCPREPLY" />
+<ANSWER id="1" value="&gt; DHCPACK" />
+<ANSWER id="2" value="DHCPANSWER" />
+<ANSWER id="3" value="DHCPRESPONSE" />
+<ANSWER id="4" value="DHCPOFFER" />
+
+</ROOT>

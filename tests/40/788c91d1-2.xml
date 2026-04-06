@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Сообщения подсистемы SCCP и их параметры. " /><THEME c1="16680295" c2="16777215" c3="0" /><QUESTION value="Какое сообщение не относится к сообщениям услуг с созданием виртуального сигнального соединения?" />
+<ANSWER id="0" value="ERR" />
+<ANSWER id="1" value="DT1" />
+<ANSWER id="2" value="&gt; SSA" />
+<ANSWER id="3" value="IT" />
+
+</ROOT>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Основы VLAN " /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="VLAN сети с каким ID считаются сетями расширенного диапазона?" />
+<ANSWER id="0" value="0 - 99" />
+<ANSWER id="1" value="1 - 1005" />
+<ANSWER id="2" value="&gt; 1006 - 4094" />
+<ANSWER id="3" value="1000 - 4095" />
+
+</ROOT>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Администрирование UNIX-подобных систем " /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какой командой можно вывести список файлов, находящихся в текущем каталоге? " />
+<ANSWER id="0" value="list" />
+<ANSWER id="1" value="listfiles" />
+<ANSWER id="2" value="?&gt; ls" />
+<ANSWER id="3" value="listout " />
+
+</ROOT>

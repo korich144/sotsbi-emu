@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Протокол H.323 " /><THEME c1="0" c2="0" c3="0" /><QUESTION value="По какому адресу будет доступен пользователь Иван, если с ним будет устанавливаться непосредственное соединение от другого пользователя в режиме точка-точка  (без участия Привратника)?" />
+<ANSWER id="0" value="?&gt; Ivan@192.168.1.18" />
+<ANSWER id="1" value="Ivan@spbgut.ru" />
+<ANSWER id="2" value="Ivan" />
+<ANSWER id="3" value="2341212@lab.ru" />
+
+</ROOT>

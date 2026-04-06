@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Общее назначение SCCP. Сервисные примитивы. " /><THEME c1="16680295" c2="16777215" c3="0" /><QUESTION value="Какой параметр не относится к адресным параметрам примитива &quot;N-CONNECT&quot;?" />
+<ANSWER id="0" value="&gt; индикатор сети" />
+<ANSWER id="1" value="глобальный заголовок" />
+<ANSWER id="2" value="номер подсистемы ОКС №7" />
+<ANSWER id="3" value="код пункта сигнализации" />
+
+</ROOT>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Протокол DHCP" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какой параметр не может быть настроен с помощью протокола DHCP?" />
+<ANSWER id="0" value="IP-адрес хоста" />
+<ANSWER id="1" value="Имя хоста" />
+<ANSWER id="2" value="&gt; MAC-адрес хоста" />
+<ANSWER id="3" value="Маршрут по умолчанию" />
+<ANSWER id="4" value="IP-адрес DNS-сервера" />
+<ANSWER id="5" value="Могут быть настроены все вышеперечисленнвые параметры" />
+
+</ROOT>

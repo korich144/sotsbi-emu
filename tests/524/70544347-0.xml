@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Сеть NGN. IP-телефония" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="При какой скорости передачи цифрового сигнала обеспечивается самое высокое качество речи?" />
+<ANSWER id="0" value="&gt; 64 кбит/с" />
+<ANSWER id="1" value="24 кбит/с" />
+<ANSWER id="2" value="16 кбит/с" />
+
+</ROOT>

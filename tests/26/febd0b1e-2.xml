@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Типы сообщений MEGACO " /><THEME c1="4950084" c2="14216152" c3="4950084" /><QUESTION value="Какой специальный символ (wildcard) в протоколе MEGACO/H.248 позволяет указать одновременно несколько определенных портов?" />
+<ANSWER id="0" value=" ROOT" />
+<ANSWER id="1" value=" NULL (-)" />
+<ANSWER id="2" value="&gt;  ALL" />
+<ANSWER id="3" value=" CHOOSE ($)" />
+<ANSWER id="4" value=" все ответы не верны" />
+
+</ROOT>

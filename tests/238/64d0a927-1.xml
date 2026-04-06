@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Основы общеканальной сигнализации №7  " /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Какие подсистемы ОКС7 используются на ССОП России для переноса сообщений ISUP? " />
+<ANSWER id="0" value="IP, TCP, UDP" />
+<ANSWER id="1" value="&gt; MTP2, MTP3, SCCP" />
+<ANSWER id="2" value="TUP, DUP" />
+<ANSWER id="3" value="все варианты ответов верны" />
+<ANSWER id="4" value="все варианты ответов НЕ верны" />
+
+</ROOT>

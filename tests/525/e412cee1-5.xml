@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Сеть NGN. Архитектура SoftSwitch" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какие функциональные элементы появляются при декомпозиции шлюза?" />
+<ANSWER id="0" value="MGC" />
+<ANSWER id="1" value="MSC" />
+<ANSWER id="2" value="SG" />
+<ANSWER id="3" value="MGW" />
+<ANSWER id="4" value="HSS" />
+<ANSWER id="5" value="&gt; MGC, SG, MGW" />
+<ANSWER id="6" value="HSS, MGS" />
+<ANSWER id="7" value="SG, MGW" />
+
+</ROOT>

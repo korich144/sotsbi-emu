@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="MAP-user, MAP-provider" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="После приема примитива какой общей услуги, процесс MAP_DSM инициирует диалог TCAP, отправив примитив-запрос TC_BEGIN?" />
+<ANSWER id="0" value="MAP-DELIMITER " />
+<ANSWER id="1" value="MAP-CLOSE" />
+<ANSWER id="2" value="?&gt; MAP-NOTICE" />
+
+</ROOT>

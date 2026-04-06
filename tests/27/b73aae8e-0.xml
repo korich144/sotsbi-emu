@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Параметры сообщений MEGACO " /><THEME c1="4950084" c2="14216152" c3="4950084" /><QUESTION value="Какие характеристики окончания определяет дескриптор TerminationState?" />
+<ANSWER id="0" value="&gt; Свойства окончания ServiceStates, EventBufferControl, а так же определенные в Пакетах, не зависящие от информационного потока" />
+<ANSWER id="1" value="Свойства определяющее режим работы окончания Mode, параметры резервирования Reserve Group и Reserve Value, и другие определяемые в пакетах свойства окончания." />
+<ANSWER id="2" value="Параметры определяющие процедуру Reason, тип смены обслуживания Method и другие." />
+
+</ROOT>

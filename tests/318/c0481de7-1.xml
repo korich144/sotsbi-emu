@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Формат сообщения протокола RADIUS" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="В чем указывается значение поля Length различных атрибутов?" />
+<ANSWER id="0" value="В октетах" />
+<ANSWER id="1" value="&gt; В битах" />
+<ANSWER id="2" value="В бодах" />
+<ANSWER id="3" value="В количествах полей" />
+<ANSWER id="4" value="Во внутренних единицах измерения протокола RADIUS" />
+
+</ROOT>

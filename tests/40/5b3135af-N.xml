@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Сообщения подсистемы SCCP и их параметры. " /><THEME c1="16680295" c2="16777215" c3="0" /><QUESTION value="С помощью какого параметра подсистема SCCP может организовывать приоритетное обслуживание сообщений?" />
+<ANSWER id="0" value="?&gt; значимость &quot;importance&quot;" />
+<ANSWER id="1" value="класс протокола &quot;protocol class&quot;" />
+<ANSWER id="2" value="счетчик переприемов &quot;hop counter&quot;" />
+<ANSWER id="3" value="порядковый номер на приеме &quot;receive sequence number&quot;" />
+<ANSWER id="4" value="уровень перегрузки SCCP &quot;congestion level&quot;" />
+
+</ROOT>

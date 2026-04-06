@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Процедура хэндовера" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какое оборудование принимает решение о необходимости хэндовера?" />
+<ANSWER id="0" value="MS" />
+<ANSWER id="1" value="&gt; BSC (RNC)" />
+<ANSWER id="2" value="MSC" />
+
+</ROOT>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Протокол H.323 " /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Какие основные стандарты кодирования аудио и видео информации должны обязательно поддерживать Терминалы H.323?" />
+<ANSWER id="0" value="G.711, H.225, H.245" />
+<ANSWER id="1" value="&gt; G.711, H.261, H.263" />
+<ANSWER id="2" value="G.711, G.723, H.261" />
+<ANSWER id="3" value="H.225, H.245, H.261, H.263" />
+<ANSWER id="4" value="G.711, G.723, G.728, G.729, H.261, H.263" />
+
+</ROOT>

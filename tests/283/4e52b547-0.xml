@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Сеть MAP, идентификаторы, определения, услуги" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Где вычисляются параметры аутентификации?" />
+<ANSWER id="0" value="&gt; В AuC, в SIM карте пользователя " />
+<ANSWER id="1" value="В HLR, VLR, MSC" />
+
+</ROOT>

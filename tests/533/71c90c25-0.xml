@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Фиксированная сеть. Процедуры INAP" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какая подсистема ОКС №7 используется при взаимодействии SP пользователя, обращающегося к интеллектуальной услуге, с узлом коммутации услуг?" />
+<ANSWER id="0" value="&gt; ISUP" />
+<ANSWER id="1" value="INAP" />
+<ANSWER id="2" value="SCCP" />
+
+</ROOT>

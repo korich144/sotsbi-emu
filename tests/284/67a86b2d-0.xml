@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="MAP-user, MAP-provider" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какой из указанных ниже примитивов относится к подуровню компонентов ТСАР?" />
+<ANSWER id="0" value="&gt; TC-INVOKE" />
+<ANSWER id="1" value="TC_BEGIN" />
+<ANSWER id="2" value="TC-СONTINUE" />
+<ANSWER id="3" value="TC-END" />
+
+</ROOT>

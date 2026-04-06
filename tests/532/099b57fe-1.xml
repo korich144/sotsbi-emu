@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Фиксированная сеть. Процедуры ISUP" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="В каком поле сигнальной единицы содержится код сообщения ISUP?" />
+<ANSWER id="0" value="Байт служебной информации (SIO)" />
+<ANSWER id="1" value="&gt; Поле сигнальной информации (SIF)" />
+<ANSWER id="2" value="Поле выбора сигнального звена (SLS)" />
+<ANSWER id="3" value="Код идентификации канала (CIC)" />
+
+</ROOT>

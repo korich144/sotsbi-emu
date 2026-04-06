@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Фиксированная сеть. Общеканальная сигнализация ОКС №7" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какие поля сигнальной единицы MSU формируются в MTP2 (сигнальном терминале)?" />
+<ANSWER id="0" value="SIO" />
+<ANSWER id="1" value="SIF" />
+<ANSWER id="2" value="&gt; LI, FIB, FSN, CK, F" />
+
+</ROOT>

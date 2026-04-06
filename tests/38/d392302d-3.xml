@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Передача речи по IP-сети. Протокол передачи данных RTP.                            " /><THEME c1="10079385" c2="14745571" c3="10079385" /><QUESTION value="В протоколе SIP стартовой строкой ответа является?" />
+<ANSWER id="0" value="Answer Line" />
+<ANSWER id="1" value="Error Line" />
+<ANSWER id="2" value="Request Line" />
+<ANSWER id="3" value="&gt; Status-Line" />
+
+</ROOT>

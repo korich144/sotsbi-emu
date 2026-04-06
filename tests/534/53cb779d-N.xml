@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Сеть передачи данных. Служебные протоколы. Сервисы" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какая команда протокола SMTP передает текст письма электронной почты?" />
+<ANSWER id="0" value="EHLO" />
+<ANSWER id="1" value="MAIL" />
+<ANSWER id="2" value="HELO" />
+<ANSWER id="3" value="RCPT" />
+<ANSWER id="4" value="?&gt; DATA" />
+<ANSWER id="5" value="QUIT" />
+
+</ROOT>

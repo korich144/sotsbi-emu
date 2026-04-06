@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Мобильная сеть. Протоколы домена CS" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Для доставки сигнальной информации между пунктами сигнализации PLMN подсистема ISUP всегда пользуется услугами:" />
+<ANSWER id="0" value="&gt; MTP" />
+<ANSWER id="1" value="SCCP" />
+<ANSWER id="2" value="TCAP" />
+
+</ROOT>

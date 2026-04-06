@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Сеть NGN. Архитектура SoftSwitch" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какие протоколы реализованы в функциональном объекте SG-F (SignalingGateway Function)?" />
+<ANSWER id="0" value="&gt; SIGTRAN (TUA, SUA, M2UA, M3UA over SCTP)" />
+<ANSWER id="1" value="RADIUS" />
+<ANSWER id="2" value="SIP, H.248, MGCP" />
+
+</ROOT>

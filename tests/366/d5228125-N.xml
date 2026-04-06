@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT><TARGET value="Основы протокола IP " /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какая маска подсети не может использоваться?" />
+<ANSWER id="0" value="?&gt; 255.255.231.0" />
+<ANSWER id="1" value="255.248.0.0" />
+<ANSWER id="2" value="240.0.0.0" />
+<ANSWER id="3" value="255.255.255.224" />
+
+</ROOT>
