@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?><ROOT type="lab"><QUESTION txt="В дистрибутивах Ubuntu Linux и Debian Linux применяется подсистема управления пакетами apt (advanced packaging tool). Она  служит для установки, обновления и удаления пакетов с ПО. Для настройки пакетов применяются утилиты dpkg и dpkg-reconfigure. Расставьте команды соответственно осуществляемым ими действиям." />
+<M txt="Утилиты" w="100">
+  <B txt="apt-get" w="86" label="apt-get" id="1"/>
+  <B txt="apt-cache" w="86" label="apt-cache" id="2"/>
+  <B txt="dpkg" w="86" label="dpkg" id="3"/>
+  <B txt="dpkg-reconfigure" w="140" label="dpkg-reconfigure" id="4"/>
+</M>
+<M txt="Команды и параметры" w="100">
+  <B txt="gencaches" w="80" label="gencaches" id="5"/>
+  <B txt="install" w="80" label="install" id="6"/>
+  <B txt="remove" w="80" label="remove" id="7"/>
+  <B txt="search" w="80" label="search" id="8"/>
+  <B txt="showpkg" w="80" label="showpkg" id="9"/>
+  <B txt="update" w="80" label="update" id="10"/>
+  <B txt="-i" w="60" label="-i" id="11"/>
+  <B txt="-f" w="60" label="-f" id="12"/>
+  <B txt="-l" w="60" label="-l" id="13"/>
+  <B txt="-s" w="60" label="-s" id="14"/>
+</M>
+<BLOCKS>
+  <BLOCK txt="" x="41.5" y="125.3" w="64" h="17.4" c="13684944"/>
+  <BLOCK txt="" x="110" y="125.3" w="64" h="17.4" c="13684944"/>
+  <BLOCK txt="" x="41.5" y="145.8" w="64" h="17.4" c="13684944"/>
+  <BLOCK txt="" x="110" y="145.8" w="64" h="17.4" c="13684944"/>
+  <BLOCK txt="" x="41.5" y="168.3" w="64" h="17.4" c="13684944"/>
+  <BLOCK txt="" x="110" y="168.3" w="64" h="17.4" c="13684944"/>
+  <BLOCK txt="" x="41.5" y="189.3" w="64" h="17.4" c="13684944"/>
+  <BLOCK txt="" x="110" y="189.3" w="64" h="17.4" c="13684944"/>
+  <BLOCK txt="" x="41.5" y="210.8" w="64" h="17.4" c="13684944"/>
+  <BLOCK txt="" x="110" y="210.8" w="64" h="17.4" c="13684944"/>
+  <BLOCK txt="" x="41.5" y="253.3" w="64" h="17.4" c="13684944"/>
+  <BLOCK txt="" x="110" y="253.3" w="64" h="17.4" c="13684944"/>
+  <BLOCK txt="" x="4.5" y="274.4" w="64" h="17.4" c="13684944"/>
+  <BLOCK txt="" x="70" y="274.4" w="34" h="17.4" c="13684944"/>
+  <BLOCK txt="" x="110" y="274.4" w="64" h="17.4" c="13684944"/>
+  <BLOCK txt="" x="41.5" y="296.4" w="64" h="17.4" c="13684944"/>
+  <BLOCK txt="" x="110" y="296.4" w="64" h="17.4" c="13684944"/>
+  <BLOCK txt="" x="41.5" y="318.4" w="64" h="17.4" c="13684944"/>
+  <BLOCK txt="" x="110" y="318.4" w="64" h="17.4" c="13684944"/>
+  <BLOCK txt="" x="40" y="339" w="134.15" h="18" c="13684944"/>
+  <BLOCK txt="" x="4.5" y="360.4" w="64" h="17.4" c="13684944"/>
+  <BLOCK txt="" x="70" y="360.4" w="34" h="17.4" c="13684944"/>
+  <BLOCK txt="" x="110" y="360.4" w="64" h="17.4" c="13684944"/>
+</BLOCKS>
+<LINES y="10" x1="210" x2="430" x3="800"/>
+<TRYS txt="0/5" /><CORNER txt="1.2" />
+<TASK t_id="5607" play="no" />
+<THEME c1="0" c2="0" c3="0" />
+</ROOT>

@@ -293,6 +293,33 @@ class EmulatorHandler(BaseHTTPRequestHandler):
             except Exception as e:
                 self.send_error(500, f'Server error: {e}')
             return
+        if parsed.path == '/getBgd.php':
+            t_id_list = query_params.get('t_id', [])
+            if not t_id_list:
+                self.send_error(400, 'Missing "t_id" parameter')
+                return
+            filename = t_id_list[0]
+
+            safe_filename = os.path.basename(filename)
+            filepath = os.path.join('files', safe_filename)
+
+            try:
+                with open(filepath, 'rb') as f:
+                    content = f.read()
+                if filepath.endswith('.txt'):
+                    content_type = 'text/plain; charset=utf-8'
+                else:
+                    content_type = 'application/octet-stream'
+                self.send_response(200)
+                self.send_header('Content-Type', content_type)
+                self.send_header('Content-Length', str(len(content)))
+                self.end_headers()
+                self.wfile.write(content)
+            except FileNotFoundError:
+                self.send_error(404, f'File {filename} not found in files/')
+            except Exception as e:
+                self.send_error(500, f'Server error: {e}')
+            return
         elif parsed.path == '/lang.php':
             content = 'ru'.encode('utf-8')
             self.send_response(200)
@@ -625,7 +652,7 @@ class EmulatorHandler(BaseHTTPRequestHandler):
             # Compare user answer with correct answer
             if user_answer == correct_answer_str:
                 # Correct answer
-                result_value = "correct"
+                result_value = "correct_answer"
                 # Move to next question
                 next_q = current_q + 1
                 user_data[w_id] = next_q

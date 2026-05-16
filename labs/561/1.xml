@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" ?><ROOT type="lab"><QUESTION txt="Работа на знание базовых консольных команд *nix. Расставьте команды соответственно осуществляемым ими действиям." />
+<M txt="Команды A - H" w="110">
+  <B txt="cat" w="80" label="cat" id="1"/>
+  <B txt="cd" w="80" label="cd" id="2"/>
+  <B txt="cp" w="80" label="cp" id="3"/>
+  <B txt="date" w="80" label="date" id="4"/>
+  <B txt="df" w="80" label="df" id="5"/>
+  <B txt="du" w="80" label="du" id="6"/>
+  <B txt="finger" w="80" label="finger" id="7"/>
+  <B txt="free" w="80" label="free" id="8"/>
+  <B txt="head" w="80" label="head" id="9"/>
+</M>
+<M txt="Команды I - P" w="110">
+  <B txt="kill" w="80" label="kill" id="10"/>
+  <B txt="killall" w="80" label="killall" id="11"/>
+  <B txt="ln" w="80" label="ln" id="12"/>
+  <B txt="ls" w="80" label="ls" id="13"/>
+  <B txt="man" w="80" label="man" id="14"/>
+  <B txt="mkdir" w="80" label="mkdir" id="15"/>
+  <B txt="more" w="80" label="more" id="16"/>
+  <B txt="mv" w="80" label="mv" id="17"/>
+  <B txt="ps" w="80" label="ps" id="18"/>
+  <B txt="pwd" w="80" label="pwd" id="19"/>
+</M>
+<M txt="Команды Q - Z" w="110">
+  <B txt="rm" w="80" label="rm" id="20"/>
+  <B txt="tail" w="80" label="tail" id="21"/>
+  <B txt="top" w="80" label="top" id="22"/>
+  <B txt="touch" w="80" label="touch" id="23"/>
+  <B txt="uname" w="80" label="uname" id="24"/>
+  <B txt="uptime" w="80" label="uptime" id="25"/>
+  <B txt="w" w="80" label="w" id="26"/>
+  <B txt="whereis" w="80" label="whereis" id="27"/>
+  <B txt="which" w="80" label="which" id="28"/>
+  <B txt="whoami" w="80" label="whoami" id="29"/>
+</M>
+<BLOCKS>
+  <BLOCK txt="" x="68" y="6.8" w="60" h="15.3" c="13684944"/>
+  <BLOCK txt="" x="68" y="20.9" w="60" h="15.3" c="13684944"/>
+  <BLOCK txt="" x="68" y="34.9" w="60" h="15.3" c="13684944"/>
+  <BLOCK txt="" x="68" y="49" w="60" h="15.3" c="13684944"/>
+  <BLOCK txt="" x="68" y="63.4" w="60" h="15.3" c="13684944"/>
+  <BLOCK txt="" x="68" y="78.2" w="60" h="15.3" c="13684944"/>
+  <BLOCK txt="" x="68" y="92.3" w="60" h="15.3" c="13684944"/>
+  <BLOCK txt="" x="68" y="106.6" w="60" h="15.3" c="13684944"/>
+  <BLOCK txt="" x="68" y="121" w="60" h="15.3" c="13684944"/>
+  <BLOCK txt="" x="68" y="134.7" w="60" h="15.3" c="13684944"/>
+  <BLOCK txt="" x="68" y="149.1" w="60" h="15.3" c="13684944"/>
+  <BLOCK txt="" x="68" y="163.4" w="60" h="15.3" c="13684944"/>
+  <BLOCK txt="" x="68" y="178.1" w="60" h="15.3" c="13684944"/>
+  <BLOCK txt="" x="68" y="192.2" w="60" h="15.3" c="13684944"/>
+  <BLOCK txt="" x="68" y="206.9" w="60" h="15.3" c="13684944"/>
+  <BLOCK txt="" x="68" y="220.6" w="60" h="15.3" c="13684944"/>
+  <BLOCK txt="" x="68" y="234.9" w="60" h="15.3" c="13684944"/>
+  <BLOCK txt="" x="68" y="248.7" w="60" h="15.3" c="13684944"/>
+  <BLOCK txt="" x="68" y="263.1" w="60" h="15.3" c="13684944"/>
+  <BLOCK txt="" x="68" y="277.2" w="60" h="15.3" c="13684944"/>
+  <BLOCK txt="" x="68" y="291.3" w="60" h="15.3" c="13684944"/>
+  <BLOCK txt="" x="68" y="306" w="60" h="15.3" c="13684944"/>
+  <BLOCK txt="" x="68" y="320.3" w="60" h="15.3" c="13684944"/>
+  <BLOCK txt="" x="68" y="334.6" w="60" h="15.3" c="13684944"/>
+  <BLOCK txt="" x="68" y="349" w="60" h="15.3" c="13684944"/>
+  <BLOCK txt="" x="68" y="363.1" w="60" h="15.3" c="13684944"/>
+  <BLOCK txt="" x="68" y="391.5" w="60" h="15.3" c="13684944"/>
+  <BLOCK txt="" x="68" y="406.2" w="60" h="15.3" c="13684944"/>
+  <BLOCK txt="" x="68" y="419.9" w="60" h="15.3" c="13684944"/>
+  <BLOCK txt="" x="68" y="434.6" w="60" h="15.3" c="13684944"/>
+  <BLOCK txt="" x="68" y="449.2" w="60" h="15.3" c="13684944"/>
+  <BLOCK txt="" x="68" y="462.9" w="60" h="15.3" c="13684944"/>
+  <BLOCK txt="" x="68" y="477.3" w="60" h="15.3" c="13684944"/>
+</BLOCKS>
+<LINES y="10" x1="210" x2="430" x3="800"/>
+<TRYS txt="0/5" /><CORNER txt="1.1" />
+<TASK t_id="5606" play="no" />
+<THEME c1="0" c2="0" c3="0" />
+</ROOT>

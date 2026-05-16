@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?><ROOT type="lab"><QUESTION txt="Для выполнения задания заполните поля авторизации на маршрутизаторе, чтобы получить доступ для его дальнейшей настройки. Предварительно маршрутизатор был сброшен на заводские настройки." />
+<M txt="Авторизация" w="130">
+  <B txt="login" w="150" label="login" id="1"/>
+  <B txt="admin" w="150" label="admin" id="2"/>
+  <B txt="student" w="150" label="student" id="3"/>
+  <B txt="password" w="150" label="password" id="4"/>
+  <B txt="test" w="150" label="test" id="5"/>
+</M>
+<BLOCKS>
+  <BLOCK txt="" x="265" y="159" w="150" h="20" c="16777215"/>
+  <BLOCK txt="" x="265" y="186" w="150" h="20" c="16777215"/>
+</BLOCKS>
+<LINES y="10" x1="14.25" x2="640.75" x3="800"/>
+<TRYS txt="0/5" /><CORNER txt="1.3" />
+<TASK t_id="5610" play="no" />
+<THEME c1="0" c2="0" c3="0" />
+</ROOT>

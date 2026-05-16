@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?><ROOT type="lab"><QUESTION txt="Задайте значения полей сооб..."/>
+<M txt="Тип" w="140">
+<B txt="0:Echo reply" w="105" label="Echo reply" id="2"/>
+<B txt="3:Destination unreachable" w="105" label="Destination unreachable" id="3"/>
+<B txt="4:Source quench" w="105" label="Source quench" id="7"/>
+<B txt="5:Redirect" w="105" label="Redirect" id="12"/>
+<B txt="8:Echo request" w="105" label="Echo request" id="4"/>
+<B txt="10:Router solicitation" w="105" label="Router solicitation" id="14"/>
+<B txt="11:Time exceeded" w="105" label="Time exceeded" id="26"/>
+<B txt="12:Parameter problem" w="105" label="Parameter problem" id="21"/>
+<B txt="13:Timestamp request" w="105" label="Timestamp request" id="27"/>
+<B txt="14:Timestamp reply" w="105" label="Timestamp reply" id="28"/>
+</M>
+<M txt="Код" w="140">
+<B txt="0" w="100" label="0" id="8"/>
+<B txt="1" w="100" label="1" id="16"/>
+<B txt="2" w="100" label="2" id="15"/>
+<B txt="3" w="100" label="3" id="9"/>
+<B txt="4" w="100" label="4" id="10"/>
+<B txt="5" w="100" label="5" id="11"/>
+</M>
+<M txt="Порядковый номер" w="140">
+<B txt="0" w="100" label="0" id="5"/>
+<B txt="1" w="100" label="1" id="13"/>
+<B txt="2" w="100" label="2" id="17"/>
+<B txt="3" w="100" label="3" id="20"/>
+<B txt="4" w="100" label="4" id="19"/>
+<B txt="5" w="100" label="5" id="18"/>
+</M>
+<M txt="Идентификатор" w="140">
+<B txt="37946" w="100" label="37946" id="6"/>
+<B txt="37594" w="100" label="37594" id="25"/>
+<B txt="45691" w="100" label="45691" id="24"/>
+<B txt="72145" w="100" label="72145" id="23"/>
+<B txt="27214" w="100" label="27214" id="22"/>
+</M>
+<BLOCKS>
+<BLOCK txt="Type" x="62" y="123" w="120" h="25" c="14404838" brdr="0"/>
+<BLOCK txt="Code" x="195.75" y="123" w="120" h="25" c="14404838" brdr="0"/>
+<BLOCK txt="Identifier" x="70" y="163" w="240" h="25" c="14404838" brdr="0"/>
+<BLOCK txt="Sequence Number" x="341" y="163" w="240" h="25" c="14404838" brdr="0"/>
+</BLOCKS>
+<LINES y="0" x1="0" x2="0" x3="0"/>
+<TRYS txt="0/5" /><CORNER txt="1.2" />
+<FON f_id="1424" play="no" />
+<THEME c1="0" c2="0" c3="0" />
+</ROOT>
