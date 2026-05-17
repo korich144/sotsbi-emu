@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?><ROOT type="lab"><QUESTION txt="Постройте MSC-сценарий передачи клиентом 4096 байт сегментами размером в 1 кБ с применением механизма скользящего окна, таким образом, чтобы потребовалось одно подтверждение, изменяющее размер окна до 2 кБ. При условии, что TCP-соединение уже установлено." />
+<M txt="От Клиента" w="100" icon="a12">
+  <M txt="SYN" w="80" icon="a12">
+    <A txt="SYN (c-seq=1)" w="120" id="9" label="SYN (c-seq=1)" mc="a12" icon="a12"/>
+  </M>
+  <M txt="ACK" w="80" icon="a12">
+    <A txt="ACK (s-seq=2)" w="120" id="10" label="ACK (s-seq=2)" mc="a12" icon="a12"/>
+  </M>
+  <M txt="DATA" w="80" icon="a12">
+    <A txt="DATA (len=1024, win=1024)" w="150" id="13" label="DATA (len=1024, win=1024)" mc="a12" icon="a12"/>
+    <A txt="DATA (len=512)" w="150" id="14" label="DATA (len=512)" mc="a12" icon="a12"/>
+    <A txt="DATA (len=1024, win=4096)" w="150" id="7" label="DATA (len=1024, win=4096)" mc="a12" icon="a12"/>
+  </M>
+</M>
+<M txt="От Сервера" w="100" icon="a21">
+  <M txt="ACK" w="110" icon="a21">
+    <A txt="ACK (c-seq=513)" w="160" id="5" label="ACK (c-seq=513)" mc="a21" icon="a21"/>
+    <A txt="ACK (c-seq=1025)" w="160" id="6" label="ACK (c-seq=1025)" mc="a21" icon="a21"/>
+    <A txt="ACK (c-seq=1)" w="160" id="8" label="ACK (c-seq=1)" mc="a21" icon="a21"/>
+    <A txt="ACK (c-seq=4097, win=2048)" w="160" id="11" label="ACK (c-seq=4097, win=2048)" mc="a21" icon="a21"/>
+    <A txt="ACK (c-seq=4096, win=1024)" w="160" id="12" label="ACK (c-seq=4096, win=1024)" mc="a21" icon="a21"/>
+  </M>
+  <A txt="SYN (s-seq=1), ACK (c-seq=1)" w="110" id="19" label="SYN (s-seq=1), ACK (c-seq=1)" mc="a21" icon="a21"/>
+</M>
+<BLOCKS/>
+<LINES y="135.9" x1="151.15" x2="498.55" x3="576.25"/>
+<TRYS txt="0/5" /><CORNER txt="1.7" />
+<TASK t_id="5651" play="no" />
+<THEME c1="0" c2="0" c3="0" />
+</ROOT>

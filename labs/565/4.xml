@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?><ROOT type="lab"><QUESTION txt="По приведенному фрагменту сообщения определить код ответа HTTP, используемый web-сервер, дату создания сообщения и изменения данных, тип данных, используемый способ кодирования и длину тела сообщения в битах. Заполнить соответствующие поля." />
+<M txt="Код ответа" w="100">
+  <B txt="100" w="90" label="100 Continue" id="3"/>
+  <B txt="102" w="90" label="102 Processing" id="26"/>
+  <B txt="200" w="90" label="200 OK" id="4"/>
+  <B txt="201" w="90" label="201 Created" id="5"/>
+  <B txt="204" w="90" label="204 No content" id="25"/>
+  <B txt="300" w="90" label="300 Multiple choices" id="24"/>
+  <B txt="304" w="90" label="Found" id="23"/>
+  <B txt="404" w="90" label="Not found" id="22"/>
+  <B txt="423" w="90" label="Locked" id="21"/>
+</M>
+<M txt="Дата" w="100">
+  <B txt="27.04.2015 15:37:30" w="90" label="27 Apr 2015" id="6"/>
+  <B txt="27.05.2015 15:37:31" w="90" label="27 May 2015" id="7"/>
+  <B txt="27.04.2015 15:37:31" w="90" label="27 Apr 2015" id="8"/>
+</M>
+<M txt="Web-сервер" w="100">
+  <B txt="apache" w="90" label="apache" id="10"/>
+  <B txt="nginx" w="90" label="nginx" id="11"/>
+  <B txt="iis" w="90" label="iis" id="27"/>
+</M>
+<M txt="Длина" w="100">
+  <B txt="3791 бит" w="90" label="3791 (бит)" id="12"/>
+  <B txt="512 бит" w="90" label="9787 (бит)" id="13"/>
+  <B txt="1024 бита" w="90" label="1024 (бита)" id="29"/>
+  <B txt="3 704 бита" w="90" label="3 704 (бита)" id="30"/>
+  <B txt="4 728 бит" w="90" label="4 728 (бит)" id="31"/>
+  <B txt="20 088 бит" w="90" label="20 088 (бит)" id="28"/>
+  <B txt="30 328 бит" w="90" label="30 328 (бит)" id="32"/>
+</M>
+<M txt="Типы данных" w="100">
+  <B txt="applpication/xhtml" w="130" label="applpication/xhtml" id="15"/>
+  <B txt="applpication/xml" w="130" label="applpication/xml" id="17"/>
+  <B txt="text/html" w="130" label="text/html" id="18"/>
+</M>
+<M txt="Способ кодирования" w="100">
+  <B txt="deflate" w="90" label="deflate" id="16"/>
+  <B txt="gzip" w="90" label="gzip" id="19"/>
+  <B txt="sdch" w="90" label="sdch" id="20"/>
+</M>
+<BLOCKS>
+  <BLOCK txt=" " x="291" y="280" w="200" h="26" c="13145578"/>
+  <BLOCK txt=" " x="291" y="306" w="200" h="27" c="13145578"/>
+  <BLOCK txt=" " x="291" y="333" w="200" h="27" c="13145578"/>
+  <BLOCK txt=" " x="291" y="360" w="200" h="27" c="13145578"/>
+  <BLOCK txt=" " x="291" y="387" w="200" h="27" c="13145578"/>
+  <BLOCK txt=" " x="291" y="414" w="200" h="27" c="13145578"/>
+  <BLOCK txt=" " x="291" y="441" w="200" h="28" c="13145578"/>
+</BLOCKS>
+<LINES y="0" x1="621" x2="629.9" x3="637"/>
+<TRYS txt="0/5" /><CORNER txt="1.4" />
+<TASK t_id="5640" play="no" />
+<THEME c1="0" c2="0" c3="0" />
+</ROOT>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?><ROOT type="lab"><QUESTION txt="Сформируйте общий формат запроса HTTP." />
+<M txt="Стартовая строка" w="100">
+  <B txt="Метод (Method)" w="100" label="Метод (Method)" id="2"/>
+  <B txt="Request-URL" w="100" label="Request-URL" id="3"/>
+  <B txt="Пробел" w="100" label="Пробел" id="1"/>
+  <B txt="Версия протокола  (Version)" w="100" label="Версия протокола (Version)" id="4"/>
+  <B txt="CRLF" w="100" label="CRLF" id="5"/>
+</M>
+<BLOCKS>
+  <BLOCK txt="" x="91" y="215" w="90" h="40" c="13145578"/>
+  <BLOCK txt="" x="181" y="215" w="90" h="40" c="13145578"/>
+  <BLOCK txt="" x="271" y="215" w="90" h="40" c="13145578"/>
+  <BLOCK txt="" x="361" y="215" w="90" h="40" c="13145578"/>
+  <BLOCK txt="" x="451" y="215" w="90" h="40" c="13145578"/>
+  <BLOCK txt="" x="541" y="215" w="90" h="40" c="13145578"/>
+</BLOCKS>
+<LINES y="0" x1="99.45" x2="275.1" x3="449.95"/>
+<TRYS txt="0/3" /><CORNER txt="1.1" />
+<TASK t_id="5637" play="no" />
+<THEME c1="0" c2="0" c3="0" />
+</ROOT>

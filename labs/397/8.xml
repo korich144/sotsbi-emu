@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?><ROOT type="lab"><QUESTION txt="Укажите тип кадра Ethernet, используемого для передачи данных протокола STP (Spanning Tree Protocol) размером 35 байт." />
+<M txt="Стандарт" w="100">
+  <B txt="802.1" w="60" label="802.1" id="2"/>
+  <B txt="802.3" w="60" label="802.3" id="3"/>
+  <B txt="802.4" w="60" label="802.4" id="4"/>
+  <B txt="802.6" w="60" label="802.6" id="5"/>
+</M>
+<M txt="Тип/Длина" w="100">
+  <B txt="00 25" w="60" label="00 25" id="7"/>
+  <B txt="00 26" w="60" label="00 26" id="8"/>
+  <B txt="00 28" w="60" label="00 28" id="9"/>
+  <B txt="00 30" w="60" label="00 30" id="10"/>
+</M>
+<M txt="Протоколы" w="100">
+  <B txt="Address Resolution Protocol" w="140" label="ARP" id="6"/>
+  <B txt="Internet Protocol" w="140" label="IP" id="12"/>
+  <B txt="Spaning Tree Protocol" w="140" label="STP" id="13"/>
+</M>
+<BLOCKS>
+  <BLOCK txt="IEEE" x="37.25" y="111.05" w="100" h="28" c="14404838" brdr="0"/>
+  <BLOCK txt="Т/L" x="298.1" y="195" w="48" h="50" c="14404838" brdr="0"/>
+  <BLOCK txt="Protocol" x="439" y="194.35" w="90" h="50" c="14404838" brdr="0"/>
+</BLOCKS>
+<LINES y="0" x1="13.85" x2="628.25" x3="638.8"/>
+<TRYS txt="0/5" /><CORNER txt="1.8" />
+<TASK t_id="4285" play="no" />
+<THEME c1="0" c2="0" c3="0" />
+</ROOT>

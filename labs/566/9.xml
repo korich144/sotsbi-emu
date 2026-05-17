@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?><ROOT type="lab"><QUESTION txt="Постройте MSC-сценарий закрытия TCP-соединения, которое инициируется сервером и осуществляется в два этапа. Порядковый номер FIN равен единице." />
+<M txt="От Клиента" w="100" icon="a12">
+  <M txt="SYN" w="80" icon="a12">
+    <A txt="SYN (c-seq=1)" w="120" id="9" label="SYN (c-seq=1)" mc="a12" icon="a12"/>
+  </M>
+  <M txt="FIN" w="80" icon="a12">
+    <A txt="FIN (c-seq=1)" w="120" id="20" label="FIN (c-seq=1)" mc="a12" icon="a12"/>
+  </M>
+  <M txt="ACK" w="80" icon="a12">
+    <A txt="ACK (s-seq=2)" w="120" id="10" label="ACK (s-seq=2)" mc="a12" icon="a12"/>
+  </M>
+  <M txt="DATA" w="80" icon="a12">
+    <A txt="DATA (len=1024, win=1024)" w="160" id="13" label="DATA (len=1024, win=1024)" mc="a12" icon="a12"/>
+    <A txt="DATA (len=512)" w="160" id="14" label="DATA (len=512)" mc="a12" icon="a12"/>
+    <A txt="DATA (len=1024, win=4096)" w="160" id="7" label="DATA (len=1024, win=4096)" mc="a12" icon="a12"/>
+    <A txt="DATA (len=728, win=728)" w="160" id="15" label="DATA (len=728, win=728)" mc="a12" icon="a12"/>
+  </M>
+</M>
+<M txt="От Сервера" w="100" icon="a21">
+  <M txt="ACK" w="110" icon="a21">
+    <A txt="ACK (c-seq=513)" w="160" id="5" label="ACK (c-seq=513)" mc="a21" icon="a21"/>
+    <A txt="ACK (c-seq=1025)" w="160" id="6" label="ACK (c-seq=1025)" mc="a21" icon="a21"/>
+    <A txt="ACK (c-seq=1)" w="160" id="8" label="ACK (c-seq=1)" mc="a21" icon="a21"/>
+    <A txt="ACK (c-seq=2)" w="160" id="18" label="ACK (c-seq=2)" mc="a21" icon="a21"/>
+    <A txt="ACK (c-seq=4097, win=2048)" w="160" id="11" label="ACK (c-seq=4097, win=2048)" mc="a21" icon="a21"/>
+    <A txt="ACK (c-seq=4096, win=1024)" w="160" id="12" label="ACK (c-seq=4096, win=1024)" mc="a21" icon="a21"/>
+    <A txt="ACK (c-seq=1457, win=0)" w="160" id="16" label="ACK (c-seq=1457, win=0)" mc="a21" icon="a21"/>
+    <A txt="ACK (c-seq=1457, win=4096)" w="160" id="17" label="ACK (c-seq=1457, win=4096)" mc="a21" icon="a21"/>
+  </M>
+  <A txt="SYN (s-seq=1), ACK (c-seq=1)" w="110" id="19" label="SYN (s-seq=1), ACK (c-seq=1)" mc="a21" icon="a21"/>
+  <M txt="FIN" w="110" icon="a21">
+    <A txt="FIN (s-seq=1)" w="120" id="22" label="FIN (s-seq=1)" mc="a21" icon="a21"/>
+  </M>
+</M>
+<BLOCKS/>
+<LINES y="135.9" x1="150.5" x2="499.45" x3="572.8"/>
+<TRYS txt="0/5" /><CORNER txt="1.9" />
+<TASK t_id="5653" play="no" />
+<THEME c1="0" c2="0" c3="0" />
+</ROOT>

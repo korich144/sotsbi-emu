@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?><ROOT type="lab"><QUESTION txt="Укажите значения поля LLC Data, когда в нем передается протокол STP, использующий подуровень LLC, если известно, что LLС-кадр ненумерованного типа." />
+<M txt="Service access point" w="120">
+  <B txt="0x42" w="60" label="STP" id="2"/>
+  <B txt="0xAA" w="60" label="SNAP" id="3"/>
+  <B txt="0xFF" w="60" label="Broadcast" id="4"/>
+</M>
+<M txt="LLC frame" w="120">
+  <B txt="01" w="50" label="информационный" id="6"/>
+  <B txt="02" w="50" label="управляющий" id="7"/>
+  <B txt="03" w="50" label="ненумерованный" id="8"/>
+</M>
+<M txt="Протоколы" w="120">
+  <B txt="Address Resolution Protocol" w="150" label="ARP" id="5"/>
+  <B txt="Internet Protocol" w="150" label="IP" id="10"/>
+  <B txt="Spanning Tree Protocol" w="150" label="STP" id="11"/>
+</M>
+<BLOCKS>
+  <BLOCK txt="Destination SAP" x="127" y="212" w="125" h="70" c="14404838" brdr="0"/>
+  <BLOCK txt="Source SAP" x="263" y="212" w="125" h="70" c="14404838" brdr="0"/>
+  <BLOCK txt="Control" x="400" y="212" w="125" h="70" c="14404838" brdr="0"/>
+  <BLOCK txt="Protocol" x="125" y="291" w="400" h="70" c="14404838" brdr="0"/>
+</BLOCKS>
+<LINES y="0" x1="800" x2="800" x3="800"/>
+<TRYS txt="0/5" /><CORNER txt="1.9" />
+<TASK t_id="4286" play="no" />
+<THEME c1="0" c2="0" c3="0" />
+</ROOT>

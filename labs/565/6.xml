@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?><ROOT type="lab"><QUESTION txt="По приведенному фрагменту сообщения HTTP определить запрашиваемый файл, адрес запрашиваемого ресурса, допустимый формат данных, сайт, с которого последовал запрос, поддерживаемые способы кодирования. Заполнить соответствующие поля." />
+<M txt="Файл" w="110">
+  <B txt="/images/join/dial_m.png" w="170" label="/images/join/dial_m.png?4" id="7"/>
+  <B txt="/jquery/1.8.3/jquery.min.js" w="170" label="/jquery/1.8.3/jquery.min.js" id="8"/>
+  <B txt="/morda-logo/i/favicon_islands.ico" w="170" label="/morda-logo/i/favicon_islands.ico" id="9"/>
+</M>
+<M txt="Сервер" w="110">
+  <B txt="vk.com" w="120" label="vk.com" id="10"/>
+  <B txt="yastatic.net" w="120" label="yastatic.net" id="11"/>
+  <B txt="www.google.ru" w="120" label="www.google.ru" id="6"/>
+</M>
+<M txt="Формат данных" w="110">
+  <B txt="text" w="120" label="html" id="12"/>
+  <B txt="application" w="120" label="xhtml" id="13"/>
+  <B txt="*/*" w="120" label="*/*" id="14"/>
+</M>
+<M txt="Сайт" w="110">
+  <B txt="ya.ru" w="120" label="ya.ru" id="15"/>
+  <B txt="vk.com" w="120" label="vk.com" id="16"/>
+  <B txt="google.ru" w="120" label="google.ru" id="17"/>
+</M>
+<M txt="Способ кодирования" w="110">
+  <B txt="deflate" w="120" label="deflate" id="18"/>
+  <B txt="gzip" w="120" label="gzip" id="19"/>
+  <B txt="sdch" w="120" label="sdch" id="20"/>
+  <B txt="gzip, deflate, sdch" w="120" label="gzip, deflate, sdch" id="21"/>
+</M>
+<BLOCKS>
+ <BLOCK txt="" x="340" y="280" w="250" h="35" c="13145578"/>
+  <BLOCK txt="" x="340" y="315" w="250" h="35" c="13145578"/>
+  <BLOCK txt=" " x="340" y="350" w="250" h="35" c="13145578"/>
+  <BLOCK txt=" " x="340" y="385" w="250" h="35" c="13145578"/>
+  <BLOCK txt="" x="340" y="420" w="250" h="35" c="13145578"/>
+</BLOCKS>
+<LINES y="0" x1="6.75" x2="618.2" x3="639.75"/>
+<TRYS txt="0/5" /><CORNER txt="1.6" />
+<TASK t_id="5642" play="no" />
+<THEME c1="0" c2="0" c3="0" />
+</ROOT>

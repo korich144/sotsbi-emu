@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?><ROOT type="lab"><QUESTION txt="Укажите название полей заголовка сообщения DNS." />
+<B txt="Z" w="140" label="Z" id="9"/>
+<B txt="RA (Recursion Available)" w="140" label="RA" id="10"/>
+<B txt="QDCOUNT" w="140" label="QDCOUNT" id="11"/>
+<B txt="TC (TrunCation)" w="140" label="TC" id="12"/>
+<B txt="АА (Authoritative Answer)" w="140" label="AA" id="13"/>
+<B txt="OPCODE (Option Code)" w="140" label="OPCODE" id="14"/>
+<B txt="RCODE (Response Code)" w="140" label="RCODE" id="15"/>
+<B txt="RD (Recursion Desired)" w="140" label="RD" id="1"/>
+<B txt="ID (Identifier)" w="140" label="ID" id="0"/>
+<B txt="QR (Query/Response)" w="140" label="QR" id="2"/>
+<B txt="ANCOUNT" w="140" label="ANCOUNT" id="3"/>
+<B txt="ARCOUNT" w="140" label="ARCOUNT" id="4"/>
+<B txt="NSCOUNT" w="140" label="NSCOUNT" id="5"/>
+<BLOCKS>
+  <BLOCK txt="" x="75" y="150" w="30" h="40" c="14404838"/>
+  <BLOCK txt="" x="105" y="150" w="120" h="40" c="14404838"/>
+  <BLOCK txt="" x="225" y="150" w="30" h="40" c="14404838"/>
+  <BLOCK txt="" x="255" y="150" w="30" h="40" c="14404838"/>
+  <BLOCK txt="" x="285" y="150" w="30" h="40" c="14404838"/>
+  <BLOCK txt="" x="315" y="150" w="30" h="40" c="14404838"/>
+  <BLOCK txt="" x="345" y="150" w="90" h="40" c="14404838"/>
+  <BLOCK txt="" x="435" y="150" w="120" h="40" c="14404838"/>
+  <BLOCK txt="" x="75" y="190" w="480" h="40" c="14404838"/>
+  <BLOCK txt="" x="75" y="230" w="480" h="40" c="14404838"/>
+  <BLOCK txt="" x="75" y="270" w="480" h="40" c="14404838"/>
+  <BLOCK txt="" x="75" y="310" w="480" h="40" c="14404838"/>
+  <BLOCK txt="" x="75" y="110" w="480" h="40" c="14404838"/>
+</BLOCKS>
+<LINES y="0" x1="800" x2="800" x3="800"/>
+<TRYS txt="0/5" /><CORNER txt="1.1" />
+<TASK t_id="5647" play="no" />
+<THEME c1="0" c2="0" c3="0" />
+</ROOT>

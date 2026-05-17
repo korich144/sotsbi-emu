@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?><ROOT type="lab"><QUESTION txt="Укажите стандарт кадра Ethernet и заполните поле тип/длина, если поле LLC Datа составляет 1500 байт." />
+<M txt="Стандарт" w="90">
+  <B txt="802.1" w="60" label="802.1" id="2"/>
+  <B txt="802.3" w="60" label="802.3" id="3"/>
+  <B txt="802.4" w="60" label="802.4" id="4"/>
+  <B txt="802.6" w="60" label="802.6" id="5"/>
+</M>
+<M txt="Тип/Длина" w="90">
+  <B txt="04 DB" w="60" label="04 DB" id="7"/>
+  <B txt="05 DC" w="60" label="05 DC" id="8"/>
+  <B txt="06 DC" w="60" label="06 DC" id="9"/>
+  <B txt="05 CE" w="60" label="05 CE" id="10"/>
+</M>
+<BLOCKS>
+  <BLOCK txt="IEEE" x="38.75" y="111.25" w="100" h="28" c="14404838" brdr="0"/>
+  <BLOCK txt="T/L" x="298.25" y="197.25" w="48" h="50" c="14404838" brdr="0"/>
+</BLOCKS>
+<LINES y="0" x1="1" x2="800" x3="800"/>
+<TRYS txt="0/5" /><CORNER txt="1.7" />
+<TASK t_id="4284" play="no" />
+<THEME c1="0" c2="0" c3="0" />
+</ROOT>

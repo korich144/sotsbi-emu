@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?><ROOT type="lab"><QUESTION txt="Укажите формат записи в секции Ответ (Answer) сообщения DNS. " />
+<B txt="RDLENGTH" w="120" label="RDLENGTH" id="1"/>
+<B txt="CLASS" w="120" label="CLASS" id="2"/>
+<B txt="NAME" w="120" label="NAME" id="3"/>
+<B txt="RDATA" w="120" label="RDATA" id="4"/>
+<B txt="TYPE" w="120" label="TYPE" id="5"/>
+<B txt="TTL" w="120" label="TTL" id="6"/>
+<BLOCKS>
+  <BLOCK txt="" x="16" y="220" w="367" h="60" c="14404838"/>
+  <BLOCK txt="" x="16" y="280" w="367" h="30" c="14404838"/>
+  <BLOCK txt="" x="16" y="310" w="367" h="30" c="14404838"/>
+  <BLOCK txt="" x="16" y="340" w="367" h="60" c="14404838"/>
+  <BLOCK txt="" x="16" y="400" w="367" h="30" c="14404838"/>
+  <BLOCK txt="" x="16" y="430" w="367" h="65" c="14404838"/>
+</BLOCKS>
+<LINES y="0" x1="300" x2="350" x3="400"/>
+<TRYS txt="0/5" /><CORNER txt="1.6" />
+<TASK t_id="5658" play="no" />
+<THEME c1="0" c2="0" c3="0" />
+</ROOT>

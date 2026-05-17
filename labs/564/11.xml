@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?><ROOT type="lab"><QUESTION txt="Укажите значения полей сообщения ICMP от маршрутизатора о проблеме с параметрами пакета, с указанием на неверный параметр." />
+<M txt="Тип" w="130">
+  <B txt="0:Echo reply" w="105" label="Echo reply" id="2"/>
+  <B txt="3:Destination unreachable" w="105" label="Destination unreachable" id="1"/>
+  <B txt="4:Source quench" w="105" label="Source quench" id="4"/>
+  <B txt="5:Redirect" w="105" label="Redirect" id="5"/>
+  <B txt="8:Echo request" w="105" label="Echo request" id="20"/>
+  <B txt="10:Router solicitation" w="105" label="Router solicitation" id="12"/>
+  <B txt="11:Time exceeded" w="105" label="Time exceeded" id="19"/>
+  <B txt="12:Parameter problem" w="105" label="Parameter problem" id="18"/>
+  <B txt="13:Timestamp request" w="105" label="Timestamp request" id="17"/>
+  <B txt="14:Timestamp reply" w="105" label="Timestamp reply" id="11"/>
+</M>
+<M txt="Код" w="130">
+  <B txt="0:pointer indicates the error" w="120" label="pointer indicates the error" id="7"/>
+  <B txt="1:required option is missing" w="120" label="required option is missing" id="8"/>
+  <B txt="2:uncorrect lenght" w="120" label="uncorrect lenght" id="6"/>
+</M>
+<B txt="Указатель" w="130" label="Pointer" id="9"/>
+<B txt="IP header and first bytes data" w="130" label="IP header and first bytes data" id="10"/>
+<B txt="Unused" w="130" label="Unused" id="13"/>
+<BLOCKS>
+  <BLOCK txt="Type" x="63" y="122" w="120" h="25" c="14404838" brdr="0"/>
+  <BLOCK txt="Code" x="198" y="122" w="120" h="25" c="14404838" brdr="0"/>
+  <BLOCK txt="?" x="63" y="165" w="120" h="25" c="14404838" brdr="0"/>
+  <BLOCK txt="?" x="82" y="222" w="480" h="25" c="14404838" brdr="0"/>
+  <BLOCK txt="?" x="212" y="165" w="360" h="25" c="14404838" brdr="0"/>
+</BLOCKS>
+<LINES y="0" x1="0" x2="0" x3="0"/>
+<TRYS txt="0/5" /><CORNER txt="1.11" />
+<TASK t_id="5634" play="no" />
+<THEME c1="0" c2="0" c3="0" />
+</ROOT>

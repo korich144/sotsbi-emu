@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?><ROOT type="lab"><QUESTION txt="Как будет выглядеть структура UDP дейтаграммы, при условии, что после вычисления контрольная сумма получилась равной нулю.Порт отправителя и получателя 6696, длина равна 20 байт " />
+<M txt="Значения" w="130">
+  <B txt="0x0000" w="150" label="0x0000" id="1"/>
+  <B txt="0xffff" w="150" label="0xffff" id="2"/>
+  <B txt="0x1a28" w="150" label="0x1a28" id="3"/>
+  <B txt="0x0014" w="150" label="0x0014" id="4"/>
+  <B txt="0xfe4d" w="150" label="0xfe4d" id="5"/>
+  <B txt="0x5118" w="150" label="0x5118" id="6"/>
+  <B txt="0x0411" w="150" label="0x0411" id="7"/>
+</M>
+<BLOCKS>
+  <BLOCK txt="" x="70" y="126" w="240" h="30" c="14404838" brdr="0"/>
+  <BLOCK txt="" x="341" y="126" w="240" h="30" c="14404838" brdr="0"/>
+  <BLOCK txt="" x="70" y="170" w="240" h="30" c="14404838" brdr="0"/>
+  <BLOCK txt="" x="341" y="170" w="240" h="30" c="14404838" brdr="0"/>
+</BLOCKS>
+<LINES y="10" x1="15.75" x2="628.75" x3="800"/>
+<TRYS txt="0/4" /><CORNER txt="1.4" />
+<TASK t_id="5621" play="no" />
+<THEME c1="0" c2="0" c3="0" />
+</ROOT>

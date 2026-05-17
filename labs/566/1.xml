@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?><ROOT type="lab"><QUESTION txt="Укажите поля TCP заголовка, выполняющие задачи:
+- адресации между приложениями;
+- нумерации и подтверждения сегментов с данными;
+- управления логическим соединениям и изменения интенсивности передачи." />
+<M txt="Адресация" w="120">
+  <B txt="Destination Port" w="130" label="Destination Port (DP)" id="10"/>
+  <B txt="Source Port" w="130" label="Source Port (SP)" id="8"/>
+</M>
+<M txt="Нумерация" w="120">
+  <B txt="Acknowledgment Number" w="140" label="Acknowledgment Number (ACKN)" id="11"/>
+  <B txt="Sequence Number" w="140" label="Sequence Number (SN)" id="9"/>
+</M>
+<M txt="Управление" w="120">
+  <B txt="Window" w="120" label="Window (W)" id="13"/>
+  <B txt="Control Bits" w="120" label="Control Bits" id="12"/>
+  <B txt="Urgent Point" w="120" label="Urgent Point (UP)" id="15"/>
+  <B txt="Checksum" w="120" label="Checksum" id="14"/>
+</M>
+<BLOCKS>
+  <BLOCK txt="" x="70" y="105" w="240" h="30" c="14404838" brdr="0"/>
+  <BLOCK txt="" x="340" y="105" w="240" h="30" c="14404838" brdr="0"/>
+  <BLOCK txt="" x="85" y="147.65" w="480" h="30" c="14404838" brdr="0"/>
+  <BLOCK txt="" x="85" y="192" w="480" h="30" c="14404838" brdr="0"/>
+  <BLOCK txt="" x="228" y="250.55" w="90" h="40" c="14404838" brdr="0"/>
+  <BLOCK txt="" x="339" y="250" w="240" h="40" c="14404838" brdr="0"/>
+  <BLOCK txt="" x="70" y="321" w="240" h="30" c="14404838" brdr="0"/>
+  <BLOCK txt="" x="340" y="319" w="240" h="30" c="14404838" brdr="0"/>
+</BLOCKS>
+<LINES y="0" x1="30.75" x2="607.25" x3="636.15"/>
+<TRYS txt="0/5" /><CORNER txt="1.1" />
+<TASK t_id="5644" play="no" />
+<THEME c1="0" c2="0" c3="0" />
+</ROOT>

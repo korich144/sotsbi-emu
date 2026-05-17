@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?><ROOT type="lab"><QUESTION txt="Используя меню, расположенное слева, укажите для каждой представленной в таблице сети ее основные объекты, используемые протоколы, план нумерации и адресации объектов." />
+<M txt="Объекты" w="110">
+  <B txt="MSC, GMSC, VLR, HLR, SGSN, GGSN" w="210" label="MSC, GMSC, VLR, HLR, SGSN, GGSN" id="2"/>
+  <B txt="МУС, ЗТУ" w="210" label="МУС, ЗТУ" id="1"/>
+  <B txt="Программный коммутатор, Шлюз" w="210" label="Программный коммутатор, Шлюз" id="3"/>
+  <B txt="Коммутатор, Маршрутизатор, Сервер" w="210" label="Коммутатор, Маршрутизатор, Сервер" id="4"/>
+</M>
+<M txt="Протоколы" w="110">
+  <B txt="MTP, ISUP, SCCP, TCAP, MAP, CAP" w="210" label="MTP, ISUP, SCCP, TCAP, MAP, CAP" id="7"/>
+  <B txt="MTP, ISUP, SCCP, TCAP, INAP" w="210" label="MTP, ISUP, SCCP, TCAP, INAP" id="6"/>
+  <B txt="Sigtran, H.323, H.248, SIP, RTP/RTCP, MGCP" w="210" label="Sigtran, H.323, H.248, SIP, RTP/RTCP, MGCP" id="8"/>
+  <B txt="Стек протоколов TCP/IP" w="210" label="Стек протоколов TCP/IP" id="9"/>
+</M>
+<M txt="Нумерация" w="110">
+  <B txt="7ABCabx1...x5" w="210" label="7ABCabx1...x5" id="11"/>
+  <B txt="имя@доменное имя" w="210" label="имя@доменное имя" id="14"/>
+  <B txt="7DEFabx1...x5, MSISDN, IMSI, IMEI" w="210" label="7DEFabx1...x5, MSISDN, IMSI, IMEI" id="12"/>
+  <B txt="MAC-адрес, IP-адрес, порт" w="210" label="MAC-адрес, IP-адрес, порт" id="13"/>
+</M>
+<BLOCKS>
+  <BLOCK txt="?" x="179" y="104" w="137" h="85" c="14810364" brdr="0"/>
+  <BLOCK txt="?" x="331" y="104" w="137" h="85" c="14810364" brdr="0"/>
+  <BLOCK txt="?" x="484" y="104" w="137" h="85" c="14810364" brdr="0"/>
+  <BLOCK txt="?" x="179" y="200" w="137" h="85" c="11333101" brdr="0"/>
+  <BLOCK txt="?" x="331" y="200" w="137" h="85" c="11333101" brdr="0"/>
+  <BLOCK txt="?" x="484" y="200" w="137" h="85" c="11333101" brdr="0"/>
+  <BLOCK txt="?" x="179" y="294" w="137" h="85" c="14810364" brdr="0"/>
+  <BLOCK txt="?" x="331" y="294" w="137" h="85" c="14810364" brdr="0"/>
+  <BLOCK txt="?" x="484" y="294" w="137" h="85" c="14810364" brdr="0"/>
+  <BLOCK txt="?" x="179" y="389" w="137" h="85" c="11333101" brdr="0"/>
+  <BLOCK txt="?" x="331" y="389" w="137" h="85" c="11333101" brdr="0"/>
+  <BLOCK txt="?" x="484" y="389" w="137" h="85" c="11333101" brdr="0"/>
+</BLOCKS>
+<LINES y="49.5" x1="9.75" x2="329" x3="630.25"/>
+<TRYS txt="0/5" /><CORNER txt="1.2" />
+<TASK t_id="5346" play="no" />
+<THEME c1="0" c2="0" c3="0" />
+</ROOT>

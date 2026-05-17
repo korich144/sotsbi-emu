@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?><ROOT type="lab"><QUESTION txt="Заполните поля дейтаграммы UDP." />
+<M txt="Поля" w="130">
+  <B txt="Source port" w="150" label="Source port" id="1"/>
+  <B txt="Destination port" w="150" label="Destination port" id="2"/>
+  <B txt="Type of Service" w="150" label="Type of Service" id="3"/>
+  <B txt="Length" w="150" label="Length" id="4"/>
+  <B txt="Flag" w="150" label="Flag" id="5"/>
+  <B txt="Checksum" w="150" label="Checksum" id="6"/>
+  <B txt="Data" w="150" label="Data" id="7"/>
+</M>
+<BLOCKS>
+  <BLOCK txt="" x="70" y="126" w="240" h="30" c="14404838" brdr="0"/>
+  <BLOCK txt="" x="338" y="126" w="240" h="30" c="14404838" brdr="0"/>
+  <BLOCK txt="" x="70" y="170" w="240" h="30" c="14404838" brdr="0"/>
+  <BLOCK txt="" x="339" y="170" w="240" h="30" c="14404838" brdr="0"/>
+  <BLOCK txt="" x="85" y="214.75" w="480" h="70" c="14404838" brdr="0"/>
+</BLOCKS>
+<LINES y="10" x1="25.5" x2="637.75" x3="800"/>
+<TRYS txt="0/5" /><CORNER txt="1.2" />
+<TASK t_id="5619" play="no" />
+<THEME c1="0" c2="0" c3="0" />
+</ROOT>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?><ROOT type="lab"><QUESTION txt="Заполните поля типа (длины) и данных кадра Ethernet, если известно, что кадр содержит IP-пакет. Укажите тип кадра Ethernet." />
+<M txt="Тип/Длина" w="90">
+  <B txt="0x0806" w="80" label="0x0806" id="2"/>
+  <B txt="0x0800" w="80" label="0x0800" id="3"/>
+  <B txt="0x0600" w="80" label="0x0600" id="9"/>
+  <B txt="0x0002" w="80" label="0x0002" id="4"/>
+  <B txt="0x0001" w="80" label="0x0001" id="5"/>
+</M>
+<M txt="Тип кадра" w="90">
+  <B txt="Ethernet I" w="100" label="Ethernet I" id="7"/>
+  <B txt="Ethernet II" w="100" label="Ethernet II" id="8"/>
+</M>
+<M txt="Данные" w="90">
+  <B txt="IP пакет" w="100" label="IP пакет" id="10"/>
+  <B txt="IP адрес" w="100" label="IP адрес" id="11"/>
+  <B txt="IP заголовок" w="100" label="IP заголовок" id="12"/>
+</M>
+<BLOCKS>
+  <BLOCK txt="T/L" x="298" y="196" w="48" h="50" c="14404838" brdr="0"/>
+  <BLOCK txt="LLC/Data" x="366" y="196" w="150" h="50" c="14404838" brdr="0"/>
+  <BLOCK txt="Frame Type" x="37" y="110" w="100" h="28" c="14404838" brdr="0"/>
+</BLOCKS>
+<LINES y="0" x1="800" x2="800" x3="800"/>
+<TRYS txt="0/5" /><CORNER txt="1.5" />
+<TASK t_id="4282" play="no" />
+<THEME c1="0" c2="0" c3="0" />
+</ROOT>

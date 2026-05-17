@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?><ROOT type="lab"><QUESTION txt="Укажите значения полей сообщения ICMP, отправляемого от маршрутизатора к компьютеру в случае, когда маршрутизатору не удается передать IP-пакет по причине недоступности сети назначения." />
+<M txt="Тип" w="130">
+  <B txt="0:Echo reply" w="105" label="Echo reply" id="2"/>
+  <B txt="3:Destination unreachable" w="105" label="Destination unreachable" id="3"/>
+  <B txt="4:Source quench" w="105" label="Source quench" id="4"/>
+  <B txt="5:Redirect" w="105" label="Redirect" id="5"/>
+  <B txt="8:Echo request" w="105" label="Echo request" id="16"/>
+  <B txt="10:Router solicitation" w="105" label="Router solicitation" id="6"/>
+  <B txt="11:Time exceeded" w="105" label="Time exceeded" id="20"/>
+  <B txt="12:Parameter problem" w="105" label="Parameter problem" id="19"/>
+  <B txt="13:Timestamp request" w="105" label="Timestamp request" id="18"/>
+  <B txt="14:Timestamp reply" w="105" label="Timestamp reply" id="17"/>
+</M>
+<M txt="Код" w="130">
+  <B txt="0" w="100" label="network unreachable" id="7"/>
+  <B txt="1" w="100" label="host unreachable" id="8"/>
+  <B txt="2" w="100" label="protocol unreachable" id="9"/>
+  <B txt="3" w="100" label="port unreachable" id="10"/>
+  <B txt="4" w="100" label="fragmentation needed but DF bit set " id="11"/>
+  <B txt="5" w="100" label="source route failed" id="12"/>
+</M>
+<B txt="Unused" w="130" label="Unused" id="14"/>
+<B txt="IP header and first bytes data" w="130" label="IP header and first bytes data" id="15"/>
+<BLOCKS>
+  <BLOCK txt="Type" x="63" y="121" w="120" h="25" c="14404838" brdr="0"/>
+  <BLOCK txt="Code" x="196" y="121" w="120" h="25" c="14404838" brdr="0"/>
+  <BLOCK txt="?" x="80" y="165" w="480" h="25" c="14404838" brdr="0"/>
+  <BLOCK txt="?" x="80" y="221" w="480" h="25" c="14404838" brdr="0"/>
+</BLOCKS>
+<LINES y="0" x1="0" x2="0" x3="0"/>
+<TRYS txt="0/5" /><CORNER txt="1.4" />
+<TASK t_id="5627" play="no" />
+<THEME c1="0" c2="0" c3="0" />
+</ROOT>

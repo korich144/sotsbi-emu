@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?><ROOT type="lab"><QUESTION txt="По приведенному фрагменту HTTP сообщения определить разбивается ли сообщение на части, используется кэширование или нет, способ кодирования данных, загрузка ресурсов какого домена разрешена. Рассчитать процент сжатия данных. Заполнить соответствующие поля." />
+<B txt="Да" w="110" label="Да" id="0"/>
+<B txt="Нет" w="110" label="Нет" id="1"/>
+<M txt="Способы кодирования" w="110">
+  <B txt="gzip" w="80" label="gzip" id="3"/>
+  <B txt="deflate" w="80" label="deflate" id="4"/>
+  <B txt="sdch" w="80" label="sdch" id="5"/>
+</M>
+<M txt="Домен" w="110">
+  <B txt="yandex.ru" w="80" label="yandex.ru" id="7"/>
+  <B txt="Ua" w="80" label="ua" id="8"/>
+  <B txt="Us" w="80" label="us" id="9"/>
+  <B txt="Ru" w="80" label="Ru" id="15"/>
+  <B txt="Self" w="80" label="Self" id="16"/>
+</M>
+<M txt="Процент сжатия" w="110">
+  <B txt="1.39" w="80" label="1.39" id="11"/>
+  <B txt="2.58" w="80" label="2.58" id="14"/>
+  <B txt="3.04" w="80" label="3.04" id="13"/>
+  <B txt="3.86" w="80" label="3.86" id="12"/>
+</M>
+<BLOCKS>
+  <BLOCK txt="" x="340" y="280" w="200" h="35" c="13145578"/>
+  <BLOCK txt="" x="340" y="315" w="200" h="35" c="13145578"/>
+  <BLOCK txt=" " x="340" y="350" w="200" h="35" c="13145578"/>
+  <BLOCK txt=" " x="340" y="385" w="200" h="35" c="13145578"/>
+  <BLOCK txt="" x="340" y="420" w="200" h="35" c="13145578"/>
+</BLOCKS>
+<LINES y="0" x1="620" x2="631.9" x3="642.25"/>
+<TRYS txt="0/5" /><CORNER txt="1.5" />
+<TASK t_id="5641" play="no" />
+<THEME c1="0" c2="0" c3="0" />
+</ROOT>

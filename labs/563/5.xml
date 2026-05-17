@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?><ROOT type="lab"><QUESTION txt="Необходимо рассчитать контрольную сумму нескольких 16-битных слов: 0x0411, 0x98c4, 0x205f, 0x4118. Складывать слова в заданной последовательности.  Значения результата сложения в двоичном виде и его преобразования следует вводить с клавиатуры." />
+<M txt="Значения" w="130">
+  <B txt="0x0000" w="150" label="0x0000" id="1"/>
+  <B txt="0xffff" w="150" label="0xffff" id="2"/>
+  <B txt="0x9cd5" w="150" label="0x9cd5" id="3"/>
+  <B txt="0x205f" w="150" label="0x205f" id="4"/>
+  <B txt="0xbd34" w="150" label="0xbd34" id="5"/>
+  <B txt="0x4118" w="150" label="0x4118" id="6"/>
+  <B txt="0xfe4c" w="150" label="0xfe4c" id="7"/>
+  <B txt="0x01b3" w="150" label="0x01b3" id="8"/>
+</M>
+<BLOCKS>
+  <BLOCK txt="" x="490" y="54" w="105" h="26" c="15391416" brdr="0"/>
+  <BLOCK txt="" x="60" y="122" w="105" h="26" c="15391416" brdr="0"/>
+  <BLOCK txt="" x="247" y="122" w="105" h="25" c="13421772" brdr="0"/>
+  <BLOCK txt="" x="490" y="122" w="105" h="25" c="9286561" brdr="0"/>
+  <BLOCK txt="" x="60" y="190" w="105" h="26" c="9286561" brdr="0"/>
+  <BLOCK txt="" x="247" y="190" w="105" h="26" c="13421772" brdr="0"/>
+  <BLOCK txt="" x="490" y="190" w="105" h="26" c="14404838" brdr="0"/>
+  <BLOCK txt="" x="247" y="285" w="57" h="25" c="14404838" brdr="0" len="4" chars="01"/>
+  <BLOCK txt="" x="344" y="285" w="57" h="25" c="14404838" brdr="0" len="4" chars="01"/>
+  <BLOCK txt="" x="436" y="285" w="57" h="25" c="14404838" brdr="0" len="4" chars="01"/>
+  <BLOCK txt="" x="530" y="285" w="57" h="25" c="14404838" brdr="0" len="4" chars="01"/>
+  <BLOCK txt="" x="247" y="340" w="60" h="25" c="14404838" brdr="0" len="4" chars="01"/>
+  <BLOCK txt="" x="344" y="340" w="58" h="25" c="14404838" brdr="0" len="4" chars="01"/>
+  <BLOCK txt="" x="436" y="340" w="57" h="25" c="14404838" brdr="0" len="4" chars="01"/>
+  <BLOCK txt="" x="530" y="340" w="57" h="25" c="14404838" brdr="0" len="4" chars="01"/>
+  <BLOCK txt="" x="364.5" y="429.75" w="105" h="25" c="14404838" brdr="0"/>
+</BLOCKS>
+<LINES y="10" x1="30.75" x2="629.5" x3="800"/>
+<TRYS txt="0/6" /><CORNER txt="1.5" />
+<TASK t_id="5622" play="no" />
+<THEME c1="0" c2="0" c3="0" />
+</ROOT>

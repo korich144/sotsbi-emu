@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?><ROOT type="lab"><QUESTION txt="Постройте MSC-сценарий установления TCP-соединение, если начальный номер сегмента клиента равен единице, а начальный номер сегмента сервера также равен единице." />
+<A txt="SYN (c-seq=1)" w="120" id="2" label="SYN (c-seq=1)" mc="a12" icon="a12"/>
+<A txt="ACK (s-seq=2)" w="120" id="4" label="ACK (s-seq=2)" mc="a12" icon="a12"/>
+<A txt="DATA (len=1024)" w="120" id="0" label="DATA (len=1024)" mc="a12" icon="a12"/>
+<A txt="SYN (s-seq=1), ACK (c-seq=2)" w="120" id="3" label="SYN (s-seq=1), ACK (c-seq=2)" mc="a21" icon="a21"/>
+<BLOCKS/>
+<LINES y="135.9" x1="151.8" x2="499.4" x3="617.75"/>
+<TRYS txt="0/5" /><CORNER txt="1.4" />
+<TASK t_id="5648" play="no" />
+<THEME c1="0" c2="0" c3="0" />
+</ROOT>

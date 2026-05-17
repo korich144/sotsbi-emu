@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?><ROOT type="lab"><QUESTION txt="Изобразите сценарий обмена сообщениями при получении компьютером адреса с помощью протокола DHCP, в случае если был получен отказ от сервера." />
+<M txt="Клиент - Сервер" w="120" icon="a12">
+  <A txt="DHCP DISCOVER" w="140" id="1" label="DHCP DISCOVER" mc="a12" icon="a12"/>
+  <A txt="DHCP RELEASE" w="140" id="7" label="DHCP RELEASE" mc="a12" icon="a12"/>
+  <A txt="DHCP REQUEST" w="140" id="3" label="DHCP REQUEST" mc="a12" icon="a12"/>
+  <A txt="DHCP ACK" w="140" id="4" label="DHCP ACK" mc="a12" icon="a12"/>
+  <A txt="DHCP NACK" w="140" id="5" label="DHCP NACK" mc="a12" icon="a12"/>
+  <A txt="DHCP OFFER" w="140" id="2" label="DHCP OFFER" mc="a12" icon="a12"/>
+  <A txt="DHCP DECLINE" w="140" id="6" label="DHCP DECLINE" mc="a12" icon="a12"/>
+  <A txt="DHCP LEASEQUERY" w="140" id="10" label="DHCP LEASEQUERY" mc="a12" icon="a12"/>
+  <A txt="DHCP INFORM" w="140" id="8" label="DHCP INFORM" mc="a12" icon="a12"/>
+  <A txt="DHCP FORCERENEW" w="140" id="9" label="DHCP FORCERENEW" mc="a12" icon="a12"/>
+  <A txt="DHCP LEASEACTIVE" w="140" id="13" label="DHCP LEASEACTIVE" mc="a12" icon="a12"/>
+  <A txt="DHCP LEASEUNASSIGNED" w="140" id="11" label="DHCP LEASEUNASSIGNED" mc="a12" icon="a12"/>
+  <A txt="DHCP LEASEUNKNOWN" w="140" id="12" label="DHCP LEASEUNKNOWN" mc="a12" icon="a12"/>
+</M>
+<M txt="Сервер - Клиент" w="120" icon="a21">
+  <A txt="DHCP DECLINE" w="140" id="20" label="DHCP DECLINE" mc="a21" icon="a21"/>
+  <A txt="DHCP OFFER" w="140" id="16" label="DHCP OFFER" mc="a21" icon="a21"/>
+  <A txt="DHCP REQUEST" w="140" id="17" label="DHCP REQUEST" mc="a21" icon="a21"/>
+  <A txt="DHCP ACK" w="140" id="18" label="DHCP ACK" mc="a21" icon="a21"/>
+  <A txt="DHCP DISCOVER" w="140" id="15" label="DHCP DISCOVER" mc="a21" icon="a21"/>
+  <A txt="DHCP NACK" w="140" id="19" label="DHCP NACK" mc="a21" icon="a21"/>
+  <A txt="DHCP INFORM" w="140" id="22" label="DHCP INFORM" mc="a21" icon="a21"/>
+  <A txt="DHCP RELEASE" w="140" id="21" label="DHCP RELEASE" mc="a21" icon="a21"/>
+  <A txt="DHCP LEASEUNASSIGNED" w="140" id="25" label="DHCP LEASEUNASSIGNED" mc="a21" icon="a21"/>
+  <A txt="DHCP FORCERENEW" w="140" id="23" label="DHCP FORCERENEW" mc="a21" icon="a21"/>
+  <A txt="DHCP LEASEQUERY" w="140" id="24" label="DHCP LEASEQUERY" mc="a21" icon="a21"/>
+  <A txt="DHCP LEASEUNKNOWN" w="140" id="26" label="DHCP LEASEUNKNOWN" mc="a21" icon="a21"/>
+  <A txt="DHCP LEASEACTIVE" w="140" id="27" label="DHCP LEASEACTIVE" mc="a21" icon="a21"/>
+</M>
+<BLOCKS/>
+<LINES y="84" x1="132" x2="481" x3="800"/>
+<TRYS txt="0/5" /><CORNER txt="1.2" />
+<TASK t_id="5661" play="no" />
+<THEME c1="0" c2="0" c3="0" />
+</ROOT>

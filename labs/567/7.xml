@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?><ROOT type="lab"><QUESTION txt="Заполните значения некоторых полей записи в секции Ответ (Answer) DNS сообщения с ответом на запрос IP-адреса сайта google.com, если в TTL указано время 3 минуты 13 секунд, длина поля данных 4 байта и IP-адрес сайта 173.194.32.164." />
+<M txt="NAME" w="100">
+  <B txt="google.com" w="90" label="google.com" id="6"/>
+  <B txt="yandex.ru" w="90" label="yandex.ru" id="7"/>
+  <B txt="google.ru" w="90" label="google.ru" id="8"/>
+</M>
+<M txt="TYPE" w="100">
+  <B txt="A (адрес хоста)" w="110" label="A" id="10"/>
+  <B txt="NS (сервер имен)" w="110" label="NS" id="4"/>
+  <B txt="CNAME (каноническое имя)" w="110" label="CNAME" id="5"/>
+  <B txt="MB (Имя домена почтового ящика)" w="110" label="MB" id="9"/>
+  <B txt="MX (запись о почтовом сервере)" w="110" label="MX" id="11"/>
+</M>
+<M txt="CLASS" w="100">
+  <B txt="IN" w="80" label="IN" id="3"/>
+</M>
+<M txt="TTL" w="100">
+  <B txt="0000C1" w="80" label="0000C1" id="13"/>
+  <B txt="0000C2" w="80" label="0000C2" id="14"/>
+  <B txt="0000C3" w="80" label="0000C3" id="15"/>
+</M>
+<M txt="RDLENGTH" w="100">
+  <B txt="0001" w="80" label="0001" id="17"/>
+  <B txt="0002" w="80" label="0002" id="18"/>
+  <B txt="0003" w="80" label="0003" id="19"/>
+  <B txt="0004" w="80" label="0004" id="20"/>
+  <B txt="0005" w="80" label="0005" id="21"/>
+</M>
+<M txt="RDATA" w="100">
+  <B txt="AB.C1.20.A3" w="90" label="AB.C1.20.A3" id="23"/>
+  <B txt="AC.C2.20.A4" w="90" label="AC.C2.20.A4" id="24"/>
+  <B txt="AD.C2.20.A3" w="90" label="AD.C2.20.A3" id="25"/>
+  <B txt="AD.C2.20.A4" w="90" label="AD.C2.20.A4" id="26"/>
+</M>
+<BLOCKS>
+  <BLOCK txt="" x="16" y="220" w="367" h="60" c="14404838"/>
+  <BLOCK txt="" x="16" y="280" w="367" h="30" c="14404838"/>
+  <BLOCK txt="" x="16" y="310" w="367" h="30" c="14404838"/>
+  <BLOCK txt="" x="16" y="340" w="367" h="60" c="14404838"/>
+  <BLOCK txt="" x="16" y="400" w="367" h="30" c="14404838"/>
+  <BLOCK txt="" x="16" y="430" w="367" h="65" c="14404838"/>
+</BLOCKS>
+<LINES y="0" x1="300" x2="350" x3="400"/>
+<TRYS txt="0/5" /><CORNER txt="1.7" />
+<TASK t_id="5659" play="no" />
+<THEME c1="0" c2="0" c3="0" />
+</ROOT>

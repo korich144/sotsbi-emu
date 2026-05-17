@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?><ROOT type="lab"><QUESTION txt="Заполните значения некоторых полей записи в секции Question (вопрос) DNS сообщения с запросом IP-адреса сайта google.com." />
+<M txt="Name" w="80">
+  <B txt="google.com" w="90" label="google.com" id="6"/>
+  <B txt="yandex.ru" w="90" label="yandex.ru" id="7"/>
+  <B txt="google.ru" w="90" label="google.ru" id="8"/>
+</M>
+<M txt="Type" w="80">
+  <B txt="A (адрес хоста)" w="110" label="A" id="10"/>
+  <B txt="NS (сервер имен)" w="110" label="NS" id="4"/>
+  <B txt="CNAME (каноническое имя)" w="110" label="CNAME" id="5"/>
+  <B txt="MB (Имя домена почтового ящика)" w="110" label="MB" id="9"/>
+  <B txt="MX (запись о почтовом сервере)" w="110" label="MX" id="11"/>
+</M>
+<M txt="Class" w="80">
+  <B txt="IN" w="80" label="IN" id="3"/>
+</M>
+<BLOCKS>
+  <BLOCK txt="" x="16" y="220" w="367" h="60" c="14404838"/>
+  <BLOCK txt="" x="16" y="280" w="367" h="40" c="14404838"/>
+  <BLOCK txt="" x="16" y="320" w="367" h="40" c="14404838"/>
+</BLOCKS>
+<LINES y="0" x1="300" x2="350" x3="400"/>
+<TRYS txt="0/5" /><CORNER txt="1.4" />
+<TASK t_id="5656" play="no" />
+<THEME c1="0" c2="0" c3="0" />
+</ROOT>

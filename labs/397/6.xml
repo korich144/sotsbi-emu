@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?><ROOT type="lab"><QUESTION txt="Укажите типа кадра Ethernet, если значение поля тип/длина равно 1536 в десятичной форме." />
+<M txt="Тип/Длина" w="90">
+  <B txt="0x0806" w="80" label="0x0806" id="2"/>
+  <B txt="0x0800" w="80" label="0x0800" id="3"/>
+  <B txt="0x0600" w="80" label="0x0600" id="9"/>
+  <B txt="0x0002" w="80" label="0x0002" id="4"/>
+  <B txt="0x0001" w="80" label="0x0001" id="8"/>
+</M>
+<M txt="Тип кадра" w="90">
+  <B txt="Ethernet I" w="100" label="Ethernet I" id="5"/>
+  <B txt="Ethernet II" w="100" label="Ethernet II" id="6"/>
+</M>
+<BLOCKS>
+  <BLOCK txt="Frame Тype" x="37.6" y="111.05" w="100" h="28" c="14404838" brdr="0"/>
+  <BLOCK txt="T/L" x="298" y="197.25" w="48" h="50" c="14404838" brdr="0"/>
+</BLOCKS>
+<LINES y="3.25" x1="4.65" x2="632.75" x3="643.45"/>
+<TRYS txt="0/5" /><CORNER txt="1.6" />
+<TASK t_id="4283" play="no" />
+<THEME c1="0" c2="0" c3="0" />
+</ROOT>

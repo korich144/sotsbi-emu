@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?><ROOT type="lab"><QUESTION txt="Укажите какие поля применяются в общем формате сообщений ICMP." />
+<M txt="Поля" w="100">
+  <B txt="Code" w="130" label="Code" id="2"/>
+  <B txt="Checksum" w="130" label="Checksum" id="3"/>
+  <B txt="Type-specific data" w="130" label="Type-specific data" id="4"/>
+  <B txt="Type-specific parameter" w="130" label="Type-specific parameter" id="5"/>
+  <B txt="Type" w="130" label="Type" id="6"/>
+</M>
+<BLOCKS>
+  <BLOCK txt=" " x="63" y="125" w="120" h="20" c="14404838" brdr="0"/>
+  <BLOCK txt=" " x="198" y="125" w="120" h="20" c="14404838" brdr="0"/>
+  <BLOCK txt=" " x="339" y="125" w="240" h="20" c="14404838" brdr="0"/>
+  <BLOCK txt=" " x="206" y="167.25" w="240" h="20" c="14404838" brdr="0"/>
+  <BLOCK txt=" " x="84" y="226.5" w="480" h="20" c="14404838" brdr="0"/>
+</BLOCKS>
+<LINES y="5.25" x1="0" x2="0" x3="0"/>
+<TRYS txt="0/5" /><CORNER txt="1.1" />
+<TASK t_id="5624" play="no" />
+<THEME c1="0" c2="0" c3="0" />
+</ROOT>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?><ROOT type="lab"><QUESTION txt="По приведенному фрагменту запроса HTTP определить метод запроса, адрес запрашиваемого ресурса, список допустимых форматов ресурса, относительный коэффициент предпочтения формата ресурса, используемый браузер, перечень поддерживаемых способов кодирования и языков. Заполнить соответствующие поля. Допустимые форматы ресурсов и поддерживаемые языки указывать в том же порядке, в котором они указаны в запросе. " />
+<M txt="Метод" w="130">
+  <B txt="OPTIONS" w="100" label="OPTIONS" id="1"/>
+  <B txt="GET" w="100" label="GET" id="2"/>
+  <B txt="HEAD" w="100" label="HEAD" id="3"/>
+  <B txt="POST" w="100" label="POST" id="4"/>
+</M>
+<M txt="Формат ресурса" w="130">
+  <B txt="text/html" w="150" label="text/html" id="6"/>
+  <B txt="application/xml" w="150" label="application/xml" id="28"/>
+  <B txt="image/web p" w="150" label="image/web p" id="9"/>
+  <B txt="application/xhtml+xml" w="150" label="application/xhtml+xml" id="30"/>
+  <B txt="*/*" w="150" label="*/*" id="31"/>
+</M>
+<M txt="Браузер" w="130">
+  <B txt="Mozilla/Firefox" w="110" label="Mozilla/Firefox" id="13"/>
+  <B txt="Firefox/Chrome" w="110" label="Firefox/Chrome" id="14"/>
+  <B txt="Linux" w="110" label="Linux" id="15"/>
+</M>
+<M txt="Способ кодирования" w="130">
+  <B txt="gzip" w="120" label="gzip" id="17"/>
+  <B txt="deflate" w="120" label="deflate" id="18"/>
+  <B txt="sdch" w="120" label="sdch" id="19"/>
+  <B txt="gzip, deflate, sdch" w="120" label="gzip, deflate, sdch" id="20"/>
+</M>
+<M txt="Язык" w="130">
+  <B txt="ru-Ru" w="80" label="ru-Ru" id="22"/>
+  <B txt="ru" w="80" label="ru" id="25"/>
+  <B txt="en-US" w="80" label="en-US" id="12"/>
+  <B txt="en" w="80" label="en" id="34"/>
+</M>
+<M txt="Относительный коэффициент предпочтения" w="130">
+  <B txt="0.8" w="100" label="q=0.8" id="26"/>
+  <B txt="0.9" w="100" label="q=0.9" id="27"/>
+  <B txt="0.5" w="100" label="q=0.5" id="16"/>
+  <B txt="0.3" w="100" label="0.3" id="33"/>
+  <B txt="1" w="100" label="1" id="32"/>
+</M>
+<M txt="Адрес" w="130">
+  <B txt="ya.ru" w="100" label="ya.ru" id="21"/>
+  <B txt="google.ru" w="100" label="google.ru" id="29"/>
+  <B txt="mail.ru" w="100" label="mail.ru" id="24"/>
+  <B txt="yahoo.com" w="100" label="" id="23"/>
+</M>
+<BLOCKS>
+  <BLOCK txt="" x="254" y="205" w="360" h="35" c="13145578"/>
+  <BLOCK txt="" x="254" y="240" w="360" h="35" c="13145578"/>
+  <BLOCK txt="" x="254" y="275" w="55" h="35" c="13145578"/>
+  <BLOCK txt="" x="309" y="275" w="115" h="35" c="13145578"/>
+  <BLOCK txt="" x="424" y="275" w="80" h="35" c="13145578"/>
+  <BLOCK txt="" x="579" y="275" w="35" h="35" c="13145578"/>
+  <BLOCK txt="" x="254" y="310" w="72" h="35" c="13145578"/>
+  <BLOCK txt="" x="326" y="310" w="72" h="35" c="13145578"/>
+  <BLOCK txt="" x="470" y="310" w="72" h="35" c="13145578"/>
+  <BLOCK txt="" x="542" y="310" w="72" h="35" c="13145578"/>
+  <BLOCK txt="" x="254" y="345" w="360" h="35" c="13145578"/>
+  <BLOCK txt="" x="254" y="380" w="360" h="35" c="13145578"/>
+  <BLOCK txt="" x="254" y="415" w="90" h="35" c="13145578"/>
+  <BLOCK txt=" " x="504" y="275" w="75" h="35" c="13145578"/>
+  <BLOCK txt=" " x="398" y="310" w="72" h="35" c="13145578"/>
+  <BLOCK txt=" " x="434" y="415" w="90" h="35" c="13145578"/>
+  <BLOCK txt="" x="344" y="415" w="90" h="35" c="13145578"/>
+  <BLOCK txt="" x="524" y="415" w="90" h="35" c="13145578"/>
+  <BLOCK txt="" x="254" y="450" w="90" h="35" c="13145578"/>
+  <BLOCK txt=" " x="434" y="450" w="90" h="35" c="13145578"/>
+  <BLOCK txt="" x="344" y="450" w="90" h="35" c="13145578"/>
+  <BLOCK txt="" x="524" y="450" w="90" h="35" c="13145578"/>
+</BLOCKS>
+<LINES y="0" x1="0" x2="634.95" x3="642.25"/>
+<TRYS txt="0/5" /><CORNER txt="1.3" />
+<TASK t_id="5639" play="no" />
+<THEME c1="0" c2="0" c3="0" />
+</ROOT>

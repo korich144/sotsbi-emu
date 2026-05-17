@@ -1,0 +1,6 @@
+1 1|2|4
+2 1|2|4|6|7
+3 1|2|4
+4 3|3|4|2
+5 3|3|4|5|5|6|7|&quot;1111&quot;|&quot;1110&quot;|&quot;0100&quot;|&quot;1100&quot;|&quot;0000&quot;|&quot;0001&quot;|&quot;1011&quot;|&quot;0011&quot;|8
+6 2|3|5
