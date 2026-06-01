@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="В какой подсистеме этикетка маршрутизации может формироваться на основе анализа глобального заголовка?" />
+<ANSWER id="0" value="SCCP" />
+<ANSWER id="1" value="TCAP" />
+<ANSWER id="2" value="MAP" />
+
+</ROOT>

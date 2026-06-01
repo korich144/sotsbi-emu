@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Зачет MAP" /><THEME c1="6724095" c2="14740735" c3="6724095" /><QUESTION value="Какой временной интервал речевого сигнала выбран в стандарте GSM для цифрового преобразования? " />
+<ANSWER id="0" value="20 мс" />
+<ANSWER id="1" value="125 мкс" />
+<ANSWER id="2" value="2 мс" />
+
+</ROOT>

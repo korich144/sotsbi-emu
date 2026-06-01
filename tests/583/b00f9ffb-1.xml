@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Проверка уровня знаний по курсу CLI" /><THEME c1="6724095" c2="14740735" c3="6724095" /><QUESTION value="В каком каталоге обычно располагаются различные конфигурационные файлы?" />
+<ANSWER id="0" value="В каталоге /sbin" />
+<ANSWER id="1" value="В каталоге /etc" />
+<ANSWER id="2" value="В каталоге /var" />
+
+</ROOT>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Зачет MTP2" /><THEME c1="6724095" c2="14740735" c3="6724095" /><QUESTION value="Проверка состояния «Сфазировано» успешно завершается, если в течении определенного времени не приняты LSSU с индикациями статуса.." />
+<ANSWER id="0" value="SIN" />
+<ANSWER id="1" value="SIO и SIOS" />
+<ANSWER id="2" value="SIE" />
+
+</ROOT>

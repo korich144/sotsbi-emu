@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="С помощью какого запроса SIP отменяется обработка и выполнение запроса INVITE?" />
+<ANSWER id="0" value="CANCEL" />
+<ANSWER id="1" value="REGISTER" />
+<ANSWER id="2" value="BYE" />
+
+</ROOT>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Зачет ИБ" /><THEME c1="6724095" c2="14740735" c3="6724095" /><QUESTION value="Что означает запись a = b (mod n)?" />
+<ANSWER id="0" value="все варианты ответов верны" />
+<ANSWER id="1" value="числа a и b имеют одинаковые остатки при делении на n" />
+<ANSWER id="2" value="разность чисел a и b кратна натуральному числу n" />
+<ANSWER id="3" value="b называют вычетом числа a по модулю n" />
+<ANSWER id="4" value="все варианты ответов НЕ верны" />
+
+</ROOT>

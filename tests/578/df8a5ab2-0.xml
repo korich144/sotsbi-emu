@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Проверка знаний по курсу Сети передачи данных" /><THEME c1="6724095" c2="14740735" c3="6724095" /><QUESTION value="Протоколом какого уровня является UDP? " />
+<ANSWER id="0" value="транспортного " />
+<ANSWER id="1" value="физического" />
+<ANSWER id="2" value="прикладного" />
+<ANSWER id="3" value="представительского" />
+<ANSWER id="4" value="ни один вариант не верен" />
+
+</ROOT>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Какие программные средства терминального оборудования (из указанных ниже) используются для установления телефонной сессии?" />
+<ANSWER id="0" value="Протокол SIP" />
+<ANSWER id="1" value="Протоколы RTP/RTCP" />
+<ANSWER id="2" value="Семейство протоколов стандарта H.323" />
+<ANSWER id="3" value="SIP, H.323" />
+<ANSWER id="4" value="SIP, RTP/RTCP" />
+
+</ROOT>

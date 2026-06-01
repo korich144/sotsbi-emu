@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Зачет 5G" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Какая технология используется для разделения базовой сети 5G Core Network (5GC) на плоскость управления (5GC Control Plane) и плоскость пользователя (5GC User Plane)?" />
+<ANSWER id="0" value="программно-конфигурируемые (управляемые) сети (Software Defined Networking)" />
+<ANSWER id="1" value="виртуализация сетевых функций (Network Function Virtualization)" />
+
+</ROOT>

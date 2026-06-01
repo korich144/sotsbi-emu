@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Проверка знаний по курсу Сети передачи данных" /><THEME c1="6724095" c2="14740735" c3="6724095" /><QUESTION value="Какие из нижеперечисленных протоколов являются протоколами внутреннего шлюза?" />
+<ANSWER id="0" value="OSPF, IP, RIP" />
+<ANSWER id="1" value="OSPF, RIP, BGP" />
+<ANSWER id="2" value="BGP, IS-IS" />
+<ANSWER id="3" value="OSPF, RIP, IS-IS" />
+
+</ROOT>

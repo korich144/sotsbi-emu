@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Какой из заголовков ответов HTTP относится к группе управляющих заголовков ответов?" />
+<ANSWER id="0" value="Proxy-Authenticate" />
+<ANSWER id="1" value="ETag" />
+<ANSWER id="2" value="Expires" />
+<ANSWER id="3" value="Allow" />
+<ANSWER id="4" value="Max-Forwards" />
+
+</ROOT>

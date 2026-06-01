@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Какой флаг заголовка фиксированной длины сообщения протокола MQTT указывает получателю, что полученное им сообщение передается повторно и, возможно, уже было получено им ранее?" />
+<ANSWER id="0" value="DUP" />
+<ANSWER id="1" value="QoS Level" />
+<ANSWER id="2" value="RETEIN" />
+
+</ROOT>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Какое оборудование сети NGN позволяет обеспечить взаимодействие всех сетей сразу (фиксированной, мобильной и сети передачи данных), а также взаимодействие внутри самой сети NGN?" />
+<ANSWER id="0" value="Softswitch" />
+<ANSWER id="1" value="MSC" />
+<ANSWER id="2" value="Узел связи" />
+<ANSWER id="3" value="Шлюз" />
+
+</ROOT>

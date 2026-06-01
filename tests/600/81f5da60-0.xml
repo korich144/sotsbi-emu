@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Какие программные средства терминального оборудования используются для передачи пользовательской информации по сети IP в рамках телефонной сессии?" />
+<ANSWER id="0" value="Протокол RTP" />
+<ANSWER id="1" value="Протоколы MEGACO" />
+<ANSWER id="2" value="Протокол MGCP" />
+
+</ROOT>

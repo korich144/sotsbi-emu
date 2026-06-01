@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Зачет MAP" /><THEME c1="6724095" c2="14740735" c3="6724095" /><QUESTION value="Какая подсистема сигнализации ОКС №7 используется для обмена абонентскими данными между регистрами HLR и VLR?" />
+<ANSWER id="0" value="MAP" />
+<ANSWER id="1" value="ISUP" />
+<ANSWER id="2" value="CAP" />
+
+</ROOT>

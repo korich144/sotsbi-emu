@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Какой протокол архитектуры SDN осуществляет формирование таблиц потоков данных, содержащих информацию, определяющую правила обработки и маршрутизации трафика для различных потоков?" />
+<ANSWER id="0" value="BGP" />
+<ANSWER id="1" value="RIP" />
+<ANSWER id="2" value="OpenFlow" />
+
+</ROOT>

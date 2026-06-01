@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Зачет ИБ" /><THEME c1="6724095" c2="14740735" c3="6724095" /><QUESTION value="Метод обнаружения атаки (вредоносного трафика) основанный на обнаружении характерных признаков атаки или вируса, называют:" />
+<ANSWER id="0" value="Методом аномалий (anomaly-based)." />
+<ANSWER id="1" value="Методом сигнатур (signature-based)." />
+<ANSWER id="2" value="Методом, основанном на политике (policy-based)." />
+
+</ROOT>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Зачет ISUP" /><THEME c1="6724095" c2="14740735" c3="6724095" /><QUESTION value="Функции каких сообщений объединяет в себе сообщение CONNECT, CON?" />
+<ANSWER id="0" value="ADDRESS COMPLETE MESSAGE (ACM) и ANSWER (ANM)" />
+<ANSWER id="1" value="ADDRESS COMPLETE MESSAGE (ACM)" />
+<ANSWER id="2" value="INITIAL ADDRESS MESSAGE (IAM) и ADDRESS COMPLETE MESSAGE (ACM)" />
+<ANSWER id="3" value="INITIAL ADDRESS MESSAGE (IAM) и ANSWER (ANM)" />
+<ANSWER id="4" value="CALL PROGRESS (CPG) и ANSWER (ANM)" />
+
+</ROOT>

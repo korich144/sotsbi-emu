@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Зачет 5G" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Где храниться постоянный идентификатор подписки абонента – 5G SUPI?" />
+<ANSWER id="0" value="в базе данных UDM" />
+<ANSWER id="1" value="в модуле пользователя USIM" />
+<ANSWER id="2" value="в базе данных UDM и в модуле пользователя USIM" />
+
+</ROOT>

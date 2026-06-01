@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Зачет OSI" /><THEME c1="6724095" c2="14740735" c3="6724095" /><QUESTION value="Какая утилита используется для диагностики соединений в сетях TCP/IP?" />
+<ANSWER id="0" value="ping" />
+<ANSWER id="1" value="netstat" />
+<ANSWER id="2" value="route" />
+<ANSWER id="3" value="ipconfig" />
+<ANSWER id="4" value="arp" />
+
+</ROOT>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Зачет ИБ" /><THEME c1="6724095" c2="14740735" c3="6724095" /><QUESTION value="Коммутатор 2-ого уровня для принятия решения о пересылке или маршрутизации анализирует информацию заголовка:" />
+<ANSWER id="0" value="IP пакета." />
+<ANSWER id="1" value="Кадра Ethernet." />
+<ANSWER id="2" value="Обоих уровней." />
+
+</ROOT>

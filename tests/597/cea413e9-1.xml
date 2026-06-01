@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Какой способ используется при отрицательном подтверждении значащих сигнальных единиц?" />
+<ANSWER id="0" value="BIB присваивается значение равное FIB" />
+<ANSWER id="1" value="Инвертирование BIB по отношению к FIB" />
+
+</ROOT>

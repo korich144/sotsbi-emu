@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Зачет 5G" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Укажите какая технология сети абонентского доступа может использоваться при установлении телефонного соединения в сети 5G?" />
+<ANSWER id="0" value="LTE" />
+<ANSWER id="1" value="Wi-Fi" />
+<ANSWER id="2" value="5G-AN" />
+<ANSWER id="3" value="Любая из перечисленных технологий" />
+
+</ROOT>

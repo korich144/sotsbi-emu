@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Зачет 5G" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Какая сетевая функция обеспечивает подключение сети доступа non-3GPP к базовой сети 5G?" />
+<ANSWER id="0" value="N3IWF" />
+<ANSWER id="1" value="UPF" />
+<ANSWER id="2" value="SMF" />
+
+</ROOT>

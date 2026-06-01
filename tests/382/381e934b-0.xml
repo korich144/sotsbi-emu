@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Зачет OSI" /><THEME c1="6724095" c2="14740735" c3="6724095" /><QUESTION value="Как NFS-клиенты получают доступ к файлам на NFS-сервере?" />
+<ANSWER id="0" value="С помощью отправки RPC-запросов на сервер" />
+<ANSWER id="1" value="С помощью отправки команды mount" />
+<ANSWER id="2" value="С помощью отправки команды Connect" />
+<ANSWER id="3" value="С помощью отправки команды Read Request (RRQ)" />
+
+</ROOT>

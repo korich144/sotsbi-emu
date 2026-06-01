@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Параметры аутентификации, хранящиеся в HLR, вычисляются и передаются туда из:" />
+<ANSWER id="0" value="AuC" />
+<ANSWER id="1" value="VLR" />
+<ANSWER id="2" value="SIM" />
+<ANSWER id="3" value="MSC" />
+
+</ROOT>

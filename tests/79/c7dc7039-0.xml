@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Зачет RTP" /><THEME c1="6724095" c2="14740735" c3="6724095" /><QUESTION value="В каком поле пакета RTP содержится информация об используемом кодеке?" />
+<ANSWER id="0" value="Поле типа полезной нагрузки Playload type (PT)" />
+<ANSWER id="1" value="Поле заполнения P" />
+<ANSWER id="2" value="Идентификатор SSRC" />
+<ANSWER id="3" value="Идентификатор CSRC" />
+
+</ROOT>

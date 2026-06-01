@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Укажите, в какой из этих подсистем, формируется этикетка маршрутизации?" />
+<ANSWER id="0" value="в подсистеме ISUP" />
+<ANSWER id="1" value="в подсистеме MTP2" />
+<ANSWER id="2" value="в подсистеме MTP3" />
+
+</ROOT>

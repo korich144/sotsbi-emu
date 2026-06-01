@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Какие сообщения протокола MQTT должны передаваться в случае, если соединение между MQTT-клиентом и Брокером  успешно установлено, но в течение длительного времени передаваемые между ними данные отсутствуют?" />
+<ANSWER id="0" value="PUBLISH, PUBREL" />
+<ANSWER id="1" value="PUBLISH, PUBCOMP" />
+<ANSWER id="2" value="PINGREQ, PINGRESP" />
+<ANSWER id="3" value="CONNECT, CONNACK" />
+
+</ROOT>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Проверка знаний по курсу Сети передачи данных" /><THEME c1="6724095" c2="14740735" c3="6724095" /><QUESTION value="Какой номер порта протокола UDP использует DHCP-клиент?" />
+<ANSWER id="0" value="53" />
+<ANSWER id="1" value="54" />
+<ANSWER id="2" value="67" />
+<ANSWER id="3" value="68" />
+<ANSWER id="4" value="69" />
+<ANSWER id="5" value="22" />
+<ANSWER id="6" value="23" />
+
+</ROOT>

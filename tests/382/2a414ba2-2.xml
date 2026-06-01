@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Зачет OSI" /><THEME c1="6724095" c2="14740735" c3="6724095" /><QUESTION value="Параметры передачи медиа-потоков описываются в протоколе SIP посредством протокола ..." />
+<ANSWER id="0" value="RTP " />
+<ANSWER id="1" value="RTCP" />
+<ANSWER id="2" value="SDP" />
+<ANSWER id="3" value="HTTP" />
+<ANSWER id="4" value="NFS" />
+
+</ROOT>

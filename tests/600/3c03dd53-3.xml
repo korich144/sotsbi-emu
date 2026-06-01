@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="С помощью какого запроса SIP осуществляется разрушение установленной мультимедийной сессии?" />
+<ANSWER id="0" value="INVITE" />
+<ANSWER id="1" value="REGISTER" />
+<ANSWER id="2" value="СANCEL" />
+<ANSWER id="3" value="BYE" />
+<ANSWER id="4" value="ACK" />
+
+</ROOT>

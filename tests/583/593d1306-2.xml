@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Проверка уровня знаний по курсу CLI" /><THEME c1="6724095" c2="14740735" c3="6724095" /><QUESTION value="С каким параметром следует запускать команду ls, чтобы увидеть все файлы каталога, включая &quot;скрытые&quot;?" />
+<ANSWER id="0" value="ls -r" />
+<ANSWER id="1" value="ls -S" />
+<ANSWER id="2" value="ls -a" />
+
+</ROOT>

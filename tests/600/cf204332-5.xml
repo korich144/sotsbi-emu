@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Какие функциональные элементы появляются при декомпозиции шлюза?" />
+<ANSWER id="0" value="MGC" />
+<ANSWER id="1" value="MSC" />
+<ANSWER id="2" value="SG" />
+<ANSWER id="3" value="MGW" />
+<ANSWER id="4" value="HSS" />
+<ANSWER id="5" value="MGC, SG, MGW" />
+<ANSWER id="6" value="HSS, MGS" />
+<ANSWER id="7" value="SG, MGW" />
+
+</ROOT>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Для чего используется параметр Paging Area (PgA)?" />
+<ANSWER id="0" value=" Для поиска мобильной станции в случае когда LAI неизвестен" />
+<ANSWER id="1" value="Вместе с LAI для уточнения зоны поиска мобильной станции" />
+
+</ROOT>

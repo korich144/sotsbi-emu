@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Какие поля сигнальной единицы MSU формируются в MTP2 (сигнальном терминале)?" />
+<ANSWER id="0" value="SIO" />
+<ANSWER id="1" value="SIF" />
+<ANSWER id="2" value="LI, FIB, FSN, CK, F" />
+
+</ROOT>

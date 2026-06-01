@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Зачет SCCP" /><THEME c1="6724095" c2="14740735" c3="6724095" /><QUESTION value="Какое значение примет идентификатор уровня примитива, если примитив был сформирован подсистемой INAP?" />
+<ANSWER id="0" value="N &quot;Network&quot;" />
+<ANSWER id="1" value="MTP" />
+<ANSWER id="2" value="N или MTP. В зависимости от назначения примитива" />
+<ANSWER id="3" value="Никакого. Подсистема INAP не является пользователем подсистемы SCCP" />
+
+</ROOT>

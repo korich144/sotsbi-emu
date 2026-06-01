@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Какой программный элемент определяет состав и последовательность взаимодействия VNF при выполнении сетевой услуги?" />
+<ANSWER id="0" value="VNFFG" />
+<ANSWER id="1" value="VNFM" />
+<ANSWER id="2" value="VIM" />
+
+</ROOT>

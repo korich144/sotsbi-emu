@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Если VLR в рамках процедуры обновления местонахождения не может найти в своей базе данных TMSI (IMSI) и LAI принятые в запросе от MSC &quot;MAP-UPDATE-LOCATION-AREA&quot;, это говорит о том, что:" />
+<ANSWER id="0" value="MS переместилась в зону обслуживания другого MSC" />
+<ANSWER id="1" value="MS переместилась в новую зону местонахождения того же MSC" />
+<ANSWER id="2" value="MS переместилась в другую соту той же LA" />
+
+</ROOT>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Зачет MAP" /><THEME c1="6724095" c2="14740735" c3="6724095" /><QUESTION value="Какие параметры обязательно передаются в HLR в запросе MAP-UPDATE-LOCATION?" />
+<ANSWER id="0" value="IMSI, MSC number, VLR number" />
+<ANSWER id="1" value="IMSI, Paging Area, IMEISV" />
+
+</ROOT>

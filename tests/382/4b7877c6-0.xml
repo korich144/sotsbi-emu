@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Зачет OSI" /><THEME c1="6724095" c2="14740735" c3="6724095" /><QUESTION value="Какой основной тип данных переносит протокол HTTP?" />
+<ANSWER id="0" value="гипертекстовых документов" />
+<ANSWER id="1" value="изображений" />
+<ANSWER id="2" value="текстовых файлов" />
+<ANSWER id="3" value="аудио файлов" />
+<ANSWER id="4" value="видео файлов" />
+<ANSWER id="5" value="все варианты ответов верны" />
+
+</ROOT>

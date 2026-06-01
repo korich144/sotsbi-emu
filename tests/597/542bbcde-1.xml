@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Какая подсистема ОКС №7 используется при взаимодействии узла коммутации услуг с узлом управления услугами?" />
+<ANSWER id="0" value="ISUP" />
+<ANSWER id="1" value="INAP" />
+<ANSWER id="2" value="MAP" />
+
+</ROOT>

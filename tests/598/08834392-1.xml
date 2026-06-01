@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Выберите один верный формат RTSP URL, где протокол RTSP передается поверх UDP?" />
+<ANSWER id="0" value="rtsp://media.example.com:554/twister/audiotrack" />
+<ANSWER id="1" value="rtspu://media.example.com:8554/twister" />
+<ANSWER id="2" value="rtsp://media.example.com/twister/audiotrack" />
+<ANSWER id="3" value="http://media.example.com/audiotrack" />
+
+</ROOT>

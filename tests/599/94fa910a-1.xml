@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Какие данные аутентификации используются при подтверждении подлинности абонента и сети в UMTS?" />
+<ANSWER id="0" value="RAND, SRES, Kc" />
+<ANSWER id="1" value="RAND, XRES, CK, IK, AUTN" />
+<ANSWER id="2" value="RAND, XRES, CK, IK" />
+
+</ROOT>

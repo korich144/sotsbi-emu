@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Зачет SCCP" /><THEME c1="6724095" c2="14740735" c3="6724095" /><QUESTION value="Глобальный заголовок – это…?" />
+<ANSWER id="0" value="номер DPC" />
+<ANSWER id="1" value="номер пользователской подсистемы " />
+<ANSWER id="2" value="сетевой адрес пользователя" />
+<ANSWER id="3" value="информация управления сетевым протоколом" />
+
+</ROOT>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Какой вид сети используется в блокчейне?" />
+<ANSWER id="0" value="Двухранговая или серверная сеть" />
+<ANSWER id="1" value="Одноранговая (P2P) сеть" />
+<ANSWER id="2" value="Иерархическая сеть" />
+<ANSWER id="3" value="Все варианты ответов верны" />
+
+</ROOT>

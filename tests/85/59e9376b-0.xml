@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Зачет SIP" /><THEME c1="6724095" c2="14740735" c3="6724095" /><QUESTION value="Какая информация содержится в заголовке To запроса?" />
+<ANSWER id="0" value="SIP URI логического получателя запроса" />
+<ANSWER id="1" value="SIP URI логического отправителя запроса" />
+<ANSWER id="2" value="Адрес SIP сервера , обслуживающего запрос" />
+
+</ROOT>

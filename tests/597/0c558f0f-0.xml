@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Что обозначают цифры DEF в номере ПDEFx1…x7, который набирается при обращении к интеллектуальной услуге?" />
+<ANSWER id="0" value="код доступа к услуге" />
+<ANSWER id="1" value="код оператора" />
+<ANSWER id="2" value="код телефонной зоны" />
+
+</ROOT>

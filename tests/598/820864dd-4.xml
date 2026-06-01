@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Какой номер порта протокола UDP используется сервером DHCP?" />
+<ANSWER id="0" value="22" />
+<ANSWER id="1" value="23" />
+<ANSWER id="2" value="53" />
+<ANSWER id="3" value="54" />
+<ANSWER id="4" value="67" />
+<ANSWER id="5" value="68" />
+<ANSWER id="6" value="69" />
+
+</ROOT>

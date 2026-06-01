@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Какой порт используется для передачи сообщений MQTT по умолчанию?" />
+<ANSWER id="0" value="1883" />
+<ANSWER id="1" value="5060" />
+<ANSWER id="2" value="21" />
+<ANSWER id="3" value="991" />
+
+</ROOT>

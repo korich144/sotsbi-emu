@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Какая функция программного коммутатора обеспечивает возможность переноса сигнальной информации сети ОКС№7 по сети IP?" />
+<ANSWER id="0" value="SG" />
+<ANSWER id="1" value="MGC" />
+<ANSWER id="2" value="MGW" />
+<ANSWER id="3" value="TGW" />
+<ANSWER id="4" value="HSS" />
+
+</ROOT>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Какие протоколы транспортного и сетевого уровня использует протокол DNS, когда размер данных ответа не превышает 512 байт?" />
+<ANSWER id="0" value="TCP/ATM" />
+<ANSWER id="1" value="SCTP/IP" />
+<ANSWER id="2" value="UDP/IP" />
+
+</ROOT>

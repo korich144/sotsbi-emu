@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Зачет MAP" /><THEME c1="6724095" c2="14740735" c3="6724095" /><QUESTION value="Какой процесс провайдера MAP создается для каждой индивидуальной услуги, выполнение которой запрошено от удаленного пользователя?" />
+<ANSWER id="0" value="MAP_DSM" />
+<ANSWER id="1" value="Requesting_MAP_SSM" />
+<ANSWER id="2" value="Performing_MAP_SSM" />
+
+</ROOT>

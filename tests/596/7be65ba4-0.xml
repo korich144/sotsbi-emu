@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Какая сетевая надстройка используется на фиксированной сети для оказания услуги &quot;Бесплатный вызов&quot;?" />
+<ANSWER id="0" value="Интеллектуальные сети" />
+<ANSWER id="1" value="Сети передачи данных" />
+<ANSWER id="2" value="Сети абонентского доступа" />
+
+</ROOT>

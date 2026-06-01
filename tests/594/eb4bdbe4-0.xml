@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Зачет 5G" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Какая сетевая функция выполняет управление сессией (создание, изменение и завершение сеанса, включая туннель между UPF и узлом AN) и функции роуминга?" />
+<ANSWER id="0" value="SMF" />
+<ANSWER id="1" value="AMF" />
+<ANSWER id="2" value="AUSF" />
+
+</ROOT>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="В каком сетевом элементе обновляются данные местонахождения при перемещении пользователя в новую LA, обслуживаемую тем же MSC?" />
+<ANSWER id="0" value="Только в VLR" />
+<ANSWER id="1" value="Только в HLR" />
+<ANSWER id="2" value="В VLR и HLR" />
+
+</ROOT>

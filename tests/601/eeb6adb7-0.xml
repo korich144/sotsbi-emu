@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Значение какого флага заголовка фиксированной длины протокола MQTT задает различные уровни обслуживания?" />
+<ANSWER id="0" value="QoS Level" />
+<ANSWER id="1" value="DUP" />
+<ANSWER id="2" value="RETAIN" />
+<ANSWER id="3" value="все варианты ответов верны" />
+
+</ROOT>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Проверка знаний по курсу Сети передачи данных" /><THEME c1="6724095" c2="14740735" c3="6724095" /><QUESTION value="Сколько сетей VLAN по умолчанию может использоваться в стандарте 802.1Q?" />
+<ANSWER id="0" value="1" />
+<ANSWER id="1" value="2" />
+<ANSWER id="2" value="до 10" />
+<ANSWER id="3" value="неограниченное число " />
+
+</ROOT>

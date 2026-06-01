@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Что означает величина окна (window) установленная в 0?" />
+<ANSWER id="0" value="закрытие TCP-соединения" />
+<ANSWER id="1" value="возобновление передачи данных" />
+<ANSWER id="2" value="запрос передачи с первого сегмента" />
+<ANSWER id="3" value="требование приостановить передачу данных" />
+
+</ROOT>

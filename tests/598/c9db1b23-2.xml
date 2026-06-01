@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="В какой системе счисления принято представлять IPv4 адрес?" />
+<ANSWER id="0" value="двоичной" />
+<ANSWER id="1" value="восьмеричной" />
+<ANSWER id="2" value="десятичной" />
+<ANSWER id="3" value="шестнадцатеричной" />
+
+</ROOT>

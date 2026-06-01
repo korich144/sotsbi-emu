@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Зачет 5G" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Какой из перечисленных идентификаторов может выступать в качестве постоянного идентификатора подписки абонента – 5G SUPI (Subscription Permanent Identifier)?" />
+<ANSWER id="0" value="международный идентификатор мобильного абонента – IMSI (International Mobile Subscriber Identity)" />
+<ANSWER id="1" value="идентификатор доступа к сети – NAI (Network Access Identifier)" />
+<ANSWER id="2" value="любой из перечисленных идентификаторов" />
+
+</ROOT>

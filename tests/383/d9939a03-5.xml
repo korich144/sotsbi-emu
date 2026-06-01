@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Зачет MAP" /><THEME c1="6724095" c2="14740735" c3="6724095" /><QUESTION value="Укажите, какие из этих услуг запрашиваются в рамках реализации процедуры обновления местонахождения?" />
+<ANSWER id="0" value="MAP_UPDATE_LOCATION_AREA, MAP_UPDATE_LOCATION" />
+<ANSWER id="1" value="MAP_CANCEL_LOCATION" />
+<ANSWER id="2" value="MAP_INSERT_SUBSCRIBER_DATA" />
+<ANSWER id="3" value="MAP_SEND_IDENTIFICATION" />
+<ANSWER id="4" value="MAP_AUTHENTICATE" />
+<ANSWER id="5" value="Все перечисленные услуги" />
+
+</ROOT>

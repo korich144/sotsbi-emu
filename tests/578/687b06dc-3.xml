@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Проверка знаний по курсу Сети передачи данных" /><THEME c1="6724095" c2="14740735" c3="6724095" /><QUESTION value="Какая технология используется, если маршрут помечается как недостижимый и отправляется в обновлениях?" />
+<ANSWER id="0" value="Split horizon" />
+<ANSWER id="1" value="Triggered update" />
+<ANSWER id="2" value="Route poisoning" />
+<ANSWER id="3" value="Poison reverse" />
+
+</ROOT>

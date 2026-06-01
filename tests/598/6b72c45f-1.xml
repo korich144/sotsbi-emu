@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="От какой технологии в Skype отказались, после перехода в Microsoft?" />
+<ANSWER id="0" value="технологий Интернета Вещей (Internet of Things, IoT)" />
+<ANSWER id="1" value="наложенной peer-to-peer сети" />
+<ANSWER id="2" value="передачи XML stanzas" />
+<ANSWER id="3" value="применения различных транспортных портов для преодоления шлюзов безопасности" />
+
+</ROOT>

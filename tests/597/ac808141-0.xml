@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Какие дополнительные поля MSU отличают её от других сигнальных единиц?" />
+<ANSWER id="0" value="SIO, SIF" />
+<ANSWER id="1" value="FIB,FSN" />
+<ANSWER id="2" value="BIB, BSN" />
+
+</ROOT>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Зачет ИБ" /><THEME c1="6724095" c2="14740735" c3="6724095" /><QUESTION value="IDS - это:" />
+<ANSWER id="0" value="Система обнаружения вторжений." />
+<ANSWER id="1" value="Система предотвращения вторжений." />
+
+</ROOT>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Параметр Service Indicator (индикатор вида службы) поля SIO указывает:" />
+<ANSWER id="0" value="подсистему, которой предназначена или, от которой получена, сигнальная информация" />
+<ANSWER id="1" value="тип дополнительной услуги" />
+<ANSWER id="2" value="индикатор основной услуги" />
+
+</ROOT>

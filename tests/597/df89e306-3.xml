@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Значащая сигнальная единица переносит сигнальную информацию:" />
+<ANSWER id="0" value="подсистемы SCCP" />
+<ANSWER id="1" value="подсистем ISUP, INAP, MAP." />
+<ANSWER id="2" value="подсистемы технического обслуживания и тестирования" />
+<ANSWER id="3" value="все варианты ответов верны" />
+
+</ROOT>

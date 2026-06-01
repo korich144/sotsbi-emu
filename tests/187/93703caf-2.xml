@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Зачет ИБ" /><THEME c1="6724095" c2="14740735" c3="6724095" /><QUESTION value="Какой из перечисленных ниже алгоритмов является алгоритмом американского правительства, предназначенным для создания безопасных дайджестов соообщений?" />
+<ANSWER id="0" value="Data Encryption Algorithm" />
+<ANSWER id="1" value="Digital Signature Standard" />
+<ANSWER id="2" value="Secure Hash Algorithm" />
+<ANSWER id="3" value="Data Signature Algorithm" />
+<ANSWER id="4" value="Диффи-Хеллмана" />
+
+</ROOT>

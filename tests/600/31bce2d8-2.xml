@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="С помощью какого ответа вызывающий терминал оповещается о том, что вызываемому пользователю передается информация о поступившем вызове?" />
+<ANSWER id="0" value="200" />
+<ANSWER id="1" value="100" />
+<ANSWER id="2" value="180" />
+
+</ROOT>

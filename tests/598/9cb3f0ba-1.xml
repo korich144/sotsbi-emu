@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="К какому уровню относится технология Ethernet?" />
+<ANSWER id="0" value="физическому" />
+<ANSWER id="1" value="канальному" />
+<ANSWER id="2" value="сетевому" />
+<ANSWER id="3" value="транспортному" />
+<ANSWER id="4" value="прикладному" />
+
+</ROOT>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Какие из методов HTTP обязательно должны поддерживаться веб-сервером?" />
+<ANSWER id="0" value="GET и HEAD" />
+<ANSWER id="1" value="CONNECT и TRACE" />
+<ANSWER id="2" value="GET и POST" />
+<ANSWER id="3" value="POST, PUT, PATCH и DELETE" />
+<ANSWER id="4" value="OPTIONS и POST" />
+
+</ROOT>

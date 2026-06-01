@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Мобильные станции каких стандартов должны поддерживать аутентификацию в сети GSM?" />
+<ANSWER id="0" value="GERAN, UTRAN" />
+<ANSWER id="1" value="только GERAN" />
+<ANSWER id="2" value="только UTRAN" />
+
+</ROOT>

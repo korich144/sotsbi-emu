@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Какие поля содержит секция Question сообщения протокола DNS?" />
+<ANSWER id="0" value="ID, QR, Opcode, AA, TC, RD, RA, Z, RCODE, QDCOUNT, ANCOUNT, NSCOUNT, ARCOUNT" />
+<ANSWER id="1" value="NAME, TYPE, CLASS, TTL, RDLENGTH, RDATA" />
+<ANSWER id="2" value="Header, Question, Answer, Authority, Additional" />
+<ANSWER id="3" value="QNAME, QTYPE, QCLASS" />
+
+</ROOT>

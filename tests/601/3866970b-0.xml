@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Какое сообщение протокола MQTT передается MQTT-клиентом для отключения от сервера?" />
+<ANSWER id="0" value="DISCONNECT" />
+<ANSWER id="1" value="CONNECT" />
+<ANSWER id="2" value="PUBREL" />
+<ANSWER id="3" value="UNSUBSCRIBE" />
+<ANSWER id="4" value="PINGREQ" />
+
+</ROOT>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Зачет SCCP" /><THEME c1="6724095" c2="14740735" c3="6724095" /><QUESTION value="Какой функциональный блок подсистемы SCCP осуществляет процедуру преобразовния глобального заголовка (GTT)?" />
+<ANSWER id="0" value="Блок управления маршрутизацией &quot;SCRC&quot;" />
+<ANSWER id="1" value="Блок управления SCCP для услуг ориентированных  на соединение &quot;SCOC&quot;" />
+<ANSWER id="2" value="Блок управления SCCP для услуг не ориентированных на соединение &quot;SCLC&quot;" />
+<ANSWER id="3" value="Блок эксплуатационного управления SCCP &quot;SCMG&quot;" />
+
+</ROOT>

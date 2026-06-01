@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Источниками Big Data являются:" />
+<ANSWER id="0" value="Социальные сети и их данные" />
+<ANSWER id="1" value="Транзакции" />
+<ANSWER id="2" value="Научные данные (астрономия, геном человека, исследования атмосферы, биохимия, биология)" />
+<ANSWER id="3" value="Фото- и видео-архивы" />
+<ANSWER id="4" value="Данные электронной коммерции" />
+<ANSWER id="5" value="Все варианты ответов верны" />
+
+</ROOT>

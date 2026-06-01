@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Зачет MTP2" /><THEME c1="6724095" c2="14740735" c3="6724095" /><QUESTION value="В каком поле сигнальной единицы передаются индикаторы состояния сигнального звена?" />
+<ANSWER id="0" value="SF" />
+<ANSWER id="1" value="SIO" />
+<ANSWER id="2" value="SIF" />
+<ANSWER id="3" value="все другие варианты ответов неверны" />
+<ANSWER id="4" value="LI" />
+<ANSWER id="5" value="CK" />
+<ANSWER id="6" value="SLS" />
+<ANSWER id="7" value="SSF" />
+
+</ROOT>

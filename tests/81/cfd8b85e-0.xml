@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Зачет ISUP" /><THEME c1="6724095" c2="14740735" c3="6724095" /><QUESTION value="Какое сообщение ISUP используется для передачи дополнительной адресной информации о вызываемой стороне при передаче адресной информации с перекрытием?" />
+<ANSWER id="0" value="Subsequent address message, SAM" />
+<ANSWER id="1" value="Information, INF" />
+<ANSWER id="2" value="Circuit group reset, GRS" />
+<ANSWER id="3" value="Call progress, CPG" />
+<ANSWER id="4" value="Initial Address Message, IAM" />
+
+</ROOT>

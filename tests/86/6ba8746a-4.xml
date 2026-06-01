@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Зачет H.248" /><THEME c1="6724095" c2="14740735" c3="6724095" /><QUESTION value="Какое значение причины следует указывать в дескрипторе Services для индикации, что ранее было потеряно соединение между MG и MGC, при передаче команды ServiceChange к MGC?" />
+<ANSWER id="0" value="900(Service Restored)" />
+<ANSWER id="1" value="901(Cold Boot)" />
+<ANSWER id="2" value="903(MGC Directed Change)" />
+<ANSWER id="3" value="905(Terminatoin taken out of service)" />
+<ANSWER id="4" value="906(Loss of lower layer connectivity)" />
+
+</ROOT>

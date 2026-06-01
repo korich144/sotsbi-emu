@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Зачет ИБ" /><THEME c1="6724095" c2="14740735" c3="6724095" /><QUESTION value="Классифицируются ли системы IPS как HIPS и NIPS?" />
+<ANSWER id="0" value="Да, классифицируются." />
+<ANSWER id="1" value="Нет, не классифицируются." />
+
+</ROOT>

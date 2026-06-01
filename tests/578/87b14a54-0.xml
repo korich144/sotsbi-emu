@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Проверка знаний по курсу Сети передачи данных" /><THEME c1="6724095" c2="14740735" c3="6724095" /><QUESTION value="Какое значение метрики называется “Бесконечно большой метрикой”?" />
+<ANSWER id="0" value="16" />
+<ANSWER id="1" value="15" />
+<ANSWER id="2" value="00" />
+<ANSWER id="3" value="99" />
+<ANSWER id="4" value="17" />
+
+</ROOT>

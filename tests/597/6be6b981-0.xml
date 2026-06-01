@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Укажите, в какой из подсистем на основании анализа DPC и поля SLS выбирается сигнальное звено к смежному пункту сигнализации" />
+<ANSWER id="0" value="MTP3" />
+<ANSWER id="1" value="ISUP" />
+<ANSWER id="2" value="MTP2" />
+
+</ROOT>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Зачет MAP" /><THEME c1="6724095" c2="14740735" c3="6724095" /><QUESTION value="В случае отсутствия очередной процедуры обновления местонахождения MS в течении времени, заданного сетью…." />
+<ANSWER id="0" value="В VLR устанавливается Флаг отсутствия MS в зоне обслуживания VLR (Subscriber data dormant)" />
+<ANSWER id="1" value="Абонентские данные для указанной MS удаляются из VLR" />
+<ANSWER id="2" value="В HLR устанавливается Флаг отсутствия MS в зоне обслуживания VLR (Subscriber data dormant)" />
+
+</ROOT>

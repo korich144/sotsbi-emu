@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Зачет MTP2" /><THEME c1="6724095" c2="14740735" c3="6724095" /><QUESTION value="Функции какого уровня модели OSI выполняет MTP2?" />
+<ANSWER id="0" value="физического" />
+<ANSWER id="1" value="канального" />
+<ANSWER id="2" value="сетевого" />
+<ANSWER id="3" value="транспортного" />
+<ANSWER id="4" value="сеансового" />
+<ANSWER id="5" value="представлений" />
+<ANSWER id="6" value="прикладного" />
+<ANSWER id="7" value="все другие ответы неверны" />
+
+</ROOT>

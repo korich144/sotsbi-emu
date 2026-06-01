@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="В каком формате передаются сообщения протокола XMPP (Jabber)?" />
+<ANSWER id="0" value="текстовый (TXT)" />
+<ANSWER id="1" value="XML" />
+<ANSWER id="2" value="двоичный (BIN)" />
+<ANSWER id="3" value="ASCII" />
+
+</ROOT>

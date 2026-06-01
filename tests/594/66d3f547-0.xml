@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Зачет 5G" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Может ли UE иметь одновременно несколько созданных PDU сессий для связи с различными сетями передачи данных и получения различных услуг?" />
+<ANSWER id="0" value="да" />
+<ANSWER id="1" value="нет" />
+
+</ROOT>

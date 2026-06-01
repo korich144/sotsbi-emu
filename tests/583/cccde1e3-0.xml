@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Проверка уровня знаний по курсу CLI" /><THEME c1="6724095" c2="14740735" c3="6724095" /><QUESTION value="С каким параметром надо запустить утилиту netstat, чтобы выяснить список открытых TCP-портов?" />
+<ANSWER id="0" value="С параметром -at" />
+<ANSWER id="1" value="С параметром -au" />
+<ANSWER id="2" value="С параметром -lt" />
+
+</ROOT>

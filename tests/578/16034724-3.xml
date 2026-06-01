@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Проверка знаний по курсу Сети передачи данных" /><THEME c1="6724095" c2="14740735" c3="6724095" /><QUESTION value="Каким максимальным значением TTL (Время жизни) может обладать IP пакет?" />
+<ANSWER id="0" value="128" />
+<ANSWER id="1" value="225" />
+<ANSWER id="2" value="192" />
+<ANSWER id="3" value="255" />
+
+</ROOT>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Проверка знаний по курсу Сети передачи данных" /><THEME c1="6724095" c2="14740735" c3="6724095" /><QUESTION value="Какой диапазон значений первого октета у адресов класса D?" />
+<ANSWER id="0" value="224 - 239" />
+<ANSWER id="1" value="240 - 247" />
+<ANSWER id="2" value="1 - 126" />
+<ANSWER id="3" value="128 - 191" />
+
+</ROOT>

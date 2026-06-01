@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Укажите домены из которых состоит NFVI" />
+<ANSWER id="0" value="Домен гипервизора" />
+<ANSWER id="1" value="Домен обработки данных" />
+<ANSWER id="2" value="Домен сетевой инфраструктуры" />
+<ANSWER id="3" value="Все ответы верны" />
+
+</ROOT>

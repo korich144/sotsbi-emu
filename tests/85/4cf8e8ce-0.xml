@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Зачет SIP" /><THEME c1="6724095" c2="14740735" c3="6724095" /><QUESTION value="Для чего предназначен заголовок Call-ID? " />
+<ANSWER id="0" value="Для идентификации сеанса связи" />
+<ANSWER id="1" value="Для идентификации терминала" />
+<ANSWER id="2" value="Для определения маршрута следования сообщения" />
+
+</ROOT>

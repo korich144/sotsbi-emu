@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Может ли сетевая услуга состоять из функций, реализованных как в физических сетевых элементах, так  и виртуальных функций?" />
+<ANSWER id="0" value="Да" />
+<ANSWER id="1" value="Нет" />
+
+</ROOT>

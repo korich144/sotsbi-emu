@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Тест H323" /><THEME c1="6724095" c2="14740735" c3="6724095" /><QUESTION value="Какое сообщение протокола H.225 информирует вызывающего пользователь о том, что вызываемый пользователь ответил на вызов?" />
+<ANSWER id="0" value="Setup" />
+<ANSWER id="1" value="Connect" />
+<ANSWER id="2" value="Alerting" />
+<ANSWER id="3" value="Information" />
+<ANSWER id="4" value="Notify" />
+<ANSWER id="5" value="Facility" />
+
+</ROOT>

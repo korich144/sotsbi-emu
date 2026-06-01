@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Зачет ИБ" /><THEME c1="6724095" c2="14740735" c3="6724095" /><QUESTION value="Какой из перечисленных ниже алгоритмов выполняют только функции шифрования с использованием симметричного ключа?" />
+<ANSWER id="0" value="IDEA" />
+<ANSWER id="1" value="RSA" />
+<ANSWER id="2" value="SHA" />
+<ANSWER id="3" value="DSA" />
+<ANSWER id="4" value="Диффи-Хеллмана" />
+
+</ROOT>

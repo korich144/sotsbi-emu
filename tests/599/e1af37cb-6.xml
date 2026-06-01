@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Какая адресная информация помещается в этикетку маршрутизации подсистемой ISUP:" />
+<ANSWER id="0" value="CIC" />
+<ANSWER id="1" value="GT" />
+<ANSWER id="2" value="DPC" />
+<ANSWER id="3" value="OPC" />
+<ANSWER id="4" value="OPC, DPC" />
+<ANSWER id="5" value="GT, CIC" />
+<ANSWER id="6" value="OPC, DPC, CIC" />
+
+</ROOT>

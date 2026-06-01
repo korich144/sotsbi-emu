@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Проверка знаний по курсу Сети передачи данных" /><THEME c1="6724095" c2="14740735" c3="6724095" /><QUESTION value="Какие обязательные поля подуровня LLC включаются в заголовок кадра?" />
+<ANSWER id="0" value="поля точек источника и назначения сетевого сервиса(SAP), тип кадра LLC" />
+<ANSWER id="1" value="DSAP, SSAP, Control и Protocol" />
+<ANSWER id="2" value="только DSAP и SSAP" />
+<ANSWER id="3" value="только тип кадра LLC" />
+
+</ROOT>

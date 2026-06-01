@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Какой из методов HTTP позволяет дополнить существующий ресурс?" />
+<ANSWER id="0" value="POST" />
+<ANSWER id="1" value="PUT" />
+<ANSWER id="2" value="GET" />
+<ANSWER id="3" value="HEAD" />
+<ANSWER id="4" value="PATCH" />
+<ANSWER id="5" value="DELETE" />
+
+</ROOT>

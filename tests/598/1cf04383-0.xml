@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Из скольки байт состоит MAC-адрес?" />
+<ANSWER id="0" value="6" />
+<ANSWER id="1" value="4" />
+<ANSWER id="2" value="8" />
+<ANSWER id="3" value="64" />
+<ANSWER id="4" value="48" />
+
+</ROOT>

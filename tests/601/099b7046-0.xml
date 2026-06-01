@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Протокол MQTT реализует принцип:" />
+<ANSWER id="0" value="Издатель-Подписчик" />
+<ANSWER id="1" value="Клиент-Сервер" />
+<ANSWER id="2" value="Вопрос-Ответ" />
+
+</ROOT>

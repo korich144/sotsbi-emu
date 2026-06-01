@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="В каком поле сигнальной единицы содержится код сообщения ISUP?" />
+<ANSWER id="0" value="Байт служебной информации (SIO)" />
+<ANSWER id="1" value="Поле сигнальной информации (SIF)" />
+<ANSWER id="2" value="Поле выбора сигнального звена (SLS)" />
+<ANSWER id="3" value="Код идентификации канала (CIC)" />
+
+</ROOT>

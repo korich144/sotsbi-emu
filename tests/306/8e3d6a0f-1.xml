@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Тест H323" /><THEME c1="6724095" c2="14740735" c3="6724095" /><QUESTION value="В каком случае Привратник передает сообщение ARJ (Admission Reject) протокола RAS?" />
+<ANSWER id="0" value="Привратник передает сообщение ARJ (Admission Reject) в ответ на сообщение ARQ (Admission Request)и выделяет требуемую полосу пропускания" />
+<ANSWER id="1" value="Привратник передает сообщение ARJ (Admission Reject) в ответ на сообщение ARQ (Admission Request) с информацией о том, что требуемая полоса пропускания недоступна" />
+<ANSWER id="2" value="Привратник передает сообщение ARJ (Admission Reject) в ответ на сообщение ARQ (Admission Request)с информацией о том, что вызываемый пользователь не зарегистрирован у Привратника" />
+
+</ROOT>

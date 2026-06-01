@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Сколько циклов необходимо для однократной передачи сигнальной информации (по 2ВСК) для 30 разговорных каналов?" />
+<ANSWER id="0" value="15" />
+<ANSWER id="1" value="8" />
+<ANSWER id="2" value="32" />
+
+</ROOT>

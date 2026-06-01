@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Зачет MTP2" /><THEME c1="6724095" c2="14740735" c3="6724095" /><QUESTION value="Сколько не подтвержденных значащих сигнальных единиц размером в 63 октета может храниться в буфере повторной передачи сигнального звена 64 кбит/с до истечения минимального значения таймера ожидания подтверждения (T7=0,5-2с)?" />
+<ANSWER id="0" value="1000" />
+<ANSWER id="1" value="800" />
+<ANSWER id="2" value="126" />
+<ANSWER id="3" value="63" />
+<ANSWER id="4" value="15" />
+<ANSWER id="5" value="8" />
+<ANSWER id="6" value="7" />
+<ANSWER id="7" value="2" />
+
+</ROOT>

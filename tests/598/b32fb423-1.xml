@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="С помощью какого параметра сообщений протокола RTSP можно запросить трансляцию мультимедийной информации с заданного времени?" />
+<ANSWER id="0" value="CSeq" />
+<ANSWER id="1" value="Range" />
+<ANSWER id="2" value="Session" />
+<ANSWER id="3" value="RTP-Info" />
+<ANSWER id="4" value="Accept" />
+<ANSWER id="5" value="Content-Type" />
+<ANSWER id="6" value="Transport" />
+
+</ROOT>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Зачет ISUP" /><THEME c1="6724095" c2="14740735" c3="6724095" /><QUESTION value="Какое сообщение используется для блокировки группы каналов?" />
+<ANSWER id="0" value="Blocking, BLO" />
+<ANSWER id="1" value="Blocking acknowledgment, BLA" />
+<ANSWER id="2" value="Circuit group blocking, CGB" />
+<ANSWER id="3" value="Circuit group reset, RSC" />
+<ANSWER id="4" value="Release, REL" />
+
+</ROOT>

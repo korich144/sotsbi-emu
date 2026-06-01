@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Зачет OSI" /><THEME c1="6724095" c2="14740735" c3="6724095" /><QUESTION value="Протоколом какого уровня модели OSI является протокол SSH?" />
+<ANSWER id="0" value="Прикладной уровень" />
+<ANSWER id="1" value="Сетевой уровень" />
+<ANSWER id="2" value="Транспортный уровень" />
+<ANSWER id="3" value="Представительный уровень" />
+<ANSWER id="4" value="Сеансовый уровень" />
+<ANSWER id="5" value="Физический уровень" />
+
+</ROOT>

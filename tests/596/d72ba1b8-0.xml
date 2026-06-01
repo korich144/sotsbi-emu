@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Какой из указанных протоколов ОКС №7 реализует услугу телефонного соединения?" />
+<ANSWER id="0" value="ISUP" />
+<ANSWER id="1" value="INAP" />
+<ANSWER id="2" value="MAP" />
+<ANSWER id="3" value="OMAP" />
+
+</ROOT>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Если в шлюзе сигнализации реализуется уровень адаптации протокола SIGTRAN M3UA, функции какого элемента сети ОКС№7 он реализует?" />
+<ANSWER id="0" value="STP" />
+<ANSWER id="1" value="ST" />
+<ANSWER id="2" value="SEP" />
+
+</ROOT>

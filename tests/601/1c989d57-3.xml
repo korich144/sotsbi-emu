@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Какая характеристика не является основной для Больших данных?" />
+<ANSWER id="0" value="Volume (объем)" />
+<ANSWER id="1" value="Velocity (скорость)" />
+<ANSWER id="2" value="Variety (многообразие)" />
+<ANSWER id="3" value="Quality (качество)" />
+
+</ROOT>

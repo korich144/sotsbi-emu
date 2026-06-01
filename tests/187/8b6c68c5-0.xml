@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Зачет ИБ" /><THEME c1="6724095" c2="14740735" c3="6724095" /><QUESTION value="Какая атака для передачи запросов злоумышленника  использует в качестве туннеля  протокол ICMP?" />
+<ANSWER id="0" value="Атака Loki." />
+<ANSWER id="1" value="DoS атака." />
+<ANSWER id="2" value="DDoS атака." />
+
+</ROOT>

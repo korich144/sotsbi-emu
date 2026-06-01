@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Зачет RTP" /><THEME c1="6724095" c2="14740735" c3="6724095" /><QUESTION value="Основными характеристиками кодеков являются:" />
+<ANSWER id="0" value="Метод компрессии или сжатия" />
+<ANSWER id="1" value="Скорость кодирования" />
+<ANSWER id="2" value="Сложность реализации" />
+<ANSWER id="3" value="Задержка" />
+<ANSWER id="4" value="Все утверждения верны" />
+
+</ROOT>

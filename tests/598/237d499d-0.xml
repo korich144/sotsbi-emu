@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Какой из заголовков запросов HTTP можно отнести к группе условных заголовков?" />
+<ANSWER id="0" value="If-Modified-Since" />
+<ANSWER id="1" value="Max-Forwards" />
+<ANSWER id="2" value="Encoding" />
+<ANSWER id="3" value="Authorization" />
+<ANSWER id="4" value="Referer" />
+
+</ROOT>

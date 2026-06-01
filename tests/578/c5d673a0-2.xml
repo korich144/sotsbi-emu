@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Проверка знаний по курсу Сети передачи данных" /><THEME c1="6724095" c2="14740735" c3="6724095" /><QUESTION value="OSPF-пакеты какого типа служат для получения текущей маршрутной информации или для загрузки базы данных из соседнего маршрутизатора?" />
+<ANSWER id="0" value="Приветствие (Hello)." />
+<ANSWER id="1" value="Описание базы данных DD (Database Description)." />
+<ANSWER id="2" value="Запрос сведений о состоянии каналов (Link State Request)." />
+<ANSWER id="3" value="Корректировка сведений о состоянии каналов (Link State Update)." />
+
+</ROOT>

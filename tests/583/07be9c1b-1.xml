@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Проверка уровня знаний по курсу CLI" /><THEME c1="6724095" c2="14740735" c3="6724095" /><QUESTION value="Администратор желает запретить определённому пользователю доступ к консоли, но оставить возможность авторизации в предоставляемых сервером службах. Что нужно написать напротив имени пользователя в файле /etc/passwd?" />
+<ANSWER id="0" value="/bin/sh" />
+<ANSWER id="1" value="/bin/false" />
+<ANSWER id="2" value="/bin/passwd" />
+<ANSWER id="3" value="/bin/disable" />
+<ANSWER id="4" value="/sbin/nologin" />
+
+</ROOT>

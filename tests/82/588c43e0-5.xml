@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Зачет MTP3" /><THEME c1="6724095" c2="14740735" c3="6724095" /><QUESTION value="В каких полях MSU указывается пункт назначения сети  сигнализации ОКС№7 и подсистема, к которой следует доставить сообщение?" />
+<ANSWER id="0" value="Полей FSN и BSN" />
+<ANSWER id="1" value="Поля SF" />
+<ANSWER id="2" value="Поля SIF" />
+<ANSWER id="3" value="Поля SIO" />
+<ANSWER id="4" value="Маршрутной этикетки" />
+<ANSWER id="5" value="Полей SIF и SIO" />
+
+</ROOT>

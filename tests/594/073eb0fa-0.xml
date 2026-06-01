@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Зачет 5G" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Через какой интерфейс каждая сетевая функция NF получает доступ к единому хранилищу UDR?" />
+<ANSWER id="0" value="Nudr" />
+<ANSWER id="1" value="N10, N8" />
+
+</ROOT>

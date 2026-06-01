@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Кто инициирует и управляет процедурой аутентификации?" />
+<ANSWER id="0" value="сеть" />
+<ANSWER id="1" value="пользователь" />
+<ANSWER id="2" value="и сеть и пользователь" />
+
+</ROOT>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Какое сообщение MQTT-клиент (подписчик) отправляет брокеру для запроса подписки на интересующую его тему?" />
+<ANSWER id="0" value="CONNECT" />
+<ANSWER id="1" value="PUBLISH" />
+<ANSWER id="2" value="SUBSCRIBE" />
+<ANSWER id="3" value="PINGREQ" />
+
+</ROOT>

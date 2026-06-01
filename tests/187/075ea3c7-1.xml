@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Зачет ИБ" /><THEME c1="6724095" c2="14740735" c3="6724095" /><QUESTION value="Для чего используется биометрия в управлении доступом?" />
+<ANSWER id="0" value="Регистрация." />
+<ANSWER id="1" value="Аутентификация." />
+<ANSWER id="2" value="Подотчетность." />
+
+</ROOT>

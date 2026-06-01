@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Зачет ISUP" /><THEME c1="6724095" c2="14740735" c3="6724095" /><QUESTION value="Какое сообщение передается в любом направлении при установлении соединения или в его активной фазе, указывая на то, что на пути от исходящего доступа к входящему произошло значимое с точки зрения того или другого доступа событие?" />
+<ANSWER id="0" value="Call Progress, CPG" />
+<ANSWER id="1" value="Address Complete, ACM" />
+<ANSWER id="2" value="Connect, CON" />
+<ANSWER id="3" value="Continuity, COT" />
+<ANSWER id="4" value="Blocking, BLO" />
+<ANSWER id="5" value="Reset Circuit, RSC" />
+
+</ROOT>
