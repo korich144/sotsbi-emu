@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <ROOT><TARGET value="Процедура хэндовера" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="При какой длительности реализации процедуры хэндовера он не заметен для пользователя?" />
-<ANSWER id="0" value="&gt; 100 мс" />
+<ANSWER id="0" value="100 мс" />
 <ANSWER id="1" value="1 с" />
 <ANSWER id="2" value="500 мс" />
 

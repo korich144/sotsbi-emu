@@ -1,8 +1,8 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <ROOT><TARGET value="Процедуры аутентификации, обновления зоны местонахождения" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="В каком оборудовании используется  ключ Кc для шифрования данных?" />
 <ANSWER id="0" value="BSS" />
 <ANSWER id="1" value="MS" />
 <ANSWER id="2" value="MSC" />
-<ANSWER id="3" value="&gt; BSS, MS" />
+<ANSWER id="3" value="BSS, MS" />
 
 </ROOT>

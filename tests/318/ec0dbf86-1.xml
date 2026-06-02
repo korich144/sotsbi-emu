@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Формат сообщения протокола RADIUS" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Значением какого поля определяется тип пакета RADIUS?" />
+<ANSWER id="0" value="Идентификатор(Identifier)" />
+<ANSWER id="1" value=" Код (Code)" />
+<ANSWER id="2" value="Аутентификатор (Authenticator)" />
+<ANSWER id="3" value="Длина (Length)" />
+
+</ROOT>

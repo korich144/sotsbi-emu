@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Проверка знаний по теме "Аналитика данных"" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Что не относится к методам анализа больших данных?" />
+<ANSWER id="0" value="Data Science (наука о данных)" />
+<ANSWER id="1" value="Business intelligence (бизнес-аналитика)" />
+<ANSWER id="2" value="Data lake (озеро данных)" />
+<ANSWER id="3" value="Базы данных новой архитектуры" />
+
+</ROOT>

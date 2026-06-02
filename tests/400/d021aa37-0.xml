@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <ROOT><TARGET value="Проверить владение знаниями по формату протокола HTTP" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="В каком заголовке ответа HTTP указывается дата и время завершения кэширования полученных данных пользователем?" />
-<ANSWER id="0" value="&gt; Expires" />
+<ANSWER id="0" value="Expires" />
 <ANSWER id="1" value="Last-Moditied" />
 <ANSWER id="2" value="Date" />
 <ANSWER id="3" value="Cache-Control" />

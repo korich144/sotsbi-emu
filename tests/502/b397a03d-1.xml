@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Введение. Архитектура сети" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Выберите неверный факт о Blockchain:" />
+<ANSWER id="0" value="Как только любая операция в Blockchain выполнена, записи о ней необратимы" />
+<ANSWER id="1" value="Все участники сети Blockchain взаимодействуют друг с другом через центральный узел" />
+<ANSWER id="2" value="Каждый участники сети Blockchain имеет доступ ко всей информации и истории" />
+
+</ROOT>

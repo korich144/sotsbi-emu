@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Линейные коды" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="На каком из рисунков правильно показано кодирование при передаче сигналов в коде AMI?" />
+<ANSWER id="0" value="1" />
+<ANSWER id="1" value="2" />
+<ANSWER id="2" value="3" />
+<ANSWER id="3" value="4" />
+<ANSWER id="4" value="5" />
+<SCHEME f_id="409" t_id="2308" />
+
+</ROOT>

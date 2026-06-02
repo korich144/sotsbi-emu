@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Принцип работы" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Что такое Coinbase Transaction?" />
+<ANSWER id="0" value="Первая транзакция в блоке, создаваемая майнером и содержащая запрос на получение вознаграждения" />
+<ANSWER id="1" value="Первый блок в любом Blockchain, именно он дает старт цепочке" />
+<ANSWER id="2" value="Транзакция, проводимая вне Blockchain" />
+
+</ROOT>

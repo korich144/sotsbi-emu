@@ -1,8 +1,9 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="MPLS                                                                                                           " /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какой уровень MPLS содержит функции, обеспечивающие маршрутизацию?" />
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="MPLS                                                                                                          
+" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какой уровень MPLS содержит функции, обеспечивающие маршрутизацию?" />
 <ANSWER id="0" value="Физический уровень" />
 <ANSWER id="1" value="Уровень звена данных" />
 <ANSWER id="2" value="Сетевой уровень" />
-<ANSWER id="3" value="&gt; Прикладной уровень" />
+<ANSWER id="3" value="Прикладной уровень" />
 
 </ROOT>

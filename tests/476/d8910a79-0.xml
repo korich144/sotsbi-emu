@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Какая рекомендация ITU описывает применение DPI систем?" />
+<ANSWER id="0" value="ITU Y.2770 " />
+<ANSWER id="1" value="ITU G.911 " />
+<ANSWER id="2" value="RFC-1412 " />
+
+</ROOT>

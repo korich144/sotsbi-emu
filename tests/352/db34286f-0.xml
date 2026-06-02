@@ -1,6 +1,7 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Администрирование UNIX-подобных систем " /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какая команда покажет, в каком каталоге вы сейчас находитесь?" />
-<ANSWER id="0" value="&gt; pwd" />
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Администрирование UNIX-подобных систем
+" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какая команда покажет, в каком каталоге вы сейчас находитесь?" />
+<ANSWER id="0" value="pwd" />
 <ANSWER id="1" value="dir" />
 <ANSWER id="2" value="directory" />
 <ANSWER id="3" value="showdir" />

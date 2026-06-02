@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Основы протокола UDP
+" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какие номера портов UDP относятся к категории “Динамические порты”?" />
+<ANSWER id="0" value="0 - 1023" />
+<ANSWER id="1" value="1024 - 49151" />
+<ANSWER id="2" value="49152 - 65535" />
+<ANSWER id="3" value="23483 - 49152" />
+<ANSWER id="4" value="0 - 23483" />
+
+</ROOT>

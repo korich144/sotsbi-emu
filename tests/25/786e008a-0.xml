@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Форма сообщений MEGACO
+" /><THEME c1="4950084" c2="14216152" c3="4950084" /><QUESTION value="Какое значение используется для обращения к нулевому контексту в протоколе MEGACO/H.248?" />
+<ANSWER id="0" value=" NULL (-)" />
+<ANSWER id="1" value=" CHOOSE ($)" />
+<ANSWER id="2" value=" определенное заданное название контекста" />
+<ANSWER id="3" value=" все ответы не верны" />
+
+</ROOT>

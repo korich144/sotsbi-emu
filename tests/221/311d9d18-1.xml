@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Акустическое моделирование
+" /><THEME c1="15767447" c2="16442082" c3="15767447" /><QUESTION value="Уберите объект, не относящийся к структуре HMM (Hidden Markov Model)" />
+<ANSWER id="0" value="Состояние" />
+<ANSWER id="1" value="Вопрос" />
+<ANSWER id="2" value="Наблюдение" />
+
+</ROOT>

@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Сценарии обмена сообщениями подсистемы ISUP " /><THEME c1="5496063" c2="11727871" c3="5496063" /><QUESTION value="Какое сообщение используется для блокировки группы каналов?" />
-<ANSWER id="0" value="Blocking, BLO" />
-<ANSWER id="1" value="Blocking acknowledgment, BLA" />
-<ANSWER id="2" value="?&gt; Circuit group blocking, CGB" />
-<ANSWER id="3" value="Circuit group reset, RSC" />
-<ANSWER id="4" value="Release, REL " />
-
-</ROOT>

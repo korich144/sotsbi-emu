@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Принцип работы" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Что обеспечивает надежность и неизменность данных при передаче и хранении информации в сети Blockchain?" />
+<ANSWER id="0" value="Электронно-цифровая подпись" />
+<ANSWER id="1" value="Майнинг" />
+<ANSWER id="2" value="Форк" />
+<ANSWER id="3" value="Алгоритмы консенсуса" />
+<ANSWER id="4" value="Все варианты ответов верны" />
+
+</ROOT>

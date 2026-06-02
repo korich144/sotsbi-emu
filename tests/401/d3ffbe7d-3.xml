@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Закрепить знания по технологии Ethernet" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какое количество байт требуется для указания MAC адреса?" />
+<ANSWER id="0" value="1" />
+<ANSWER id="1" value="48" />
+<ANSWER id="2" value="4" />
+<ANSWER id="3" value="6" />
+<ANSWER id="4" value="32" />
+<ANSWER id="5" value="8" />
+<ANSWER id="6" value="160" />
+
+</ROOT>

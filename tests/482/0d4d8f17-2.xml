@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Сеть NGN. Архитектура IMS." /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какое значение из указанных может принимать PuUI?" />
+<ANSWER id="0" value="tel:+7-812-555-0123" />
+<ANSWER id="1" value="Sip:nina@hims.ru" />
+<ANSWER id="2" value="Оба варианта верны" />
+
+</ROOT>

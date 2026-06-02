@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Сеть передачи данных. Служебные протоколы. Сервисы" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какие протоколы можно отнести к протоколам AAA?" />
-<ANSWER id="0" value="?&gt; RADIUS, DIAMETER, TACACS, TACACS+" />
-<ANSWER id="1" value="FTP, DHCP, SNMP, NTP, VoIP" />
-<ANSWER id="2" value="FTP, DNS, DHCP, NTP" />
-<ANSWER id="3" value="HTTP, FTP, NTP, VoIP" />
-<ANSWER id="4" value="SNMP, NTP" />
-
-</ROOT>

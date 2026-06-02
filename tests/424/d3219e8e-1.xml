@@ -1,7 +1,7 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <ROOT><TARGET value="Протокол DHCP" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какое сообщение протокола DHCP используется для запроса параметров у сервера?" />
 <ANSWER id="0" value="DHCPDISCOVER" />
-<ANSWER id="1" value="&gt; DHCPREQUEST" />
+<ANSWER id="1" value="DHCPREQUEST" />
 <ANSWER id="2" value="DHCPPARAMRQ" />
 <ANSWER id="3" value="DHCPQUERY" />
 

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Проверка основных знаний по курсу IoT глава Введение" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Как происходит считывание или запись данных, хранящихся в RFID-метках?" />
+<ANSWER id="0" value="С помощью радиосигналов" />
+<ANSWER id="1" value="С использованием Ethernet" />
+<ANSWER id="2" value="C использованием протоколов voip" />
+<ANSWER id="3" value="Все ответы верны" />
+
+</ROOT>

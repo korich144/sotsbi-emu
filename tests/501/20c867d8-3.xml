@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Проверка знаний по основным понятиям Big Data" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какая характеристика Big Data указывает на важность достоверности и подлинности данных?" />
+<ANSWER id="0" value="Volume" />
+<ANSWER id="1" value="Velocity" />
+<ANSWER id="2" value="Variety" />
+<ANSWER id="3" value="Veracity" />
+<ANSWER id="4" value="Value" />
+
+</ROOT>

@@ -1,7 +1,8 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Основная терминология и принципы работы протокола BGP " /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="К какому типу атрибутов относится ORIGIN?" />
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Основная терминология и принципы работы протокола BGP
+" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="К какому типу атрибутов относится ORIGIN?" />
 <ANSWER id="0" value="Optional transitive" />
-<ANSWER id="1" value="&gt; Well-known mandatory" />
+<ANSWER id="1" value="Well-known mandatory" />
 <ANSWER id="2" value="Well-known discretionary " />
 <ANSWER id="3" value="Optional nontransitive" />
 

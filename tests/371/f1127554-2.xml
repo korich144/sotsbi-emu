@@ -1,8 +1,9 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="MPLS                                                                                                           " /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Сколько бит отводится на поле метки в MPLS?" />
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="MPLS                                                                                                          
+" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Сколько бит отводится на поле метки в MPLS?" />
 <ANSWER id="0" value="8" />
 <ANSWER id="1" value="16" />
-<ANSWER id="2" value="&gt; 20" />
+<ANSWER id="2" value="20" />
 <ANSWER id="3" value="24" />
 
 </ROOT>

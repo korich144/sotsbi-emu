@@ -1,8 +1,9 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Общее назначение SCCP. Сервисные примитивы. " /><THEME c1="16680295" c2="16777215" c3="0" /><QUESTION value="Состояние чего показывает примитив &quot;N-STATE&quot;?" />
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Общее назначение SCCP. Сервисные примитивы.
+" /><THEME c1="16680295" c2="16777215" c3="0" /><QUESTION value="Состояние чего показывает примитив &quot;N-STATE&quot;?" />
 <ANSWER id="0" value="пункта сигнализации" />
 <ANSWER id="1" value="транзитного узла связи" />
-<ANSWER id="2" value="&gt; подсистемы пользователя" />
+<ANSWER id="2" value="подсистемы пользователя" />
 <ANSWER id="3" value="физического канала передачи" />
 
 </ROOT>

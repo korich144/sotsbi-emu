@@ -1,7 +1,7 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <ROOT><TARGET value="Сеть передачи данных. Служебные протоколы. Сервисы" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какие существуют серверы DNS?" />
 <ANSWER id="0" value="domain и subdomain" />
 <ANSWER id="1" value="прокси-серверы, брандмауэры, серверы DHCP, серверы FTP" />
-<ANSWER id="2" value="&gt; первичные и вторичные authoritative и non-authoritative" />
+<ANSWER id="2" value="первичные и вторичные authoritative и non-authoritative" />
 
 </ROOT>

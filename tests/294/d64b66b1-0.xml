@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Протокол H.245 " /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Какие сообщения протокола H.245 используются для открытия двунаправленного логического канала?" />
-<ANSWER id="0" value="&gt; openLogicalChannel, openLogicalChannelAck, openLogicalChannelConfirm" />
-<ANSWER id="1" value="openLogicalChannel" />
-<ANSWER id="2" value="openLogicalChannel, openLogicalChannelAck" />
-<ANSWER id="3" value="openLogicalChannel, openLogicalChannelConfirm" />
-
-</ROOT>

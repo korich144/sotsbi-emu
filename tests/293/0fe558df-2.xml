@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Протокол H.225
+" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какое сообщение протокола H.225 используется в случае, когда сеть регистрирует изменение в пользовательском профиле услуг и ей нужно информировать об этом пользователя?" />
+<ANSWER id="0" value="Alerting" />
+<ANSWER id="1" value="Information" />
+<ANSWER id="2" value="Notify" />
+<ANSWER id="3" value="Facility" />
+<ANSWER id="4" value="Setup" />
+
+</ROOT>

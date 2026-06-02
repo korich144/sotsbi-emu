@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Общее назначение SCCP. Сервисные примитивы.
+" /><THEME c1="16680295" c2="16777215" c3="0" /><QUESTION value="Какие из примитивов не относятся к примитивам взаимодействия с подсистемой MTP?" />
+<ANSWER id="0" value="STATE " />
+<ANSWER id="1" value="TRANSFER" />
+<ANSWER id="2" value="PAUSE" />
+<ANSWER id="3" value="RESUME " />
+
+</ROOT>

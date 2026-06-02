@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Сеть передачи данных. Служебные протоколы. Сервисы" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какая технология позволяет сократить количество передаваемой информации между клиентом и веб-сервером, после первичной загрузки веб-страницы, но не создает логическое соединение между ними?" />
+<ANSWER id="0" value="AJAX (Asynchronous JavaScript And XML)" />
+<ANSWER id="1" value="CGI (Common Gateway Interface)" />
+<ANSWER id="2" value="WebSocket" />
+<ANSWER id="3" value="WebRTC (Web Real-Time Communication)" />
+
+</ROOT>

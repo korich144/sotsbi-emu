@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Сеть передачи данных. Стек TCP/IP ч.1. Протокол ARP" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Как долго теоретически может содержаться в ARP-таблице соответствие MAC- и IP-адреса?" />
+<ANSWER id="0" value="до 10 с" />
+<ANSWER id="1" value="до 4 ч" />
+<ANSWER id="2" value="не более 5 м" />
+<ANSWER id="3" value="каждые 50 мс ARP-кэш полностью очищается" />
+<ANSWER id="4" value="максимум 3600 с" />
+
+</ROOT>

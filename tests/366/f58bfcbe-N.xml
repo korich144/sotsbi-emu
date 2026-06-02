@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Основы протокола IP " /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Чему равняется адрес сети для префикса 172.30.60.0 с маской /20?" />
-<ANSWER id="0" value="172.30.16.0/20" />
-<ANSWER id="1" value="?&gt; 172.30.48.0/20" />
-<ANSWER id="2" value="172.30.32.0/20" />
-<ANSWER id="3" value="172.30.0.0/20" />
-
-</ROOT>

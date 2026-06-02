@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Проверка основных знаний по протоколу CoAP" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какая схема URI используется для идентификации ресурсов в сети на базе протокола CoAP?" />
+<ANSWER id="0" value="http" />
+<ANSWER id="1" value="http, https" />
+<ANSWER id="2" value="coap" />
+<ANSWER id="3" value="coap, coaps" />
+<ANSWER id="4" value="sip" />
+
+</ROOT>

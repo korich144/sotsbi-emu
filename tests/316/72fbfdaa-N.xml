@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Обмен сообщениями протокола RADIUS при осуществлении контроля прав доступа пользователя " /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Какое сообщение посылает RADIUS-сервер клиенту при положительной  авторизации?" />
-<ANSWER id="0" value="Access-Request" />
-<ANSWER id="1" value="Access-Reject" />
-<ANSWER id="2" value="?&gt; Access-Accept" />
-<ANSWER id="3" value="Access-Challenge" />
-
-</ROOT>

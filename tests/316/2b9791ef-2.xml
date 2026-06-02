@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Обмен сообщениями протокола RADIUS при осуществлении контроля прав доступа пользователя
+" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какой пакет будет генерировать клиент при завершении пользовательского сеанса, использующего процедуру RADIUS Accounting?" />
+<ANSWER id="0" value="Accounting-Reject" />
+<ANSWER id="1" value="Accounting-Response" />
+<ANSWER id="2" value="Accounting-Request (stop)" />
+<ANSWER id="3" value="Accounting-Request (start)" />
+
+</ROOT>

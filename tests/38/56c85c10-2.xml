@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Передача речи по IP-сети. Протокол передачи данных RTP.                            " /><THEME c1="10079385" c2="14745571" c3="10079385" /><QUESTION value="Какой метод сжатия используется в кодеке G.728?" />
-<ANSWER id="0" value="PCM" />
-<ANSWER id="1" value="ADPCM" />
-<ANSWER id="2" value="&gt; LD-CELP" />
-<ANSWER id="3" value="CS-ACELP" />
-
-</ROOT>

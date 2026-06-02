@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Уровни модели OSI.
+" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Как выглядит адрес веб-страницы, если она защищена протоколом SSL?" />
+<ANSWER id="0" value="адрес начинается с http:// " />
+<ANSWER id="1" value="адрес начинается с https:// " />
+<ANSWER id="2" value="адрес начинается с ssl:// " />
+<ANSWER id="3" value="адрес начинается с tls:// " />
+
+</ROOT>

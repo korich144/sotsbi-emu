@@ -1,7 +1,7 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <ROOT><TARGET value="Сеть передачи данных. Стек TCP/IP" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Сколько байт в сумме занимают поля Type и Code служебного заголовка протокола ICMP?" />
 <ANSWER id="0" value="1" />
-<ANSWER id="1" value="&gt; 2" />
+<ANSWER id="1" value="2" />
 <ANSWER id="2" value="32" />
 <ANSWER id="3" value="4" />
 <ANSWER id="4" value="16" />

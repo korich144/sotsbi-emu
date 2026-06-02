@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <ROOT><TARGET value="Процедуры аутентификации, обновления зоны местонахождения" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какое оборудование сети запрашивает у AuC формирование векторов аутентификации?" />
-<ANSWER id="0" value="&gt; HLR" />
+<ANSWER id="0" value="HLR" />
 <ANSWER id="1" value="MSC" />
 <ANSWER id="2" value="VLR" />
 

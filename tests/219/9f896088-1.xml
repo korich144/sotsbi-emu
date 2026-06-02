@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Вводный
+" /><THEME c1="15767447" c2="16442082" c3="15767447" /><QUESTION value="Выберите неверное утверждение относительно сопоставления Sphinx и ANALYZE:" />
+<ANSWER id="0" value="В Sphinx отсутствуют качественные акустические модели для русской речи, записанной по телефонным каналам связи, а в ANALYZE они есть" />
+<ANSWER id="1" value="ANALYZE может работать под любыми ОС, а Sphinx только под Windows" />
+<ANSWER id="2" value="ANALYZE включает в свой состав графический интерфейс, а Sphinx нет" />
+
+</ROOT>

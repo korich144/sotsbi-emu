@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Сеть передачи данных. Введение" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какой каталог Unix-системы содержит специальные файлы устройств, при помощи которых осуществляется доступ к периферийным устройствам?" />
+<ANSWER id="0" value="/bin и /sbin" />
+<ANSWER id="1" value="/boot" />
+<ANSWER id="2" value="/dev" />
+<ANSWER id="3" value="/etc" />
+<ANSWER id="4" value="/lib" />
+<ANSWER id="5" value="/mnt" />
+<ANSWER id="6" value="/tmp" />
+<ANSWER id="7" value="/usr" />
+<ANSWER id="8" value="/var" />
+
+</ROOT>

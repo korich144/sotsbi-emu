@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Сеть MAP, идентификаторы, определения, услуги" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какой параметр VLR обозначает номер используемого для аутентификации триплета из VLR?" />
+<ANSWER id="0" value="СKSN" />
+<ANSWER id="1" value="MSISDN" />
+<ANSWER id="2" value="MSRN " />
+
+</ROOT>

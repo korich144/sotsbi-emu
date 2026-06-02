@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Протокол ARP " /><THEME c1="14135026" c2="16121850" c3="14135026" /><QUESTION value="К какому типу относится запись в ARP-таблице, созданная вручную?" />
-<ANSWER id="0" value="?&gt; статическая" />
-<ANSWER id="1" value="динамическая" />
-<ANSWER id="2" value="в зависимости от ситуации, может быть и той, и той" />
-<ANSWER id="3" value="все ответы неверны" />
-
-</ROOT>

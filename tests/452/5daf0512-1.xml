@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Сеть передачи данных. Введение" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="К оборудованию какого уровня в сети оператора связи подключают локальную вычислительную сеть (LAN) частной фирмы?" />
+<ANSWER id="0" value="Core" />
+<ANSWER id="1" value="Access" />
+<ANSWER id="2" value="Agregation" />
+<ANSWER id="3" value="WAN" />
+<ANSWER id="4" value="BAN" />
+
+</ROOT>

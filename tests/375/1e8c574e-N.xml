@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Основы протокола TCP " /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="К какому уровню модели OSI относится протокол TCP?" />
-<ANSWER id="0" value="?&gt; транспортный" />
-<ANSWER id="1" value="сетевой" />
-<ANSWER id="2" value="канальный" />
-<ANSWER id="3" value="сеансовый" />
-
-</ROOT>

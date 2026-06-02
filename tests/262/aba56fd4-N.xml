@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Уровни модели OSI. " /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Какое сообщение RADIUS передается первым при запросе пользователем доступа к услуге?" />
-<ANSWER id="0" value="Access-Challenge" />
-<ANSWER id="1" value="Access-Accept" />
-<ANSWER id="2" value="Access-Reject" />
-<ANSWER id="3" value="?&gt; Access-Request" />
-<ANSWER id="4" value="Любое из этих сообщений" />
-
-</ROOT>

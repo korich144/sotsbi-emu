@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Коррекция ошибок. Подсчет коэффициента ошибок звена                                                                                                           
+" /><THEME c1="16615443" c2="16635796" c3="16615443" /><QUESTION value="Какая подсистема принимает решение о необходимости проверки при превышении интенсивности ошибок передачи?" />
+<ANSWER id="0" value="МТР1" />
+<ANSWER id="1" value="МТР2" />
+<ANSWER id="2" value="МТР3" />
+<ANSWER id="3" value="ISUP" />
+<ANSWER id="4" value="SCCP" />
+<ANSWER id="5" value="TCAP" />
+<ANSWER id="6" value="MAP" />
+
+</ROOT>

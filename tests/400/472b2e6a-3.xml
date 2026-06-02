@@ -1,8 +1,8 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <ROOT><TARGET value="Проверить владение знаниями по формату протокола HTTP" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="В каком заголовке HTTP указывается адрес запрашиваемого сайта?" />
 <ANSWER id="0" value="Adress" />
 <ANSWER id="1" value="URL" />
 <ANSWER id="2" value="Host" />
-<ANSWER id="3" value="&gt; Server" />
+<ANSWER id="3" value="Server" />
 
 </ROOT>

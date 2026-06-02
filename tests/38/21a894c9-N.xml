@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Передача речи по IP-сети. Протокол передачи данных RTP.                            " /><THEME c1="10079385" c2="14745571" c3="10079385" /><QUESTION value="Какова длина счетчика допускаемого времени пребывания пакета в сети IPv4" />
-<ANSWER id="0" value="16 Бит" />
-<ANSWER id="1" value="?&gt; 8 Бит" />
-<ANSWER id="2" value="4 Бит" />
-<ANSWER id="3" value="32 Бит" />
-
-</ROOT>

@@ -1,7 +1,8 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Администрирование UNIX-подобных систем " /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какая DNS-запись связана с адресацией по протоколу IPv6?" />
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Администрирование UNIX-подобных систем
+" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какая DNS-запись связана с адресацией по протоколу IPv6?" />
 <ANSWER id="0" value="Запись TXT" />
 <ANSWER id="1" value="Запись PTR" />
-<ANSWER id="2" value="&gt; Запись AAAA" />
+<ANSWER id="2" value="Запись AAAA" />
 
 </ROOT>

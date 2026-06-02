@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Формат сообщения протокола RADIUS" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="В каком поле сообщений протокола RADIUS передается контрольная проверочная сумма (хэш значение)?" />
+<ANSWER id="0" value="Код (Code)" />
+<ANSWER id="1" value="Идентификатор (Identifier)" />
+<ANSWER id="2" value="Длина (Length)" />
+<ANSWER id="3" value="Аутентификатор (Authenticator)" />
+<ANSWER id="4" value="Атрибуты (Attributes)" />
+
+</ROOT>

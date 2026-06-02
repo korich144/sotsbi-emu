@@ -1,8 +1,9 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Структура и назначения OSPF-пакетов " /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="OSPF-пакеты какого типа служат для получения текущей маршрутной информации или для загрузки базы данных из соседнего маршрутизатора?" />
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Структура и назначения OSPF-пакетов
+" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="OSPF-пакеты какого типа служат для получения текущей маршрутной информации или для загрузки базы данных из соседнего маршрутизатора?" />
 <ANSWER id="0" value="Приветствие (Hello)." />
 <ANSWER id="1" value="Описание базы данных DD (Database Description)." />
-<ANSWER id="2" value="&gt; Запрос сведений о состоянии каналов (Link State Request)." />
+<ANSWER id="2" value="Запрос сведений о состоянии каналов (Link State Request)." />
 <ANSWER id="3" value="Корректировка сведений о состоянии каналов (Link State Update)." />
 
 </ROOT>

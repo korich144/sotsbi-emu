@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Протокол ААА: Diameter
+" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Найдите правильное утверждение:" />
+<ANSWER id="0" value="Сообщение Session-Termination-Request отправляется для обмена информацией учета" />
+<ANSWER id="1" value="Сообщение Credit-Control-Request используется для запроса авторизации кредитной оплаты определенной услуги" />
+<ANSWER id="2" value="Сообщение Disconnect-Peer-Request отправляется для запроса остановки сессии" />
+<ANSWER id="3" value="Все перечисленные ответы верны" />
+<ANSWER id="4" value="Все перечисленные ответы неверны" />
+
+</ROOT>

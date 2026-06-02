@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Протокол H.323
+" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="В каком формате могут быть представлены сетевые адреса в сети H.323?" />
+<ANSWER id="0" value="MAC 0019 E08D F301" />
+<ANSWER id="1" value="IP 192.168.1.102" />
+<ANSWER id="2" value="IP 223.0.1.41" />
+<ANSWER id="3" value="Все варианты ответов верны" />
+
+</ROOT>

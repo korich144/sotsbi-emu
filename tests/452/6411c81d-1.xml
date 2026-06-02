@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Сеть передачи данных. Введение" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Для чего применяется устройство Set-Top-Box (STB)?" />
+<ANSWER id="0" value="для подключения старого телефона к VoIP" />
+<ANSWER id="1" value="для подключения телевизора к IPTV" />
+<ANSWER id="2" value="для подключения компьютера к IP-сети" />
+<ANSWER id="3" value="для развертывания беспроводной сети WiFi" />
+
+</ROOT>

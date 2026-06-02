@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Введение в специальность
+" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Принципы построения СПД, модель OSI. К какому уровню модели взаимодействия открытых систем относится протокол TCP?" />
+<ANSWER id="0" value="транспортный" />
+<ANSWER id="1" value="сетевой" />
+<ANSWER id="2" value="канальный" />
+<ANSWER id="3" value="сеансовый" />
+<ANSWER id="4" value="прикладной" />
+<ANSWER id="5" value="представительный" />
+<ANSWER id="6" value="физический" />
+
+</ROOT>

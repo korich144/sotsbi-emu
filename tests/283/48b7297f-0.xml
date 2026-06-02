@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <ROOT><TARGET value="Сеть MAP, идентификаторы, определения, услуги" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="В случае отсутствия очередной процедуры обновления местонахождения MS в течении времени, заданного сетью…." />
-<ANSWER id="0" value="&gt; В VLR устанавливается Флаг отсутствия MS в зоне обслуживания VLR (Subscriber data dormant)" />
+<ANSWER id="0" value="В VLR устанавливается Флаг отсутствия MS в зоне обслуживания VLR (Subscriber data dormant)" />
 <ANSWER id="1" value="Абонентские данные для указанной MS удаляются из VLR " />
 
 </ROOT>

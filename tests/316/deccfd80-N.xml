@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Обмен сообщениями протокола RADIUS при осуществлении контроля прав доступа пользователя " /><THEME c1="0" c2="0" c3="0" /><QUESTION value="RADIUS-клиент - это..." />
-<ANSWER id="0" value="?&gt; Сервер доступа NAS (Network Access Server), сервер VPN (Virtual Private Network) или точка доступа беспроводной локальной сети" />
-<ANSWER id="1" value="сервер RADIUS, сервер VPN (Virtual Private Network) или терминал пользователя" />
-<ANSWER id="2" value="Сервер RADIUS, база данных пользователей, сервер приложений" />
-<ANSWER id="3" value="Все перечисленные варианты ответов не верны " />
-
-</ROOT>

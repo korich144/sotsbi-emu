@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Уровни модели OSI.
+" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какая команда служит для подключения (монтирования) удаленного каталога к локальной файловой системе по протоколу NFS?" />
+<ANSWER id="0" value="Команда mount" />
+<ANSWER id="1" value="RPC-запрос" />
+<ANSWER id="2" value="Команда Connect" />
+<ANSWER id="3" value="Команда ADD" />
+
+</ROOT>

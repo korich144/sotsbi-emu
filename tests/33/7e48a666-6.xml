@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Функции обработки сообщений и управления трафиком
+" /><THEME c1="11364044" c2="16375806" c3="13524990" /><QUESTION value="Сколько используется типов сообщений в процедурах управления доступом к сигнальному звену (группа сообщений MIM)?" />
+<ANSWER id="0" value="1" />
+<ANSWER id="1" value="2" />
+<ANSWER id="2" value="3" />
+<ANSWER id="3" value="4" />
+<ANSWER id="4" value="5" />
+<ANSWER id="5" value="7" />
+<ANSWER id="6" value="8" />
+<ANSWER id="7" value="16" />
+
+</ROOT>

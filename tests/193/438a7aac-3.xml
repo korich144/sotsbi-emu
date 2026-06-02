@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Построение сетей и нумерация" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Какой из фрагментов местных сетей соответствует сети с закрытой нумерацией" />
+<ANSWER id="0" value="Рис.1" />
+<ANSWER id="1" value="Рис.2" />
+<ANSWER id="2" value="Рис.3" />
+<ANSWER id="3" value="Рис.4" />
+<ANSWER id="4" value="Рис.5" />
+<ANSWER id="5" value="Рис.6" />
+<SCHEME f_id="374" t_id="2325" />
+
+</ROOT>

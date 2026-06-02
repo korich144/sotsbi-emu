@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Сеть NGN. Сценарий взаимодействия телефонных сетей с использованием сети с коммутацией пакетов." /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="С помощью команд какого протокола создается контекст в MGW?" />
+<ANSWER id="0" value="MEGACO" />
+<ANSWER id="1" value="ISUP" />
+<ANSWER id="2" value="H.248" />
+<ANSWER id="3" value="H.248, MEGACO" />
+
+</ROOT>

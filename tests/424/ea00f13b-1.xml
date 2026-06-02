@@ -1,7 +1,7 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <ROOT><TARGET value="Протокол DHCP" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какой транспортный протокол используется для переноса сообщений DHCP?" />
 <ANSWER id="0" value="TCP" />
-<ANSWER id="1" value="&gt; UDP" />
+<ANSWER id="1" value="UDP" />
 <ANSWER id="2" value="SCTP" />
 <ANSWER id="3" value="XTP" />
 <ANSWER id="4" value="IP" />

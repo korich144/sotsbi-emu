@@ -1,6 +1,7 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Параметры сообщений MEGACO " /><THEME c1="4950084" c2="14216152" c3="4950084" /><QUESTION value="Какое из определений дескриптора Services является верным?" />
-<ANSWER id="0" value="&gt; Дескриптор смены режима обслуживания (Services) содержит параметры определяющие процедуру и тип смены обслуживания, такие как: Method, Reason, Address, Delay, Profile, Version, MGCID, TimeStamp, Info." />
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Параметры сообщений MEGACO
+" /><THEME c1="4950084" c2="14216152" c3="4950084" /><QUESTION value="Какое из определений дескриптора Services является верным?" />
+<ANSWER id="0" value="Дескриптор смены режима обслуживания (Services) содержит параметры определяющие процедуру и тип смены обслуживания, такие как: Method, Reason, Address, Delay, Profile, Version, MGCID, TimeStamp, Info." />
 <ANSWER id="1" value="Дескриптор состояния окончания (Services) описывает общее состояние окончания (например, in service - в обслуживании)." />
 <ANSWER id="2" value="Дескриптор возможностей окончания (Services) содержит дескрипторы и параметры, запрашиваемые в команде AuditCapabilities." />
 

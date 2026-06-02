@@ -1,8 +1,9 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Форма сообщений MEGACO " /><THEME c1="4950084" c2="14216152" c3="4950084" /><QUESTION value="Укажите телекоммуникационные управляющие протоколы, которые можно назвать предшественниками MEGACO/H.248." />
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Форма сообщений MEGACO
+" /><THEME c1="4950084" c2="14216152" c3="4950084" /><QUESTION value="Укажите телекоммуникационные управляющие протоколы, которые можно назвать предшественниками MEGACO/H.248." />
 <ANSWER id="0" value="H.323" />
 <ANSWER id="1" value="SIP" />
-<ANSWER id="2" value="&gt; IPDC, SGCP, MGCP" />
+<ANSWER id="2" value="IPDC, SGCP, MGCP" />
 <ANSWER id="3" value="ОКС7 (SS7)" />
 <ANSWER id="4" value="R2" />
 

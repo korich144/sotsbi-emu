@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Введение. Архитектура сети" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Какой тип записей можно хранить в Blockchain?" />
+<ANSWER id="0" value="Управление идентификацией" />
+<ANSWER id="1" value="Обработка транзакций" />
+<ANSWER id="2" value="Документы" />
+<ANSWER id="3" value="Медицинские карты" />
+<ANSWER id="4" value="Все варианты ответов верны" />
+<ANSWER id="5" value="Деловые операции
+" />
+
+</ROOT>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Уровни модели OSI.
+" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Поверх какого протокола происходит обмен сообщениями RADIUS?" />
+<ANSWER id="0" value="RTP" />
+<ANSWER id="1" value="SCTP" />
+<ANSWER id="2" value="UDP" />
+<ANSWER id="3" value="TCP" />
+
+</ROOT>

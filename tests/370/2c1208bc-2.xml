@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Основная терминология и принципы работы протокола BGP
+" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какие субкоды относятся к типу кодов ошибок Message Header Error?" />
+<ANSWER id="0" value="Connection Not Synchronized, Bad BGP Identifier, Invalid Network Field" />
+<ANSWER id="1" value="Optional Attribute Error, Bad Message Length, Bad BGP Identifier" />
+<ANSWER id="2" value="Bad Message Type, Connection Not Synchronized, Bad Message Length" />
+<ANSWER id="3" value="Bad Message Length, Bad Message Type, Bad BGP Identifier" />
+<ANSWER id="4" value="Unsupported Version Number, Unacceptable Hold Time, Bad BGP Identifier" />
+
+</ROOT>

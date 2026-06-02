@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Протокол ААА: Diameter
+" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какой бит в поле флаги команды сообщения Diameter позволяет судить, что принятое сообщение содержит ошибку протокола?" />
+<ANSWER id="0" value="Бит R" />
+<ANSWER id="1" value="Бит E" />
+<ANSWER id="2" value="Бит P" />
+<ANSWER id="3" value="Бит T" />
+
+</ROOT>

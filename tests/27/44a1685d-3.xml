@@ -1,9 +1,10 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Параметры сообщений MEGACO " /><THEME c1="4950084" c2="14216152" c3="4950084" /><QUESTION value="Определите все возможные значения которые может принимать дескриптор Mode в протоколе MEGACO/H.248?" />
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Параметры сообщений MEGACO
+" /><THEME c1="4950084" c2="14216152" c3="4950084" /><QUESTION value="Определите все возможные значения которые может принимать дескриптор Mode в протоколе MEGACO/H.248?" />
 <ANSWER id="0" value="sendonly и sendreceive" />
 <ANSWER id="1" value="sendonly и receiveonly" />
 <ANSWER id="2" value="inactive и sendreceive" />
-<ANSWER id="3" value="&gt; sendonly, receiveonly, sendreceive, inactive и loopback" />
+<ANSWER id="3" value="sendonly, receiveonly, sendreceive, inactive и loopback" />
 <ANSWER id="4" value="inactive и loopback" />
 <ANSWER id="5" value="sendonly, receiveonly и sendreceive" />
 

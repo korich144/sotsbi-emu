@@ -1,6 +1,7 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Протокол ARP " /><THEME c1="14135026" c2="16121850" c3="14135026" /><QUESTION value="Что содержится в поле TPA заголовка ARP?" />
-<ANSWER id="0" value="&gt; логический адрес получателя" />
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Протокол ARP
+" /><THEME c1="14135026" c2="16121850" c3="14135026" /><QUESTION value="Что содержится в поле TPA заголовка ARP?" />
+<ANSWER id="0" value="логический адрес получателя" />
 <ANSWER id="1" value="физический адрес получателя" />
 <ANSWER id="2" value="физический адрес отправителя" />
 <ANSWER id="3" value="код операции отправителя" />

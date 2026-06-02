@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Протокол ААА: Diameter
+" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Поверх какого протокола происходит обмен сообщениями Diameter?" />
+<ANSWER id="0" value="TCP" />
+<ANSWER id="1" value="UDP" />
+<ANSWER id="2" value="TCP and SCTP" />
+<ANSWER id="3" value="SCTP" />
+
+</ROOT>

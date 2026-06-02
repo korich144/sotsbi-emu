@@ -1,7 +1,7 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <ROOT><TARGET value="Сеть передачи данных. Стек TCP/IP" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какой из перечисленных типов адресации используется в случае, когда пакет достигает всех интерфейсов привязанных к группе адресов?" />
 <ANSWER id="0" value="broadcast" />
-<ANSWER id="1" value="&gt; multicast" />
+<ANSWER id="1" value="multicast" />
 <ANSWER id="2" value="anycast" />
 <ANSWER id="3" value="unicast" />
 

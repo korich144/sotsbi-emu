@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Проверка знаний по теме "Технологии обработки больших данных"" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какой этап не входит в процесс обработки данных MapReduce?" />
+<ANSWER id="0" value="Map" />
+<ANSWER id="1" value="Reduce" />
+<ANSWER id="2" value="Shuffle" />
+<ANSWER id="3" value="Extract" />
+
+</ROOT>

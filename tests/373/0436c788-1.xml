@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="LDP                                                                                                          
+" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какое из этих сообщений используется для отмены ранее объявленной привязки?" />
+<ANSWER id="0" value="Label Abort Request" />
+<ANSWER id="1" value="Label Withdraw" />
+<ANSWER id="2" value="Label Release" />
+<ANSWER id="3" value="Notification" />
+
+</ROOT>

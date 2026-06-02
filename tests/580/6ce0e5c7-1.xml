@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Проверка основных знаний по курсу IoT глава Введение" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Из каких нижеперечисленных элементов строится сеть LoRaWAN?" />
+<ANSWER id="0" value="Оконечные узлы (end-nodes), шлюзы (gateways), сервера приложений (Application Server), сервера датчиков" />
+<ANSWER id="1" value="Оконечные узлы (end-nodes), шлюзы (gateways), сервера сети оператора (Network Server), сервера приложений (Application Server)" />
+<ANSWER id="2" value="Оконечные узлы (end-nodes), шлюзы (gateways), сервера сети оператора (Network Server), сервера датчиков" />
+<ANSWER id="3" value="Оконечные узлы (end-nodes), шлюзы (gateways), сервера сети оператора (Network Server), сервера приложений (Application Server), сервера датчиков" />
+
+</ROOT>

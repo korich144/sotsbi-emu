@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <ROOT><TARGET value="Сеть NGN. Архитектура SoftSwitch" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какая функция программного коммутатора является ядром архитектуры Softswitch?" />
-<ANSWER id="0" value="&gt; MGC" />
+<ANSWER id="0" value="MGC" />
 <ANSWER id="1" value="MG" />
 <ANSWER id="2" value="SG" />
 <ANSWER id="3" value="AS" />

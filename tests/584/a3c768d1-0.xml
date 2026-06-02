@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Формат блока" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Какая транзакция чаще всего указывается первой в блоке?" />
+<ANSWER id="0" value="coinbase-транзакция" />
+<ANSWER id="1" value="транзакиция с максимальной комиссией" />
+<ANSWER id="2" value="транзакция с минимальной комиссией" />
+
+</ROOT>

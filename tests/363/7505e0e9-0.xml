@@ -1,6 +1,7 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Протокол ARP " /><THEME c1="14135026" c2="16121850" c3="14135026" /><QUESTION value="Чем отличается формат ARP-запроса от ARP-ответа?" />
-<ANSWER id="0" value="&gt; ничем не отличается" />
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Протокол ARP
+" /><THEME c1="14135026" c2="16121850" c3="14135026" /><QUESTION value="Чем отличается формат ARP-запроса от ARP-ответа?" />
+<ANSWER id="0" value="ничем не отличается" />
 <ANSWER id="1" value="в ARP-ответе указывается MAC-адрес получателя запроса" />
 <ANSWER id="2" value="в ARP-запросе указывается MAC-адрес получателя запроса" />
 <ANSWER id="3" value="другой ответ" />

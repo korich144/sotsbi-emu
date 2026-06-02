@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Уровни модели OSI. " /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Какие протоколы транспортного уровня используются для передачи сообщений протокола SIP?" />
-<ANSWER id="0" value="TCP " />
-<ANSWER id="1" value="UDP" />
-<ANSWER id="2" value="?&gt; TCP, UDP" />
-<ANSWER id="3" value="IP, TCP" />
-<ANSWER id="4" value="IP, UDP" />
-
-</ROOT>

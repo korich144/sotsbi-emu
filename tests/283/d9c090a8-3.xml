@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Сеть MAP, идентификаторы, определения, услуги" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Укажите, какое оборудование базовой сети UMTS реализует функции контроллера медиа шлюза." />
+<ANSWER id="0" value="MGW " />
+<ANSWER id="1" value="MGC" />
+<ANSWER id="2" value="MSC" />
+<ANSWER id="3" value="MSC-сервер" />
+
+</ROOT>

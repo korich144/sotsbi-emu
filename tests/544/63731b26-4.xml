@@ -1,9 +1,9 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <ROOT><TARGET value="Сеть NGN. Архитектура IMS." /><THEME c1="211482" c2="814654" c3="3383713" /><QUESTION value="Какую сеть доступа могут использовать абоненты для установления телефонного соединения через IMS?" />
 <ANSWER id="0" value="UMTS/GPRS" />
 <ANSWER id="1" value="LTE" />
 <ANSWER id="2" value="ADSL" />
 <ANSWER id="3" value="Wi-Fi" />
-<ANSWER id="4" value="&gt; Любую из перечисленных" />
+<ANSWER id="4" value="Любую из перечисленных" />
 
 </ROOT>

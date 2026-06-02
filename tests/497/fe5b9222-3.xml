@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="SDN/NFV" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какая(ие) топология(и) организации систем хранения используются в домене CD?" />
+<ANSWER id="0" value="Только DAS (Direct Attached Storage)" />
+<ANSWER id="1" value="Только SAN (Storage area network )" />
+<ANSWER id="2" value="Только NAS (Network-attached storage)" />
+<ANSWER id="3" value="Может использоваться любая топология" />
+
+</ROOT>

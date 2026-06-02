@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Основы VLAN
+" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Для чего служит VLAN по-умолчанию?" />
+<ANSWER id="0" value="Передача служебного трафика" />
+<ANSWER id="1" value="Для двойной метки трафика" />
+<ANSWER id="2" value="Для сегментации сети" />
+<ANSWER id="3" value="Нет верного варианта" />
+
+</ROOT>

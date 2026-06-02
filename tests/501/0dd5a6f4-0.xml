@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Проверка знаний по основным понятиям Big Data" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какие понятия содержит в себе принцип «Трёх V»?" />
+<ANSWER id="0" value="Volume (объем), Velocity (скорость), Variety (многообразие)" />
+<ANSWER id="1" value="Volume (объем), Veracity (достоверность данных), Value (ценность накопленной информации)" />
+<ANSWER id="2" value="Volume (объем), Velocity (скорость), Veracity (достоверность данных)" />
+
+</ROOT>

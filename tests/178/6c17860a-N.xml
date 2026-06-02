@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Сканеры безопасности. IPS, IDS. " /><THEME c1="9285627" c2="15266303" c3="9285627" /><QUESTION value="Сетевой сканер Nessus осуществляет поиск уязвимостей:" />
-<ANSWER id="0" value="?&gt; На транспортном уровне, на сетевом уровне, Windows систем, UNIX систем." />
-<ANSWER id="1" value="Только на транспортном уровне." />
-<ANSWER id="2" value="Только Windows систем, UNIX систем." />
-
-</ROOT>

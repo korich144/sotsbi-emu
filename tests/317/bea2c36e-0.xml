@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Протокол ААА: Diameter
+" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="При создании запроса в сообщении Diameter надо:" />
+<ANSWER id="0" value="Установить в поле флаги AVP бит «R»" />
+<ANSWER id="1" value="Установить в поле флаги AVP бит «R=0»" />
+<ANSWER id="2" value="Указать код команды AVP в поле данных" />
+<ANSWER id="3" value="Установить заданную длину сообщения в поле длина AVP" />
+
+</ROOT>

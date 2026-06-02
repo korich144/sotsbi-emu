@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Администрирование UNIX-подобных систем " /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="С каким параметром надо запустить утилиту netstat, чтобы выяснить список открытых UDP-портов?" />
-<ANSWER id="0" value="С параметром -at" />
-<ANSWER id="1" value="?&gt; С параметром -au" />
-<ANSWER id="2" value="С параметром -lt" />
-
-</ROOT>

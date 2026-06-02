@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Уровни модели OSI.
+" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какая утилита используется для диагностики соединений в сетях TCP/IP?" />
+<ANSWER id="0" value="ping" />
+<ANSWER id="1" value="netstat" />
+<ANSWER id="2" value="route" />
+<ANSWER id="3" value="ipconfig" />
+<ANSWER id="4" value="arp" />
+
+</ROOT>

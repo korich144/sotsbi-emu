@@ -1,7 +1,8 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="MPLS                                                                                                           " /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какое значение бита S содержится в заголовке последней метки ?" />
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="MPLS                                                                                                          
+" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какое значение бита S содержится в заголовке последней метки ?" />
 <ANSWER id="0" value="0" />
-<ANSWER id="1" value="&gt; 1" />
+<ANSWER id="1" value="1" />
 <ANSWER id="2" value="2" />
 <ANSWER id="3" value="3" />
 

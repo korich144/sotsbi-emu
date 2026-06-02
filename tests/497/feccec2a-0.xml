@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="SDN/NFV" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какая функция MANO осуществляет управление ресурсами СD, в том числе для создания VM?" />
+<ANSWER id="0" value="VIM" />
+<ANSWER id="1" value="VNFM" />
+<ANSWER id="2" value="EMS" />
+
+</ROOT>

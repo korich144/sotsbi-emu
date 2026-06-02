@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Сеть передачи данных. Служебные протоколы. Сервисы" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какое из приведенных значений подходит для схемы URL?" />
+<ANSWER id="0" value="http:" />
+<ANSWER id="1" value="user@example.com" />
+<ANSWER id="2" value=":8080" />
+<ANSWER id="3" value="index.html" />
+<ANSWER id="4" value="?arg=10" />
+
+</ROOT>

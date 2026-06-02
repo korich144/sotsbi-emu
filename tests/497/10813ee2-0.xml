@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="SDN/NFV" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какая технология является основой построения сетей хранения данных SAN?" />
+<ANSWER id="0" value="Fibre Channel" />
+<ANSWER id="1" value="Infiniband" />
+
+</ROOT>

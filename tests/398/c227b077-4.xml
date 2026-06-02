@@ -1,10 +1,10 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <ROOT><TARGET value="Проверить знания о сообщениях протокола и их формате" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Сообщение ICMP с каким кодом должно быть получено, когда удаленной стороне при передаче не удалось фрагментировать пакет нестандартно большого размера?" />
 <ANSWER id="0" value="0" />
 <ANSWER id="1" value="1" />
 <ANSWER id="2" value="2" />
 <ANSWER id="3" value="3" />
-<ANSWER id="4" value="&gt; 4" />
+<ANSWER id="4" value="4" />
 <ANSWER id="5" value="5" />
 <ANSWER id="6" value="6" />
 <ANSWER id="7" value="7" />

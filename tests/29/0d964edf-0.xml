@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Формат сообщений подсистемы ISUP
+" /><THEME c1="5496063" c2="11727871" c3="5496063" /><QUESTION value="В каком поле сообщения Блокировка (BLO) указывается номер канала, который необходимо заблокировать?" />
+<ANSWER id="0" value="в поле &quot;код идентификации канала&quot; (CIC) " />
+<ANSWER id="1" value="в поле &quot;канал&quot; (Channel) " />
+<ANSWER id="2" value="в поле &quot;диапазон и состояние&quot; (Range and status)" />
+<ANSWER id="3" value="в поле &quot;канал и состояние&quot; (Channel and status)" />
+
+</ROOT>

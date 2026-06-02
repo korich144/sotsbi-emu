@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Инфокоммуникационные протоколы. Введение" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="К какой сети, по вашему мнению, относится двухпроводная абонентская линия, связывающая терминал пользователя и коммутационный узел базовой сети?" />
+<ANSWER id="0" value="сеть в помещении пользователя (Customer Premises Network (CPN))" />
+<ANSWER id="1" value="базовая сеть (Сore Network (CN))" />
+<ANSWER id="2" value="сеть доступа (Access Network (AN))" />
+
+</ROOT>

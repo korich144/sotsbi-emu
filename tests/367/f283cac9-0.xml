@@ -1,6 +1,7 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Протокол RIP " /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какой тип маршрутизации используется в протоколе RIP?" />
-<ANSWER id="0" value="&gt; Динамический" />
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Протокол RIP
+" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какой тип маршрутизации используется в протоколе RIP?" />
+<ANSWER id="0" value="Динамический" />
 <ANSWER id="1" value="Статический, не изменяющийся во времени" />
 <ANSWER id="2" value="Статический, изменяющийся по расписанию" />
 <ANSWER id="3" value="Не поддерживает маршрутизацию (туннелирование)" />

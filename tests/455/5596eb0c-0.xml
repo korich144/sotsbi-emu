@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Сеть передачи данных. Стек TCP/IP ч.1. Протокол ARP" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какие поля служебного заголовка ARP содержат информацию о канальном уровне?" />
+<ANSWER id="0" value="только hardware type, hardware length" />
+<ANSWER id="1" value="hardware: type, length, sender address, target address" />
+<ANSWER id="2" value="только sender hardware address, target hardware address" />
+<ANSWER id="3" value="protocol: type, length, sender address, target address" />
+<ANSWER id="4" value="operation" />
+<ANSWER id="5" value="только sender protocol address, target protocol address" />
+<ANSWER id="6" value="только protocol type, protocol length" />
+<ANSWER id="7" value="software: type, length, sender address, target address" />
+
+</ROOT>

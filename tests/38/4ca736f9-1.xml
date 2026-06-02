@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Передача речи по IP-сети. Протокол передачи данных RTP.                            " /><THEME c1="10079385" c2="14745571" c3="10079385" /><QUESTION value="Серийным номером и версией аппатарной части беспроводного сетевого адаптера является?" />
-<ANSWER id="0" value="IP-адрес" />
-<ANSWER id="1" value="&gt; MAC-адрес" />
-<ANSWER id="2" value="PORT" />
-<ANSWER id="3" value="URL-адрес" />
-
-</ROOT>

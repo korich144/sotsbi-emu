@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Линейная сигнализация" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Какой из сигналов принадлежит к информационным сигналам?" />
+<ANSWER id="0" value="Сигнал &quot;Ответ абонента Б&quot;" />
+<ANSWER id="1" value="Сигнал &quot;Занятие линии&quot;" />
+<ANSWER id="2" value="Сигнал &quot;Подтверждение занятия&quot;" />
+<ANSWER id="3" value="Сигнал &quot;Контроль посылки вызова&quot;" />
+
+</ROOT>

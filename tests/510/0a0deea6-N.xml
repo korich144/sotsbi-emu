@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Фиксированная сеть. Общеканальная сигнализация ОКС №7" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какая подсистема обеспечивает взаимодействие между узлом коммутации услуг SSP и узлом управления услугами SCP, разделенными территориально при оказании услуги Freephone или «Услуги 800»?" />
-<ANSWER id="0" value="Подсистема пользователей мобильной связи (MAP, Mobile Application Part)" />
-<ANSWER id="1" value="?&gt; Прикладная подсистема интеллектуальной сети (INAP, Intelligent Network Application Part)" />
-<ANSWER id="2" value="Подсистема передачи сообщений 3 (Message Transfer Part 3)" />
-<ANSWER id="3" value="Подсистема-пользователь сети с интеграцией служб (ISUP, ISDN User Part)" />
-<ANSWER id="4" value="Подсистема управления сигнальными соединениями (SCCP, Signalling Connection Control Part)" />
-
-</ROOT>

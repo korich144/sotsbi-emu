@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Введение. Архитектура сети" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Какие типы узлов сети Blockchain создают новые блоки?" />
+<ANSWER id="0" value="слушающие узлы (listening node)" />
+<ANSWER id="1" value="обычные узлы (full node)" />
+<ANSWER id="2" value="обычные узлы (full node) и слушающие (listening node)" />
+<ANSWER id="3" value="майнеры (miner node)" />
+<ANSWER id="4" value="майнеры (miner node) и легкие клиенты (lightweight node)" />
+<ANSWER id="5" value="легкие клиенты (lightweight node)" />
+
+</ROOT>

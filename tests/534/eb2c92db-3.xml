@@ -1,9 +1,9 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <ROOT><TARGET value="Сеть передачи данных. Служебные протоколы. Сервисы" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какое из приведенных значений подходит для пути (path) URL?" />
 <ANSWER id="0" value="http:" />
 <ANSWER id="1" value="user@example.com" />
 <ANSWER id="2" value="www.example.com:8080" />
-<ANSWER id="3" value="&gt; /project/index.html" />
+<ANSWER id="3" value="/project/index.html" />
 <ANSWER id="4" value="#place1" />
 
 </ROOT>

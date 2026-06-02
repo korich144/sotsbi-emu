@@ -1,7 +1,8 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Формат сообщений подсистемы ISUP " /><THEME c1="5496063" c2="11727871" c3="5496063" /><QUESTION value="В этикетку маршрутизации типа С входят поля:" />
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Формат сообщений подсистемы ISUP
+" /><THEME c1="5496063" c2="11727871" c3="5496063" /><QUESTION value="В этикетку маршрутизации типа С входят поля:" />
 <ANSWER id="0" value="CIC, SLS, DPC" />
-<ANSWER id="1" value="&gt; SLS, OPC, DPC, CIC" />
+<ANSWER id="1" value="SLS, OPC, DPC, CIC" />
 <ANSWER id="2" value="CIC, SLS, OPC" />
 <ANSWER id="3" value="CIC, DPC, OPC" />
 

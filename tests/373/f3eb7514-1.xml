@@ -1,7 +1,8 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="LDP                                                                                                           " /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какое из этих полей определяет общую длину сообщения в байтах?" />
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="LDP                                                                                                          
+" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какое из этих полей определяет общую длину сообщения в байтах?" />
 <ANSWER id="0" value="Message Type" />
-<ANSWER id="1" value="&gt; Message Length" />
+<ANSWER id="1" value="Message Length" />
 <ANSWER id="2" value="Message ID" />
 <ANSWER id="3" value="Mandatory Parameters" />
 

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Абонентская сигнализация" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Сколько времени (минимально) потребуется для передачи пятизначного номера кодом DTMF?" />
+<ANSWER id="0" value="300 мс" />
+<ANSWER id="1" value="325 мс" />
+<ANSWER id="2" value="200 мс" />
+<ANSWER id="3" value="325мкс" />
+<ANSWER id="4" value="300 мкс" />
+
+</ROOT>

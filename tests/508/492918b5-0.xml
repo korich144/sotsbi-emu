@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <ROOT><TARGET value="ИКТ - Информационно-коммуникационные технологии. Введение" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какой из протоколов сети передачи данных используется на сетевом уровне для маршрутизации пакетов по сети?" />
-<ANSWER id="0" value="&gt; Протокол IP" />
+<ANSWER id="0" value="Протокол IP" />
 <ANSWER id="1" value="Протокол TCP" />
 <ANSWER id="2" value="Протокол Ethernet" />
 <ANSWER id="3" value="Протокол UDP" />

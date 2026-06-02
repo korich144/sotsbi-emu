@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Проверка основных знаний по курсу IoT глава Введение" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Укажите полный перечень сетей, которые могут использоваться в IoT для передачи информации." />
+<ANSWER id="0" value="PAN, LAN, MAN, WAN, GAN" />
+<ANSWER id="1" value="PAN, LAN, MAN" />
+<ANSWER id="2" value="LAN, MAN, WAN" />
+<ANSWER id="3" value="PAN, MAN, WAN, GAN" />
+
+</ROOT>

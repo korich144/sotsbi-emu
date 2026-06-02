@@ -1,6 +1,7 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Протокол RIP " /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какую технологию используют протоколы маршрутизации для предотвращения появления петель маршрутизации и зацикливания пакетов?" />
-<ANSWER id="0" value="&gt; Split horizon" />
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Протокол RIP
+" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какую технологию используют протоколы маршрутизации для предотвращения появления петель маршрутизации и зацикливания пакетов?" />
+<ANSWER id="0" value="Split horizon" />
 <ANSWER id="1" value="Triggered update" />
 <ANSWER id="2" value="Route poisoning" />
 <ANSWER id="3" value="Poison reverse" />

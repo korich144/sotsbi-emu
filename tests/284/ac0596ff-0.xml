@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <ROOT><TARGET value="MAP-user, MAP-provider" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Организация диалога MAP осуществляется с помощью:" />
-<ANSWER id="0" value="&gt; общих услуг MAP" />
+<ANSWER id="0" value="общих услуг MAP" />
 <ANSWER id="1" value="индивидуальных услуг MAP" />
 
 </ROOT>

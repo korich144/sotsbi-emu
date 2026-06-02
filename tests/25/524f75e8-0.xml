@@ -1,6 +1,7 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Форма сообщений MEGACO " /><THEME c1="4950084" c2="14216152" c3="4950084" /><QUESTION value="Какой тип транзакции используется для передачи от MGC к MG, указаний о совершении действия на MG?" />
-<ANSWER id="0" value="&gt; TransactionRequest (Transaction)" />
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Форма сообщений MEGACO
+" /><THEME c1="4950084" c2="14216152" c3="4950084" /><QUESTION value="Какой тип транзакции используется для передачи от MGC к MG, указаний о совершении действия на MG?" />
+<ANSWER id="0" value="TransactionRequest (Transaction)" />
 <ANSWER id="1" value="TransactionReply (Reply)" />
 <ANSWER id="2" value="TransactionPending" />
 <ANSWER id="3" value="TransactionResponseAck" />

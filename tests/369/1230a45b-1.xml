@@ -1,7 +1,8 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Структура и назначения OSPF-пакетов " /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Для чего служит LSA Type 2— Network LSA?" />
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Структура и назначения OSPF-пакетов
+" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Для чего служит LSA Type 2— Network LSA?" />
 <ANSWER id="0" value="объявление о состоянии каналов маршрутизатора" />
-<ANSWER id="1" value="&gt; объявление о состоянии каналов сети" />
+<ANSWER id="1" value="объявление о состоянии каналов сети" />
 <ANSWER id="2" value="суммарное объявление о состоянии каналов сети" />
 <ANSWER id="3" value="объявление о состоянии внешних каналов автономной системы" />
 

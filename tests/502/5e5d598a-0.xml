@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Введение. Архитектура сети" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Как называется составная единица в цепочке блокчейна, которая содержит записи о проведенных транзакциях?" />
+<ANSWER id="0" value="Блок" />
+<ANSWER id="1" value="Транзакция" />
+<ANSWER id="2" value="Coinbase-транзакция" />
+<ANSWER id="3" value="Пул транзакций (mempool)" />
+
+</ROOT>

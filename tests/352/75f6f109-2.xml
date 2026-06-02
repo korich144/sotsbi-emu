@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Администрирование UNIX-подобных систем
+" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="С каким параметром следует запускать команду ls, чтобы увидеть все файлы каталога, включая &quot;скрытые&quot;?" />
+<ANSWER id="0" value="ls -r" />
+<ANSWER id="1" value="ls -S" />
+<ANSWER id="2" value="ls -a" />
+
+</ROOT>

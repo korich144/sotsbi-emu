@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Языковое моделирование
+" /><THEME c1="15767447" c2="16442082" c3="15767447" /><QUESTION value="Укажите соотношение суммы вероятностей всех униграмм (SumUNI) и суммы вероятностей всех биграмм (SumBI)?" />
+<ANSWER id="0" value="SumUNI&gt;SumBI" />
+<ANSWER id="1" value="SumUNI=SumBI" />
+<ANSWER id="2" value="SumUNI&lt;SumBI" />
+
+</ROOT>

@@ -1,8 +1,9 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Адресация сообщений SCCP. Маршрутизация. " /><THEME c1="16680295" c2="16777215" c3="0" /><QUESTION value="Какая  информация не содержится в параметре &quot;адрес вызываемой/вызывающей стороны&quot;?" />
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Адресация сообщений SCCP. Маршрутизация.
+" /><THEME c1="16680295" c2="16777215" c3="0" /><QUESTION value="Какая  информация не содержится в параметре &quot;адрес вызываемой/вызывающей стороны&quot;?" />
 <ANSWER id="0" value="SSN" />
 <ANSWER id="1" value="SPC" />
-<ANSWER id="2" value="&gt; SLS" />
+<ANSWER id="2" value="SLS" />
 <ANSWER id="3" value="GT" />
 
 </ROOT>

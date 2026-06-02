@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Стек протоколов доступа ISDN." /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="В каких кадрах передаются сообщения, управляющие процедурой назначения идентификаторов  терминальному оборудованию?" />
+<ANSWER id="0" value="I" />
+<ANSWER id="1" value="UI" />
+<ANSWER id="2" value="U" />
+<ANSWER id="3" value="S" />
+
+</ROOT>

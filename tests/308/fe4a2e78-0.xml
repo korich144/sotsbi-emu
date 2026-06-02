@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <ROOT><TARGET value="Взаимодействие сетей КК с КП" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Уровни адаптации M3UA, M2UA, SUA  относятся к группе протоколов:" />
-<ANSWER id="0" value="&gt; SIGTRAN" />
+<ANSWER id="0" value="SIGTRAN" />
 <ANSWER id="1" value="MEGACO" />
 <ANSWER id="2" value="ОКС7" />
 

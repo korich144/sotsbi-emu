@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Введение в специальность
+" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Принципы построения СПС. В каком элементе сети сотовой подвижной связи стандарта GSM хранится информация о местонахождении абонента? " />
+<ANSWER id="0" value="в регистре AuC" />
+<ANSWER id="1" value="в регистре VLR" />
+<ANSWER id="2" value="в BSC" />
+<ANSWER id="3" value="в центре MSC" />
+
+</ROOT>

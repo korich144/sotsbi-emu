@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Установление соединения между пользователями ISDN в режиме коммутации каналов (базовый вызов). Услуги сети ISDN." /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какой параметр определяет режим передачи информации: коммутация каналов или коммутация пакетов?" />
+<ANSWER id="0" value="SAPI" />
+<ANSWER id="1" value="Channel identification" />
+<ANSWER id="2" value="Bearer capability" />
+
+</ROOT>

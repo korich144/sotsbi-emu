@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <ROOT><TARGET value="Процедуры аутентификации, обновления зоны местонахождения" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Каким сообщением HLR информирует VLR об окончании процедуры обновления данных о местонахождении пользователя в HLR?" />
-<ANSWER id="0" value="&gt; MAP-UPDATE-LOCATION ack" />
+<ANSWER id="0" value="MAP-UPDATE-LOCATION ack" />
 <ANSWER id="1" value="MAP-CANCEL-LOCATION" />
 <ANSWER id="2" value="MAP-INSERT-SUBSCRIBER-DATA" />
 

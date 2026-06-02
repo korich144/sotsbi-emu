@@ -1,6 +1,7 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Вводная часть. " /><THEME c1="9285627" c2="15266303" c3="9285627" /><QUESTION value="Кто формирует и руководит Советом  Безопасности РФ?" />
-<ANSWER id="0" value="&gt; Президент." />
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Вводная часть.
+" /><THEME c1="9285627" c2="15266303" c3="9285627" /><QUESTION value="Кто формирует и руководит Советом  Безопасности РФ?" />
+<ANSWER id="0" value="Президент." />
 <ANSWER id="1" value="Государственная Дума." />
 <ANSWER id="2" value="Совет Федерации." />
 <ANSWER id="3" value="Правительство." />

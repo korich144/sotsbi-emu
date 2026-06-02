@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Администрирование UNIX-подобных систем " /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Администратор желает запретить определённому пользователю доступ к консоли, но оставить возможность авторизации в предоставляемых сервером службах. Что нужно написать напротив имени пользователя в файле /etc/passwd?" />
-<ANSWER id="0" value="/bin/sh" />
-<ANSWER id="1" value="/bin/false" />
-<ANSWER id="2" value="/bin/passwd" />
-<ANSWER id="3" value="/bin/disable" />
-<ANSWER id="4" value="?&gt; /sbin/nologin" />
-
-</ROOT>

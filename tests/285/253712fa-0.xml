@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <ROOT><TARGET value="Процедуры аутентификации, обновления зоны местонахождения" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Кто является инициатором процедуры обновления местонахождения:" />
-<ANSWER id="0" value="&gt; Мобильная станция" />
+<ANSWER id="0" value="Мобильная станция" />
 <ANSWER id="1" value="Сеть" />
 
 </ROOT>

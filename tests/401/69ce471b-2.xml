@@ -1,8 +1,8 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <ROOT><TARGET value="Закрепить знания по технологии Ethernet" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Каково назначение подуровня LLC?" />
 <ANSWER id="0" value="взаимодействие с протоколами верхнего уровня" />
 <ANSWER id="1" value="доступ к среде передачи" />
-<ANSWER id="2" value="&gt; доступ к каналу" />
+<ANSWER id="2" value="доступ к каналу" />
 <ANSWER id="3" value="формирование преамбулы" />
 
 </ROOT>

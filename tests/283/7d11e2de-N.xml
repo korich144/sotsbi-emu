@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Сеть MAP, идентификаторы, определения, услуги" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какие данные HLR указывают текущую зону обслуживания пользователя?" />
-<ANSWER id="0" value="?&gt; Номер MSC " />
-<ANSWER id="1" value="LAI" />
-<ANSWER id="2" value="CGID" />
-
-</ROOT>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Функции обработки сообщений и управления трафиком
+" /><THEME c1="11364044" c2="16375806" c3="13524990" /><QUESTION value="К какой группе сообщений относится команда LIN (Link inhibit signal)?" />
+<ANSWER id="0" value="К группам перевода трафика CHM и ECM" />
+<ANSWER id="1" value="К группе доступа к звену MIM" />
+<ANSWER id="2" value="К группе подключения звена передачи данных DLM" />
+<ANSWER id="3" value="К группе перезапуска трафика TRM" />
+<ANSWER id="4" value="все приведенные ответы неверны" />
+
+</ROOT>

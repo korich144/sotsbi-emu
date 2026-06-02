@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Протокол H.245 " /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Оборудование пользователя, инициирующего разъединение, прекращает передачу речевой информации, закрывает логические каналы и передает по управляющему каналу сообщение H.225 endSessionCommand, означающее, что пользователь хочет завершить соединение. После приема какого сообщения от встречного оборудования закрывается управляющий канал Н.245." />
-<ANSWER id="0" value="&gt; endSessionCommand" />
-<ANSWER id="1" value="endSessionCommandAck " />
-<ANSWER id="2" value="Release" />
-<ANSWER id="3" value="Release Complete" />
-<ANSWER id="4" value="endSession" />
-
-</ROOT>

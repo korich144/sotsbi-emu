@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Формат блока" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Наличие какого параметра объединяет блоки в единую цепь и гарантируют «необратимость» всей цепочки транзакций в Blockchain?" />
+<ANSWER id="0" value="хеш предыдущего блока" />
+<ANSWER id="1" value="хеш всех транзакций в блоке" />
+<ANSWER id="2" value="временная метка блока" />
+<ANSWER id="3" value="версия Blockchain" />
+
+</ROOT>

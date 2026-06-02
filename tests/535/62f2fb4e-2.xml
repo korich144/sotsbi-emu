@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Сеть передачи данных. Стек TCP/IP" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какое максимальное значение может быть указано в 8-битном поле IPv4 адреса?" />
+<ANSWER id="0" value="0" />
+<ANSWER id="1" value="256" />
+<ANSWER id="2" value="255" />
+<ANSWER id="3" value="128" />
+<ANSWER id="4" value="64" />
+<ANSWER id="5" value="FFFF" />
+<ANSWER id="6" value="1111" />
+
+</ROOT>

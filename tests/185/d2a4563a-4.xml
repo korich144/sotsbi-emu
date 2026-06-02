@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Криптография
+" /><THEME c1="9285627" c2="15266303" c3="9285627" /><QUESTION value="Какой из перечисленных ниже алгоритмов выполняет только функции распределения ключей?" />
+<ANSWER id="0" value="IDEA" />
+<ANSWER id="1" value="RSA" />
+<ANSWER id="2" value="SHA" />
+<ANSWER id="3" value="DSA" />
+<ANSWER id="4" value="Диффи-Хеллмана" />
+
+</ROOT>

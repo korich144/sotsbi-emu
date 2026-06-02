@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <ROOT><TARGET value="Закрепить знания по технологии Ethernet" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какое количество бит требуется для указания MAC адреса?" />
-<ANSWER id="0" value="&gt; 48" />
+<ANSWER id="0" value="48" />
 <ANSWER id="1" value="6" />
 <ANSWER id="2" value="8" />
 <ANSWER id="3" value="32" />

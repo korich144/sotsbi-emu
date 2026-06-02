@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Стек протоколов доступа ISDN." /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="На каком уровне осуществляется формирование кадра?" />
+<ANSWER id="0" value="Физическом" />
+<ANSWER id="1" value="Канальном" />
+<ANSWER id="2" value="Сетевом" />
+
+</ROOT>

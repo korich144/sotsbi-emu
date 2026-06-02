@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Формат блока" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Какое поле блока содержит значение, которое ищут майнеры для того, чтобы создать блок и присвоить ему правильный хеш?" />
+<ANSWER id="0" value="nonce" />
+<ANSWER id="1" value="Bits" />
+<ANSWER id="2" value="Timestamp" />
+<ANSWER id="3" value="merkle root hash" />
+<ANSWER id="4" value="previous block header hash" />
+
+</ROOT>

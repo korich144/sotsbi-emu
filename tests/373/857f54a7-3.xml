@@ -1,8 +1,9 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="LDP                                                                                                           " /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какое из этих сообщений обеспечивает согласование общих параметров LDP-сеанса?" />
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="LDP                                                                                                          
+" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какое из этих сообщений обеспечивает согласование общих параметров LDP-сеанса?" />
 <ANSWER id="0" value="KeepAlive" />
 <ANSWER id="1" value="Address" />
 <ANSWER id="2" value="Hello" />
-<ANSWER id="3" value="&gt; Initialization" />
+<ANSWER id="3" value="Initialization" />
 
 </ROOT>

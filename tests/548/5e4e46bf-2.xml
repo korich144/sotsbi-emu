@@ -1,7 +1,7 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <ROOT><TARGET value="ИКТ - Информационно-коммуникационные технологии. Пост NGN. Програмно-конфигурируемые сети SDN. Протокол OpenFlow" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Укажите предпосылки появления технологий SDN и NFV:" />
 <ANSWER id="0" value="Быстрый рост трафика" />
 <ANSWER id="1" value="Рост подключенных к сети устройств" />
-<ANSWER id="2" value="&gt; Оба ответа верны" />
+<ANSWER id="2" value="Оба ответа верны" />
 
 </ROOT>

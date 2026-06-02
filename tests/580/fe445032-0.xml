@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Проверка основных знаний по курсу IoT глава Введение" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Укажите все типы топологий сетей, которые используются в беспроводных сенсорных сетях WSN." />
+<ANSWER id="0" value="Одноранговая, кластерная, Mesh" />
+<ANSWER id="1" value="Звезда, Mesh" />
+<ANSWER id="2" value="Кластерная, Mesh" />
+<ANSWER id="3" value="Точка-точка, Звезда, Mesh" />
+
+</ROOT>

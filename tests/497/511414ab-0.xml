@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="SDN/NFV" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="С помощью какого протокола осуществляется обмен командами SCSI  между устройствами через интерфейсы TCP/IP?" />
+<ANSWER id="0" value="iSCSI" />
+<ANSWER id="1" value="FCP" />
+
+</ROOT>

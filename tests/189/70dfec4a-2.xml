@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Абонентская сигнализация" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Каково номинальное значение длительности передачи одной двухчастотной комбинации кода DTMF?" />
+<ANSWER id="0" value="40 мин" />
+<ANSWER id="1" value="40 с." />
+<ANSWER id="2" value="40 мс." />
+<ANSWER id="3" value="40 мкс." />
+<ANSWER id="4" value="Может быть любым" />
+
+</ROOT>

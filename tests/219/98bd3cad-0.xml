@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Вводный
+" /><THEME c1="15767447" c2="16442082" c3="15767447" /><QUESTION value="Выберите базовый вариант инсталляции ПО ANALYZE:" />
+<ANSWER id="0" value="Stand-alone приложение" />
+<ANSWER id="1" value="SDK" />
+<ANSWER id="2" value="HTTP-сервер" />
+
+</ROOT>

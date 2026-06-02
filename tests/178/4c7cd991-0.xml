@@ -1,6 +1,7 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Сканеры безопасности. IPS, IDS. " /><THEME c1="9285627" c2="15266303" c3="9285627" /><QUESTION value="Какой сканер обнаруживает уязвимости Unix- и Windows-систем внутри сети, анализ деятельности  пользователя?" />
-<ANSWER id="0" value="&gt; System Scanner." />
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Сканеры безопасности. IPS, IDS.
+" /><THEME c1="9285627" c2="15266303" c3="9285627" /><QUESTION value="Какой сканер обнаруживает уязвимости Unix- и Windows-систем внутри сети, анализ деятельности  пользователя?" />
+<ANSWER id="0" value="System Scanner." />
 <ANSWER id="1" value="Intranet Scanner." />
 <ANSWER id="2" value="Сканер Nessus." />
 

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Уровни модели OSI.
+" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какие протоколы имеют клиент-серверную архитектуру?" />
+<ANSWER id="0" value="DNS, SIP, XMPP" />
+<ANSWER id="1" value="FTP, NTP, HTTP " />
+<ANSWER id="2" value="NTP, NFS" />
+<ANSWER id="3" value="Все варианты ответов верны." />
+
+</ROOT>

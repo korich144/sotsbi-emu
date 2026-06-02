@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Уровни модели OSI.
+" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Как NFS-клиенты получают доступ к файлам на NFS-сервере?" />
+<ANSWER id="0" value="С помощью отправки RPC-запросов на сервер" />
+<ANSWER id="1" value="С помощью отправки команды mount" />
+<ANSWER id="2" value="С помощью отправки команды Connect" />
+<ANSWER id="3" value="С помощью отправки команды Read Request (RRQ)" />
+
+</ROOT>

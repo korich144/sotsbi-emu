@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Формат сообщения протокола RADIUS" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Из каких полей состоит атрибут User-Name?" />
-<ANSWER id="0" value="Тип, идентификатор, длина, аутентификатор, атрибуты" />
-<ANSWER id="1" value="&gt; Тип, длина, значение" />
-<ANSWER id="2" value="Тип, идентификатор, длина, значение" />
-<ANSWER id="3" value="Код, идентификатор, длина, значение" />
-
-</ROOT>

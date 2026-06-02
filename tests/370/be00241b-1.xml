@@ -1,7 +1,8 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Основная терминология и принципы работы протокола BGP " /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="В каком состоянии BGP-система  ожидает  получения  сообщения  OPEN от удаленной стороны?" />
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Основная терминология и принципы работы протокола BGP
+" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="В каком состоянии BGP-система  ожидает  получения  сообщения  OPEN от удаленной стороны?" />
 <ANSWER id="0" value="Connect" />
-<ANSWER id="1" value="&gt; OpenSent" />
+<ANSWER id="1" value="OpenSent" />
 <ANSWER id="2" value="OpenConfirm" />
 <ANSWER id="3" value="Active" />
 

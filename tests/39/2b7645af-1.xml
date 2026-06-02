@@ -1,7 +1,8 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Общее назначение SCCP. Сервисные примитивы. " /><THEME c1="16680295" c2="16777215" c3="0" /><QUESTION value="Какие классы услуг SCCP реализуют услуги без создания сигнального соединения?" />
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Общее назначение SCCP. Сервисные примитивы.
+" /><THEME c1="16680295" c2="16777215" c3="0" /><QUESTION value="Какие классы услуг SCCP реализуют услуги без создания сигнального соединения?" />
 <ANSWER id="0" value="классы 1, 2" />
-<ANSWER id="1" value="&gt; классы 0, 1" />
+<ANSWER id="1" value="классы 0, 1" />
 <ANSWER id="2" value="классы 2, 3" />
 <ANSWER id="3" value="классы 3, 4" />
 

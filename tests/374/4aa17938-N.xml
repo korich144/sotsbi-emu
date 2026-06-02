@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Основы протокола UDP " /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Из скольких полей состоит заголовок UDP?" />
-<ANSWER id="0" value="2" />
-<ANSWER id="1" value="?&gt; 4" />
-<ANSWER id="2" value="8" />
-<ANSWER id="3" value="16" />
-
-</ROOT>

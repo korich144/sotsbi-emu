@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Абонентская сигнализация" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Средняя длительность передачи одной цифры при передаче адресной информации импульсами постоянного тока" />
+<ANSWER id="0" value="0,5 с." />
+<ANSWER id="1" value="1,5 с." />
+<ANSWER id="2" value="0,1 с." />
+<ANSWER id="3" value="10 с." />
+<ANSWER id="4" value="10 мс." />
+
+</ROOT>

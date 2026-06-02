@@ -1,8 +1,9 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="LDP                                                                                                           " /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Что из перечисленного не входит в аспекты безопасности протокола LDP?" />
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="LDP                                                                                                          
+" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Что из перечисленного не входит в аспекты безопасности протокола LDP?" />
 <ANSWER id="0" value="Несанкционированные действия" />
 <ANSWER id="1" value="Отказ в обслуживании" />
-<ANSWER id="2" value="&gt; Сообщение об ошибке" />
+<ANSWER id="2" value="Сообщение об ошибке" />
 <ANSWER id="3" value="Конфиденциальность" />
 
 </ROOT>

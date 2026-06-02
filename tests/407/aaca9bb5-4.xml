@@ -1,10 +1,10 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <ROOT><TARGET value="Закрепление знаний по технологии работы услуги доменных имен" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какой транспортный порт используется на сервере для обработки запросов DNS?" />
 <ANSWER id="0" value="80" />
 <ANSWER id="1" value="8080" />
 <ANSWER id="2" value="20" />
 <ANSWER id="3" value="21" />
-<ANSWER id="4" value="&gt; 53" />
+<ANSWER id="4" value="53" />
 <ANSWER id="5" value="443" />
 <ANSWER id="6" value="43" />
 <ANSWER id="7" value="2332" />

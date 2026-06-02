@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <ROOT><TARGET value="Протокол DHCP" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какое сообщение используется в качестве запроса на освобождение адреса?" />
-<ANSWER id="0" value="&gt; DHCPRELEASE" />
+<ANSWER id="0" value="DHCPRELEASE" />
 <ANSWER id="1" value="DHCPADDRFREE" />
 <ANSWER id="2" value="DHCPRENEW" />
 <ANSWER id="3" value="DHCPDECLINE" />

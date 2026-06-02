@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Установление соединения между пользователями ISDN в режиме коммутации каналов (базовый вызов). Услуги сети ISDN." /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="После приема какого сообщения от терминала вызываемого абонента, в сторону исходящей АТС передается сообщение ANM?" />
+<ANSWER id="0" value="SETUP" />
+<ANSWER id="1" value="CALL_PROCEEDING" />
+<ANSWER id="2" value="CONNECT" />
+<ANSWER id="3" value="ALERTING" />
+
+</ROOT>

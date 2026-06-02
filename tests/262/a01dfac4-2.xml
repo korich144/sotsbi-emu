@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Уровни модели OSI.
+" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какой стандартный номер порта присвоен протоколу SSH?" />
+<ANSWER id="0" value="53/TCP, UDP" />
+<ANSWER id="1" value="21/TCP, UDP" />
+<ANSWER id="2" value="22/TCP, UDP" />
+<ANSWER id="3" value="123/TCP, UDP" />
+<ANSWER id="4" value="23/TCP, UDP" />
+<ANSWER id="5" value="80/TCP, UDP" />
+<ANSWER id="6" value="81/TCP, UDP" />
+
+</ROOT>

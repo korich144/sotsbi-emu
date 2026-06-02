@@ -1,8 +1,8 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <ROOT><TARGET value="Сеть передачи данных. Стек TCP/IP" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="К какому уровню модели OSI относится протокол UDP?" />
 <ANSWER id="0" value="физическому" />
 <ANSWER id="1" value="канальному" />
-<ANSWER id="2" value="&gt; транспортному" />
+<ANSWER id="2" value="транспортному" />
 <ANSWER id="3" value="сетевому" />
 <ANSWER id="4" value="прикладному" />
 

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Абонентская сигнализация" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Каким должен быть минимальный промежуток между двумя двухчастотными посылками кода DTMF?" />
+<ANSWER id="0" value="25 мкс" />
+<ANSWER id="1" value="25 мс." />
+<ANSWER id="2" value="25 с." />
+<ANSWER id="3" value="25 мин" />
+<ANSWER id="4" value="Может быть любым" />
+
+</ROOT>

@@ -1,8 +1,8 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <ROOT><TARGET value="ИКТ - Информационно-коммуникационные технологии. Пост NGN. BigData" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Что является примером полуструктурированных данных?" />
 <ANSWER id="0" value="Таблицы" />
 <ANSWER id="1" value="Web-сайты" />
-<ANSWER id="2" value="&gt; XML-документы" />
+<ANSWER id="2" value="XML-документы" />
 <ANSWER id="3" value="Аудио, видео" />
 <ANSWER id="4" value="Текст" />
 

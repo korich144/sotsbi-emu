@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="SDN/NFV" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какие элементы архитектуры SDN чаще всего интегрируются в архитектуру NFV?" />
+<ANSWER id="0" value="Контроллеры SDN" />
+<ANSWER id="1" value="Коммутаторы OpenFlow" />
+<ANSWER id="2" value="Оба варианта ответа верны" />
+
+</ROOT>

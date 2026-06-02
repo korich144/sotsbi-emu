@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Закрепление полученных знаний по протоколу передачи файлов" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какой транспортный порт используется на FTP сервере для передачи данных?" />
+<ANSWER id="0" value="80" />
+<ANSWER id="1" value="8080" />
+<ANSWER id="2" value="20" />
+<ANSWER id="3" value="21" />
+<ANSWER id="4" value="443" />
+<ANSWER id="5" value="40" />
+<ANSWER id="6" value="41" />
+<ANSWER id="7" value="62010" />
+<ANSWER id="8" value="RJ-45" />
+
+</ROOT>

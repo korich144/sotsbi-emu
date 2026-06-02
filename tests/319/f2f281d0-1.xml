@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Кредитный контроль" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Какое сообщение отправляет СС-сервер в случае, когда на счете конечного пользователя не остается средств?" />
-<ANSWER id="0" value="Credit-Control-Request (CCR) с атрибутом Final-Unit-Indication" />
-<ANSWER id="1" value="&gt; Credit-Control-Answer (CCA) с атрибутом Final-Unit-Indication" />
-<ANSWER id="2" value="Credit-Control-Request (CCR) с атрибутом Terminate" />
-<ANSWER id="3" value="Credit-Control-Answer (CCA) с атрибутом Terminate" />
-
-</ROOT>

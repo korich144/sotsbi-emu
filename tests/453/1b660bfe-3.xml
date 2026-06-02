@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Сеть передачи данных. Стек TCP/IP ч.1. Протокол IP" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какой из приведенных адресов, определяет IP сеть, содержащую адрес 192.168.20.30/11?" />
+<ANSWER id="0" value="0.0.0.0" />
+<ANSWER id="1" value="192.168.0.0" />
+<ANSWER id="2" value="0.5.20.30" />
+<ANSWER id="3" value="192.160.0.0" />
+
+</ROOT>

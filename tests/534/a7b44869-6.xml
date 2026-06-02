@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <ROOT><TARGET value="Сеть передачи данных. Служебные протоколы. Сервисы" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Каким сообщением клиент запрашивает у DHCP сервера дополнительные параметры?" />
 <ANSWER id="0" value="DHCPOFFER" />
 <ANSWER id="1" value="DHCPREQUEST" />
@@ -6,6 +6,6 @@
 <ANSWER id="3" value="DHCPACK" />
 <ANSWER id="4" value="DHCPNAK" />
 <ANSWER id="5" value="DHCPRELEASE" />
-<ANSWER id="6" value="&gt; DHCPINFORM" />
+<ANSWER id="6" value="DHCPINFORM" />
 
 </ROOT>

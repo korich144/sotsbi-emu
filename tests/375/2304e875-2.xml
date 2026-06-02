@@ -1,8 +1,9 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Основы протокола TCP " /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какой флаг, будучи установлен, указывает на завершение соединения?" />
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Основы протокола TCP
+" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какой флаг, будучи установлен, указывает на завершение соединения?" />
 <ANSWER id="0" value="RST" />
 <ANSWER id="1" value="SYN" />
-<ANSWER id="2" value="&gt; FIN" />
+<ANSWER id="2" value="FIN" />
 <ANSWER id="3" value="PSH" />
 
 </ROOT>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Введение в специальность
+" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Принципы построения СПС. К какому поколению сетей сотовой подвижной связи относятся сети стандарта GSM-900 с услугами GPRS? " />
+<ANSWER id="0" value="1G" />
+<ANSWER id="1" value="2G" />
+<ANSWER id="2" value="2.5G" />
+<ANSWER id="3" value="3G" />
+<ANSWER id="4" value="4G" />
+
+</ROOT>

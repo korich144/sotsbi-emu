@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Протокол H.245
+" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="В каком случае передается сообщение TerminalCapabilitySetRelease протокола H.245?" />
+<ANSWER id="0" value="При срабатывании таймера, запущенного после отправки сообщения TerminalCapabilitySet, оборудование, его пославшее, передает сообщение TerminalCapabilitySetRelease." />
+<ANSWER id="1" value="При срабатывании таймера, запущенного после отправки сообщения TerminalCapabilitySetAck, оборудование, его пославшее, передает сообщение TerminalCapabilitySetRelease." />
+<ANSWER id="2" value="При получении сообщения TerminalCapabilitySet с некорректным набором возможностей оборудование отвечает сообщением TerminalCapabilitySetRelease." />
+<ANSWER id="3" value="Для успешного завершения процедуры обмена данными о функциональных возможностях передается сообщение TerminalCapabilitySetRelease." />
+
+</ROOT>

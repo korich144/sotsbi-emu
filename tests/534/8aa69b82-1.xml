@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Сеть передачи данных. Служебные протоколы. Сервисы" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Выберите один верный формат RTSP URL, где протокол RTSP передается поверх UDP?" />
-<ANSWER id="0" value="rtsp://media.example.com:554/twister/audiotrack" />
-<ANSWER id="1" value="&gt; rtspu://media.example.com:8554/twister" />
-<ANSWER id="2" value="rtsp://media.example.com/twister/audiotrack" />
-<ANSWER id="3" value="http://media.example.com/audiotrack" />
-
-</ROOT>

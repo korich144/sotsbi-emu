@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <ROOT><TARGET value="MAP-user, MAP-provider" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Кто инициирует диалог, в рамках которого осуществляется выполнение услуг  MAP?" />
-<ANSWER id="0" value="&gt; Пользователь MAP" />
+<ANSWER id="0" value="Пользователь MAP" />
 <ANSWER id="1" value="Провайдер MAP" />
 <ANSWER id="2" value="Подсистема TCAP" />
 

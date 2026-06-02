@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Абонентская сигнализация" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="При формировании каждого символа кода DTMF используются частоты:" />
+<ANSWER id="0" value="Только нижней группы" />
+<ANSWER id="1" value="Только верхней группы" />
+<ANSWER id="2" value="И верхней и нижней групп" />
+
+</ROOT>

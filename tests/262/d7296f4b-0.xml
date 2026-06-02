@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Уровни модели OSI.
+" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какой криптографический протокол обеспечивает защищённую передачу данных между узлами в сети Интернет?" />
+<ANSWER id="0" value="TLS" />
+<ANSWER id="1" value="HTTPS" />
+<ANSWER id="2" value="NFS" />
+<ANSWER id="3" value="NTP" />
+<ANSWER id="4" value="XMPP" />
+<ANSWER id="5" value="DNS" />
+
+</ROOT>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Сеть передачи данных. Стек TCP/IP ч.1. Протокол IP" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какая подсистема технологии Ethernet предоставляет доступ к среде передачи?" />
+<ANSWER id="0" value="LLC" />
+<ANSWER id="1" value="MAC" />
+<ANSWER id="2" value="UTP" />
+<ANSWER id="3" value="LLC3" />
+
+</ROOT>

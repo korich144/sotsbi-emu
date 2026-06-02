@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Стек протоколов доступа ISDN." /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какие параметры определяют адресатов, которым предназначена информация, переносимая в «Информационном поле» кадра I." />
+<ANSWER id="0" value="SAPI, TAI" />
+<ANSWER id="1" value="Только SAPI" />
+<ANSWER id="2" value="Только TAI" />
+
+</ROOT>

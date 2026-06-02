@@ -1,8 +1,9 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Сообщения подсистемы SCCP и их параметры. " /><THEME c1="16680295" c2="16777215" c3="0" /><QUESTION value="Какие подсистемы не кодируются в SSN?" />
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Сообщения подсистемы SCCP и их параметры.
+" /><THEME c1="16680295" c2="16777215" c3="0" /><QUESTION value="Какие подсистемы не кодируются в SSN?" />
 <ANSWER id="0" value="ISUP" />
 <ANSWER id="1" value="OMAP" />
 <ANSWER id="2" value="HLR" />
-<ANSWER id="3" value="&gt; МТР" />
+<ANSWER id="3" value="МТР" />
 
 </ROOT>

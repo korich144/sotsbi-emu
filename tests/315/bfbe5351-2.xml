@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Протоколы ААА " /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Какие протоколы являются протоколами ААА?" />
-<ANSWER id="0" value="SIP, DSS, RADIUS, DIAMETER" />
-<ANSWER id="1" value="RADIUS, DIAMETER" />
-<ANSWER id="2" value="&gt; RADIUS, DIAMETER, TACACS, TACACS+" />
-<ANSWER id="3" value="DSS, TACACS, TACACS+" />
-
-</ROOT>

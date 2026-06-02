@@ -1,8 +1,9 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="MPLS                                                                                                           " /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какой диапазон значений может содержаться в поле TTL?" />
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="MPLS                                                                                                          
+" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какой диапазон значений может содержаться в поле TTL?" />
 <ANSWER id="0" value="От 0 до 225" />
 <ANSWER id="1" value="От 21 до 34" />
 <ANSWER id="2" value="От 24 до 31" />
-<ANSWER id="3" value="&gt; От 0 до 255" />
+<ANSWER id="3" value="От 0 до 255" />
 
 </ROOT>

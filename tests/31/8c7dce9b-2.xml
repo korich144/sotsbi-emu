@@ -1,7 +1,8 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Установление и разрушение сигнального звена                                                                                                      " /><THEME c1="16615443" c2="16635796" c3="16615443" /><QUESTION value="В каких сигнальных единицах передаются индикаторы состояния сигнального звена?" />
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Установление и разрушение сигнального звена                                                                                                     
+" /><THEME c1="16615443" c2="16635796" c3="16615443" /><QUESTION value="В каких сигнальных единицах передаются индикаторы состояния сигнального звена?" />
 <ANSWER id="0" value="MSU" />
 <ANSWER id="1" value="FISU" />
-<ANSWER id="2" value="&gt; LSSU" />
+<ANSWER id="2" value="LSSU" />
 
 </ROOT>

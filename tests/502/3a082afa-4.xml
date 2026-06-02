@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Введение. Архитектура сети" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Какие типы сообщений передаются в сети Blockchain?" />
+<ANSWER id="0" value="Блоки" />
+<ANSWER id="1" value="Транзакции" />
+<ANSWER id="2" value="Сообщения" />
+<ANSWER id="3" value="Денежные переводы" />
+<ANSWER id="4" value="Транзакции и блоки" />
+
+</ROOT>

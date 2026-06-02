@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Формат сообщения протокола RADIUS" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Как называется атрибут, содержание которого может корректироваться производителем оборудования?" />
-<ANSWER id="0" value="Нет такого атрибута" />
-<ANSWER id="1" value="Connect-Info" />
-<ANSWER id="2" value="&gt; Vendor-Specific" />
-<ANSWER id="3" value="Reply-Message" />
-<ANSWER id="4" value="Login-IP-Host" />
-
-</ROOT>

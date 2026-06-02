@@ -1,8 +1,9 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Основы VLAN " /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какие утверждения являются типичными характеристиками VLAN? " />
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Основы VLAN
+" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какие утверждения являются типичными характеристиками VLAN? " />
 <ANSWER id="0" value="Новый коммутатор не имеет настроенных сетей VLAN." />
 <ANSWER id="1" value="VLAN уменьшает количество коллизионных доменов." />
 <ANSWER id="2" value="сети VLAN не может содержать несколько коммутаторов." />
-<ANSWER id="3" value="&gt; все утверждения неверны" />
+<ANSWER id="3" value="все утверждения неверны" />
 
 </ROOT>

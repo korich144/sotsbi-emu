@@ -1,11 +1,12 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Форма сообщений MEGACO " /><THEME c1="4950084" c2="14216152" c3="4950084" /><QUESTION value="Какие транспортные протоколы могут использоваться для передачи сообщений протокола MEGACO/H.248?" />
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Форма сообщений MEGACO
+" /><THEME c1="4950084" c2="14216152" c3="4950084" /><QUESTION value="Какие транспортные протоколы могут использоваться для передачи сообщений протокола MEGACO/H.248?" />
 <ANSWER id="0" value="UDP" />
 <ANSWER id="1" value="TCP" />
 <ANSWER id="2" value="SCTP" />
 <ANSWER id="3" value="SSCOP (ATM)" />
 <ANSWER id="4" value="MTP3b (ATM)" />
-<ANSWER id="5" value="&gt; все перечисленные протоколы могут использоваться для передачи MEGACO/H.248" />
+<ANSWER id="5" value="все перечисленные протоколы могут использоваться для передачи MEGACO/H.248" />
 <ANSWER id="6" value="ни один из перечисленных протоколов для передачи MEGACO/H.248 не используется" />
 
 </ROOT>

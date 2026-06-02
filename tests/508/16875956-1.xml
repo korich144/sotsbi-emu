@@ -1,7 +1,7 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <ROOT><TARGET value="ИКТ - Информационно-коммуникационные технологии. Введение" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="На сети передачи данных оказание услуги передачи информации осуществляется с использованием:" />
 <ANSWER id="0" value="cтека протоколов ОКС №7" />
-<ANSWER id="1" value="&gt; cтека протоколов TCP/UDP/IP" />
+<ANSWER id="1" value="cтека протоколов TCP/UDP/IP" />
 <ANSWER id="2" value="протоколов MAP и CAP" />
 
 </ROOT>

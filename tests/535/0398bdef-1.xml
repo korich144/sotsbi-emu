@@ -1,7 +1,7 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <ROOT><TARGET value="Сеть передачи данных. Стек TCP/IP" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какой из представленных ниже IPv6 адресов верен?" />
 <ANSWER id="0" value="8000:0" />
-<ANSWER id="1" value="&gt; A10C:64:9999::2101" />
+<ANSWER id="1" value="A10C:64:9999::2101" />
 <ANSWER id="2" value="Z::192.168.0.14" />
 <ANSWER id="3" value="1:192.168.0.14" />
 <ANSWER id="4" value="1:192:168:0:14" />

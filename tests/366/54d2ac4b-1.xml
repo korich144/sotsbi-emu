@@ -1,7 +1,8 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Основы протокола IP " /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Для чего используется TTL?" />
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Основы протокола IP
+" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Для чего используется TTL?" />
 <ANSWER id="0" value="Для определения времени актуальности данных" />
-<ANSWER id="1" value="&gt; Для борьбы с петлями" />
+<ANSWER id="1" value="Для борьбы с петлями" />
 <ANSWER id="2" value="Для определения временных интервалов передачи" />
 <ANSWER id="3" value="Все варианты ответов верны" />
 

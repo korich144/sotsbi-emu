@@ -1,6 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Сеть MAP, идентификаторы, определения, услуги" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Где вычисляется ключ шифрования Kc из триплета аутентификации?" />
-<ANSWER id="0" value="VLR, HLR, MSC" />
-<ANSWER id="1" value="?&gt; SIM карта, AuC" />
-
-</ROOT>

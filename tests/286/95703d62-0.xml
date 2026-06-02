@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <ROOT><TARGET value="Процедура хэндовера" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какие протоколы CN пользовательского уровня используются для реализации inter-MSC handover?" />
-<ANSWER id="0" value="&gt; MAP, ISUP" />
+<ANSWER id="0" value="MAP, ISUP" />
 <ANSWER id="1" value="MAP, SCCP" />
 <ANSWER id="2" value="MAP, TCAP" />
 

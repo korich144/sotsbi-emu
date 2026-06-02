@@ -1,6 +1,7 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Формат сообщений протокола SIP. Запросы и ответы.                                  " /><THEME c1="12438086" c2="15400860" c3="12438086" /><QUESTION value="Механизм идентификации диалога определяет наличие в заголовках To и From следующего параметра:" />
-<ANSWER id="0" value="&gt; Параметр Tag" />
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Формат сообщений протокола SIP. Запросы и ответы.                                 
+" /><THEME c1="12438086" c2="15400860" c3="12438086" /><QUESTION value="Механизм идентификации диалога определяет наличие в заголовках To и From следующего параметра:" />
+<ANSWER id="0" value="Параметр Tag" />
 <ANSWER id="1" value="Параметр Branch" />
 <ANSWER id="2" value="Параметр Expires  " />
 <ANSWER id="3" value="Параметр Via " />

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Принцип работы" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="При каком алгоритме консенсуса размер вознаграждения зависит от вычислительных мощностей майнера — чем большую вычислительную работу проделывает участник сети, тем большее вознаграждение получает?" />
+<ANSWER id="0" value="Proof of Work" />
+<ANSWER id="1" value="Proof of Stake" />
+<ANSWER id="2" value="Proof of Activity" />
+<ANSWER id="3" value="Proof of Capacity" />
+
+</ROOT>

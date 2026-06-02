@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Проверка основных знаний по курсу IoT глава Введение" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какая из нижеприведенных технологий не является технологией сетей дальнего радиуса действия LPWAN?" />
+<ANSWER id="0" value="ZigBee" />
+<ANSWER id="1" value="LoRaWAN" />
+<ANSWER id="2" value="SIGFOX" />
+<ANSWER id="3" value="Стриж" />
+
+</ROOT>

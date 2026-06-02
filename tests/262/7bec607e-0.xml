@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Уровни модели OSI.
+" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какой тип запроса DNS сообщения используется для получения IP-адреса устройства по известному символьному имени?" />
+<ANSWER id="0" value="Тип запроса А" />
+<ANSWER id="1" value="Тип запроса NS" />
+<ANSWER id="2" value="Тип запроса CNAME" />
+<ANSWER id="3" value="Тип запроса SOA" />
+
+</ROOT>

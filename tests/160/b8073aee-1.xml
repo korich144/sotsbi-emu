@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Сценарии обмена сообщениями в процессе установления и разрушения соединения
+" /><THEME c1="4950084" c2="14216152" c3="4950084" /><QUESTION value="Какие протоколы уровня адаптации входят в стек протоколов SIGTRAN?" />
+<ANSWER id="0" value="SCTP" />
+<ANSWER id="1" value="M2UA, M2PA, M3UA, SUA, IUA, V5UA" />
+<ANSWER id="2" value="MGCP, MEGACO, H.248" />
+<ANSWER id="3" value="SIP, MEGACO, H.248" />
+<ANSWER id="4" value="H.323, MEGACO, H.248" />
+<ANSWER id="5" value="MTP, SCCP, ISUP" />
+
+</ROOT>

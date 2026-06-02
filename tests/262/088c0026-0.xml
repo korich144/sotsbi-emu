@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Уровни модели OSI.
+" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="По какому протоколу взаимодействуют сервера распределенной системы имен доменов?" />
+<ANSWER id="0" value="DNS" />
+<ANSWER id="1" value="FTP" />
+<ANSWER id="2" value="HTTP" />
+<ANSWER id="3" value="HTTPS" />
+<ANSWER id="4" value="TCP" />
+<ANSWER id="5" value="UDP" />
+
+</ROOT>

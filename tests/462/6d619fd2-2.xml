@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Стек протоколов доступа ISDN." /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какое поле кадра уровня LAPD формируется и обрабатывается на третьем уровне?" />
+<ANSWER id="0" value="Адресное поле" />
+<ANSWER id="1" value="Поле управления" />
+<ANSWER id="2" value="Информационное поле" />
+
+</ROOT>

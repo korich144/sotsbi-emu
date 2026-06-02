@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Уровни модели OSI.
+" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какой запрос протокола SIP приглашает вызываемого пользователя принять участие в сеансе связи?" />
+<ANSWER id="0" value="INVITE " />
+<ANSWER id="1" value="SETUP" />
+<ANSWER id="2" value="Hello" />
+<ANSWER id="3" value="CONNECT" />
+<ANSWER id="4" value="REGISTER" />
+
+</ROOT>

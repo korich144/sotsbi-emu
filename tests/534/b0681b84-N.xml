@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Сеть передачи данных. Служебные протоколы. Сервисы" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какие из методов HTTP обязательно должны поддерживаться веб-сервером?" />
-<ANSWER id="0" value="?&gt; GET и HEAD" />
-<ANSWER id="1" value="CONNECT и TRACE" />
-<ANSWER id="2" value="GET и POST" />
-<ANSWER id="3" value="POST, PUT, PATCH и DELETE" />
-<ANSWER id="4" value="OPTIONS и POST" />
-
-</ROOT>

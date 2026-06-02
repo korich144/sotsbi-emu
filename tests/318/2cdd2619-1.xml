@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Формат сообщения протокола RADIUS" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="В каком атрибуте передается имя пользователя (login) или другой его идентификатор?" />
-<ANSWER id="0" value="Login-TCP-Port" />
-<ANSWER id="1" value="&gt; User-Name" />
-<ANSWER id="2" value="Framed-IP-Address" />
-<ANSWER id="3" value="Filter-Id" />
-<ANSWER id="4" value="Login-LAT-Port" />
-
-</ROOT>

@@ -1,7 +1,8 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Формат сообщений подсистемы ISUP " /><THEME c1="5496063" c2="11727871" c3="5496063" /><QUESTION value="В каком поле сигнальной единицы содержится код сообщения ISUP?" />
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Формат сообщений подсистемы ISUP
+" /><THEME c1="5496063" c2="11727871" c3="5496063" /><QUESTION value="В каком поле сигнальной единицы содержится код сообщения ISUP?" />
 <ANSWER id="0" value="Байт служебной информации (SIO)" />
-<ANSWER id="1" value="&gt; Поле сигнальной информации (SIF)" />
+<ANSWER id="1" value="Поле сигнальной информации (SIF)" />
 <ANSWER id="2" value="Поле выбора сигнального звена (SLS)" />
 <ANSWER id="3" value="Код идентификации канала (CIC)" />
 

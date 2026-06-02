@@ -1,8 +1,9 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Основы протокола IP " /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какой диапазон значений первого байта у адресов класса C (ЛВС, LAN)?" />
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Основы протокола IP
+" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какой диапазон значений первого байта у адресов класса C (ЛВС, LAN)?" />
 <ANSWER id="0" value="1 - 126" />
 <ANSWER id="1" value="224 - 239" />
-<ANSWER id="2" value="&gt; 192 - 223" />
+<ANSWER id="2" value="192 - 223" />
 <ANSWER id="3" value="240 - 247" />
 
 </ROOT>

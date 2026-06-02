@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Обмен сообщениями протокола RADIUS при осуществлении контроля прав доступа пользователя " /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Какое сообщение протокола RADIUS посылается RADIUS-сервером для завершения пользовательской сессии на NAS и закрытия всех связанных с ней соединений?" />
-<ANSWER id="0" value="?&gt; Disconnect-Request" />
-<ANSWER id="1" value="Disconnect-NAK" />
-<ANSWER id="2" value="Disconnect-ACK" />
-<ANSWER id="3" value="Access-Reject" />
-<ANSWER id="4" value="BYE" />
-
-</ROOT>

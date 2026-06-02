@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Сеть передачи данных. Служебные протоколы. Сервисы" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какая технология позволяет вызывать для работы и отображать приложение либо находящееся на компьютере пользователя, либо на удаленном устройстве и работающее с его файловой системой?" />
-<ANSWER id="0" value="NFS, Network File System" />
-<ANSWER id="1" value="RDP, Remote Desktop Protocol" />
-<ANSWER id="2" value="RFB, Remote Frame Buffer" />
-<ANSWER id="3" value="&gt; X11, X Window System" />
-
-</ROOT>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Абонентская сигнализация" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="На какой из временной диаграмм правильно показан процесс передачи одного символа кодом DTMF?" />
+<ANSWER id="0" value="Рис. 1" />
+<ANSWER id="1" value="Рис. 2" />
+<ANSWER id="2" value="Рис. 3" />
+<ANSWER id="3" value="Рис. 4" />
+<ANSWER id="4" value="Рис. 5" />
+<SCHEME f_id="406" t_id="2300" />
+
+</ROOT>

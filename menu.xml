@@ -1,7 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?><ROOT>
 <ITEM m_id="1" w_id="0" _x="398.8" _y="71.9" _rotation="0" range="0" label="" fsize="12" mc="item0testRu" color="0">
 	<ITEM m_id="20" w_id="" _x="0" _y="0" _rotation="72" range="73" label="ТФОП" fsize="11" mc="rItem1" color="35466">
+		<ITEM m_id="77" w_id="" _x="0" _y="0" _rotation="-72" range="102" label="NGN" fsize="13" mc="rItem2" color="3383713">
+			<ITEM m_id="78" w_id="" _x="0" _y="0" _rotation="72" range="132" label="RTP" fsize="12" mc="rItem3" color="5747121">
+				<ITEM m_id="79" w_id="38" _x="0" _y="0" _rotation="72" range="165" label="Принципы|IP-телефонии" fsize="8" mc="rItem4" color="5747121" />
+			</ITEM>
+			<ITEM m_id="80" w_id="" _x="0" _y="0" _rotation="36" range="132" label="SIP" fsize="12" mc="rItem3" color="5747121">
+				<ITEM m_id="81" w_id="42" _x="0" _y="0" _rotation="72" range="165" label="Принципы|SIP" fsize="9" mc="rItem4" color="5747121" />
+				<ITEM m_id="82" w_id="44" _x="0" _y="0" _rotation="36" range="165" label="Формат|сообщений" fsize="9" mc="rItem4" color="5747121" />
+			</ITEM>
+			<ITEM m_id="83" w_id="" _x="0" _y="0" _rotation="0" range="132" label="H.248" fsize="12" mc="rItem3" color="5747121">
+				<ITEM m_id="84" w_id="25" _x="0" _y="0" _rotation="72" range="165" label="Формат|сообщений" fsize="9" mc="rItem4" color="5747121" />
+				<ITEM m_id="85" w_id="26" _x="0" _y="0" _rotation="36" range="165" label="Типы|сообщений" fsize="9" mc="rItem4" color="5747121" />
+				<ITEM m_id="86" w_id="27" _x="0" _y="0" _rotation="0" range="165" label="Дескрипторы|сообщений" fsize="9" mc="rItem4" color="5747121" />
+			</ITEM>
+			<ITEM m_id="87" w_id="" _x="0" _y="0" _rotation="-72" range="132" label="Sigtran" fsize="12" mc="rItem3" color="5747121">
+				<ITEM m_id="88" w_id="159" _x="0" _y="0" _rotation="72" range="165" label="Формат|сообщений" fsize="9" mc="rItem4" color="5747121" />
+				<ITEM m_id="89" w_id="160" _x="0" _y="0" _rotation="36" range="165" label="Типы|сообщений" fsize="9" mc="rItem4" color="5747121" />
+			</ITEM>
+			<ITEM m_id="770" w_id="0" _x="0" _y="0" _rotation="36" range="161" label="Протоколы ААА" fsize="10" mc="rItem4" color="5747121">
+				<ITEM m_id="912" w_id="315" _x="0" _y="0" _rotation="72" range="195" label="Архитектура|ААА" fsize="9" mc="rItem5" color="5747121" />
+				<ITEM m_id="913" w_id="316" _x="0" _y="0" _rotation="36" range="195" label="Radius|Обмен пакетами" fsize="9" mc="rItem5" color="5747121" />
+				<ITEM m_id="914" w_id="318" _x="0" _y="0" _rotation="0" range="195" label="Radius|Формат пакета" fsize="9" mc="rItem5" color="5747121" />
+				<ITEM m_id="915" w_id="317" _x="0" _y="0" _rotation="-36" range="195" label="Протокол|Diameter" fsize="9" mc="rItem5" color="5747121" />
+				<ITEM m_id="916" w_id="319" _x="0" _y="0" _rotation="-72" range="195" label="Кредитный|контроль" fsize="9" mc="rItem5" color="5747121" />
+			</ITEM>
+			<ITEM m_id="891" w_id="0" _x="0" _y="0" _rotation="72" range="161" label="H.323" fsize="12" mc="rItem4" color="5747121">
+				<ITEM m_id="896" w_id="295" _x="0" _y="0" _rotation="-36" range="195" label="Стек протоколов|H.323" fsize="9" mc="rItem5" color="5747121" />
+				<ITEM m_id="895" w_id="294" _x="0" _y="0" _rotation="0" range="195" label="Протокол|H.245" fsize="9" mc="rItem5" color="5747121" />
+				<ITEM m_id="894" w_id="293" _x="0" _y="0" _rotation="36" range="195" label="Протокол|H.225" fsize="9" mc="rItem5" color="5747121" />
+				<ITEM m_id="893" w_id="292" _x="0" _y="0" _rotation="72" range="195" label="Протокол|RAS" fsize="9" mc="rItem5" color="5747121" />
+			</ITEM>
+		</ITEM>
 		<ITEM m_id="763" w_id="0" _x="0" _y="0" _rotation="72" range="102" label="Обзор" fsize="13" mc="rItem2" color="3383713">
+			<ITEM m_id="841" w_id="262" _x="0" _y="0" _rotation="36" range="130" label="OSI" fsize="10" mc="rItem3" color="5747121" />
+			<ITEM m_id="1097" w_id="0" _x="0" _y="0" _rotation="-36" range="130" label="Протоколы" fsize="10" mc="rItem3" color="5747121">
+				<ITEM m_id="1133" w_id="0" _x="0" _y="0" _rotation="0" range="161" label="Мобильная сеть" fsize="9" mc="rItem4" color="8044993">
+					<ITEM m_id="1139" w_id="470" _x="0" _y="0" _rotation="72" range="191" label="Стандарт GSM" fsize="8" mc="rItem5" color="10343122" />
+					<ITEM m_id="1141" w_id="472" _x="0" _y="0" _rotation="0" range="193" label="Процедура|обновления данных" fsize="8" mc="rItem5" color="10343122" />
+					<ITEM m_id="1140" w_id="471" _x="0" _y="0" _rotation="36" range="194" label="Протоколы домена CS,|SCCP, TCAP, MAP" fsize="8" mc="rItem5" color="10343122" />
+					<ITEM m_id="1142" w_id="473" _x="0" _y="0" _rotation="-36" range="194" label="Аутентификация,|Обслуживание вызова" fsize="8" mc="rItem5" color="10343122" />
+				</ITEM>
+				<ITEM m_id="1154" w_id="0" _x="0" _y="0" _rotation="-36" range="161" label="Сеть NGN" fsize="9" mc="rItem4" color="8044993">
+					<ITEM m_id="1155" w_id="479" _x="0" _y="0" _rotation="72" range="191" label="IP-телефония" fsize="8" mc="rItem5" color="10343122" />
+					<ITEM m_id="1156" w_id="480" _x="0" _y="0" _rotation="36" range="191" label="Архитектура SoftSwitch" fsize="8" mc="rItem5" color="10343122" />
+					<ITEM m_id="1158" w_id="482" _x="0" _y="0" _rotation="-36" range="191" label="Архитектура IMS" fsize="8" mc="rItem5" color="10343122" />
+					<ITEM m_id="1157" w_id="481" _x="0" _y="0" _rotation="0" range="193" label="Сценарий|взаимодействия" fsize="8" mc="rItem5" color="10343122" />
+				</ITEM>
+				<ITEM m_id="1098" w_id="0" _x="0" _y="0" _rotation="72" range="164" label="Фиксированная|сеть" fsize="9" mc="rItem4" color="8044993">
+					<ITEM m_id="1099" w_id="444" _x="0" _y="0" _rotation="72" range="190" label="Введение" fsize="8" mc="rItem5" color="10342865" />
+					<ITEM m_id="1101" w_id="448" _x="0" _y="0" _rotation="0" range="190" label="ОКС7" fsize="8" mc="rItem5" color="10343121" />
+					<ITEM m_id="1102" w_id="0" _x="0" _y="0" _rotation="-36" range="193" label="Процедуры|MTP, ISUP, INAP" fsize="8" mc="rItem5" color="10343121">
+						<ITEM m_id="1103" w_id="449" _x="0" _y="0" _rotation="72" range="220" label="Процедуры MTP" fsize="8" mc="rItem6" color="12969187" />
+						<ITEM m_id="1104" w_id="450" _x="0" _y="0" _rotation="36" range="220" label="Процедуры ISUP" fsize="8" mc="rItem6" color="12969187" />
+						<ITEM m_id="1105" w_id="451" _x="0" _y="0" _rotation="0" range="220" label="Процедуры INAP" fsize="8" mc="rItem6" color="12969187" />
+					</ITEM>
+					<ITEM m_id="1100" w_id="447" _x="0" _y="0" _rotation="36" range="193" label="Топология.|Оборудование" fsize="8" mc="rItem5" color="10342865" />
+				</ITEM>
+				<ITEM m_id="1106" w_id="0" _x="0" _y="0" _rotation="36" range="164" label="Сеть передачи|данных" fsize="9" mc="rItem4" color="8044993">
+					<ITEM m_id="1108" w_id="0" _x="0" _y="0" _rotation="36" range="190" label="Стек TCP IP" fsize="8" mc="rItem5" color="10342865">
+						<ITEM m_id="1109" w_id="453" _x="0" _y="0" _rotation="72" range="220" label="TCP IP ч1." fsize="8" mc="rItem6" color="12969187" />
+						<ITEM m_id="1110" w_id="454" _x="0" _y="0" _rotation="36" range="220" label="TCP IP ч1." fsize="8" mc="rItem6" color="12969187" />
+						<ITEM m_id="1111" w_id="455" _x="0" _y="0" _rotation="0" range="220" label="TCP IP ч1." fsize="8" mc="rItem6" color="12969187" />
+						<ITEM m_id="1112" w_id="456" _x="0" _y="0" _rotation="-36" range="220" label="TCP IP ч2." fsize="8" mc="rItem6" color="12969187" />
+						<ITEM m_id="1113" w_id="457" _x="0" _y="0" _rotation="-72" range="220" label="TCP IP ч2." fsize="8" mc="rItem6" color="12969187" />
+					</ITEM>
+					<ITEM m_id="1107" w_id="452" _x="0" _y="0" _rotation="72" range="190" label="Введение" fsize="8" mc="rItem5" color="10342865" />
+				</ITEM>
+			</ITEM>
 			<ITEM m_id="1248" w_id="0" _x="0" _y="0" _rotation="0" range="130" label="ИКТ" fsize="10" mc="rItem3" color="5747121">
 				<ITEM m_id="1188" w_id="0" _x="0" _y="0" _rotation="-36" range="161" label="Мобильная сеть" fsize="9" mc="rItem4" color="8044993">
 					<ITEM m_id="1215" w_id="516" _x="0" _y="0" _rotation="72" range="191" label="Стандарт GSM" fsize="8" mc="rItem5" color="10343122" />
@@ -36,43 +102,40 @@
 					<ITEM m_id="1255" w_id="549" _x="0" _y="0" _rotation="-36" range="220" label="BigData" fsize="9" mc="rItem6" color="8044993" />
 				</ITEM>
 			</ITEM>
-			<ITEM m_id="841" w_id="262" _x="0" _y="0" _rotation="72" range="133" label="OSI" fsize="13" mc="rItem3" color="5747121" />
-		</ITEM>
-		<ITEM m_id="77" w_id="" _x="0" _y="0" _rotation="-72" range="102" label="NGN" fsize="13" mc="rItem2" color="3383713">
-			<ITEM m_id="78" w_id="" _x="0" _y="0" _rotation="72" range="132" label="RTP" fsize="12" mc="rItem3" color="5747121">
-				<ITEM m_id="79" w_id="38" _x="0" _y="0" _rotation="72" range="165" label="Принципы|IP-телефонии" fsize="8" mc="rItem4" color="5747121" />
-			</ITEM>
-			<ITEM m_id="80" w_id="" _x="0" _y="0" _rotation="36" range="132" label="SIP" fsize="12" mc="rItem3" color="5747121">
-				<ITEM m_id="81" w_id="42" _x="0" _y="0" _rotation="72" range="165" label="Принципы|SIP" fsize="9" mc="rItem4" color="5747121" />
-				<ITEM m_id="82" w_id="44" _x="0" _y="0" _rotation="36" range="165" label="Формат|сообщений" fsize="9" mc="rItem4" color="5747121" />
-			</ITEM>
-			<ITEM m_id="83" w_id="" _x="0" _y="0" _rotation="0" range="132" label="H.248" fsize="12" mc="rItem3" color="5747121">
-				<ITEM m_id="84" w_id="25" _x="0" _y="0" _rotation="72" range="165" label="Формат|сообщений" fsize="9" mc="rItem4" color="5747121" />
-				<ITEM m_id="85" w_id="26" _x="0" _y="0" _rotation="36" range="165" label="Типы|сообщений" fsize="9" mc="rItem4" color="5747121" />
-				<ITEM m_id="86" w_id="27" _x="0" _y="0" _rotation="0" range="165" label="Дескрипторы|сообщений" fsize="9" mc="rItem4" color="5747121" />
-			</ITEM>
-			<ITEM m_id="770" w_id="0" _x="0" _y="0" _rotation="36" range="161" label="Протоколы ААА" fsize="10" mc="rItem4" color="5747121">
-				<ITEM m_id="912" w_id="315" _x="0" _y="0" _rotation="72" range="163" label="Архитектура|ААА" fsize="9" mc="rItem4" color="5747121" />
-				<ITEM m_id="913" w_id="316" _x="0" _y="0" _rotation="36" range="163" label="Radius|Обмен пакетами" fsize="9" mc="rItem4" color="5747121" />
-				<ITEM m_id="914" w_id="318" _x="0" _y="0" _rotation="0" range="163" label="Radius|Формат пакета" fsize="9" mc="rItem4" color="5747121" />
-				<ITEM m_id="915" w_id="317" _x="0" _y="0" _rotation="-36" range="163" label="Протокол|Diameter" fsize="9" mc="rItem4" color="5747121" />
-				<ITEM m_id="916" w_id="319" _x="0" _y="0" _rotation="-72" range="163" label="Кредитный|контроль" fsize="9" mc="rItem4" color="5747121" />
-			</ITEM>
-			<ITEM m_id="891" w_id="0" _x="0" _y="0" _rotation="72" range="161" label="H.323" fsize="12" mc="rItem4" color="5747121">
-				<ITEM m_id="893" w_id="292" _x="0" _y="0" _rotation="72" range="163" label="Протокол|RAS" fsize="9" mc="rItem4" color="5747121" />
-				<ITEM m_id="894" w_id="293" _x="0" _y="0" _rotation="36" range="163" label="Протокол|H.225" fsize="9" mc="rItem4" color="5747121" />
-				<ITEM m_id="895" w_id="294" _x="0" _y="0" _rotation="0" range="163" label="Протокол|H.245" fsize="9" mc="rItem4" color="5747121" />
-				<ITEM m_id="896" w_id="295" _x="0" _y="0" _rotation="-36" range="163" label="Стек протоколов|H.323" fsize="9" mc="rItem4" color="5747121" />
-			</ITEM>
+			<ITEM m_id="766" w_id="232" _x="0" _y="0" _rotation="72" range="135" label="Сети|связи" fsize="10" mc="rItem3" color="5747121" />
 		</ITEM>
 		<ITEM m_id="52" w_id="" _x="0" _y="0" _rotation="36" range="103" label="POTS" fsize="13" mc="rItem2" color="3383713">
-			<ITEM m_id="54" w_id="36" _x="0" _y="0" _rotation="72" range="132" label="2ВСК и АОН" fsize="10" mc="rItem3" color="5747121" />
+			<ITEM m_id="54" w_id="36" _x="0" _y="0" _rotation="72" range="132" label="2ВСК и АОН" fsize="8" mc="rItem3" color="5747121" />
+			<ITEM m_id="700" w_id="" _x="0" _y="0" _rotation="0" range="132" label="Основы" fsize="13" mc="rItem3" color="5747121">
+				<ITEM m_id="703" w_id="" _x="0" _y="0" _rotation="72" range="165" label="Абонентская|сигнализация" fsize="7" mc="rItem4" color="5747121">
+					<ITEM m_id="704" w_id="189" _x="0" _y="0" _rotation="72" range="195" label="1" fsize="7" mc="rItem5" color="8044993" />
+					<ITEM m_id="705" w_id="195" _x="0" _y="0" _rotation="36" range="195" label="2" fsize="7" mc="rItem5" color="8044993" />
+					<ITEM m_id="706" w_id="196" _x="0" _y="0" _rotation="0" range="195" label="3" fsize="7" mc="rItem5" color="8044993" />
+				</ITEM>
+				<ITEM m_id="707" w_id="" _x="0" _y="0" _rotation="36" range="165" label="Линейная|сигнализация" fsize="7" mc="rItem4" color="5747121">
+					<ITEM m_id="708" w_id="197" _x="0" _y="0" _rotation="72" range="195" label="1" fsize="7" mc="rItem5" color="8044993" />
+					<ITEM m_id="709" w_id="198" _x="0" _y="0" _rotation="36" range="195" label="2" fsize="7" mc="rItem5" color="8044993" />
+					<ITEM m_id="710" w_id="199" _x="0" _y="0" _rotation="0" range="195" label="3" fsize="7" mc="rItem5" color="8044993" />
+				</ITEM>
+				<ITEM m_id="711" w_id="" _x="0" _y="0" _rotation="0" range="165" label="Линейные|коды" fsize="7" mc="rItem4" color="5747121">
+					<ITEM m_id="712" w_id="200" _x="0" _y="0" _rotation="72" range="195" label="1" fsize="7" mc="rItem5" color="8044993" />
+					<ITEM m_id="713" w_id="201" _x="0" _y="0" _rotation="36" range="195" label="2" fsize="7" mc="rItem5" color="8044993" />
+					<ITEM m_id="714" w_id="202" _x="0" _y="0" _rotation="0" range="195" label="3" fsize="7" mc="rItem5" color="8044993" />
+					<ITEM m_id="715" w_id="190" _x="0" _y="0" _rotation="-36" range="195" label="4" fsize="7" mc="rItem5" color="8044993" />
+					<ITEM m_id="716" w_id="191" _x="0" _y="0" _rotation="-72" range="195" label="5" fsize="7" mc="rItem5" color="8044993" />
+				</ITEM>
+				<ITEM m_id="717" w_id="" _x="0" _y="0" _rotation="-36" range="165" label="Построение сетей|и нумерация" fsize="7" mc="rItem4" color="5747121">
+					<ITEM m_id="718" w_id="192" _x="0" _y="0" _rotation="72" range="195" label="1" fsize="7" mc="rItem5" color="8044993" />
+					<ITEM m_id="719" w_id="193" _x="0" _y="0" _rotation="36" range="195" label="2" fsize="7" mc="rItem5" color="8044993" />
+					<ITEM m_id="720" w_id="194" _x="0" _y="0" _rotation="0" range="195" label="3" fsize="7" mc="rItem5" color="8044993" />
+				</ITEM>
+			</ITEM>
 			<ITEM m_id="55" w_id="37" _x="0" _y="0" _rotation="36" range="136" label="Импульсный|челнок" fsize="8" mc="rItem3" color="5747121" />
 		</ITEM>
 		<ITEM m_id="56" w_id="" _x="0" _y="0" _rotation="0" range="103" label="PSTN" fsize="13" mc="rItem2" color="3383713">
 			<ITEM m_id="769" w_id="238" _x="0" _y="0" _rotation="72" range="134" label="Система|SS7" fsize="9" mc="rItem3" color="5747121" />
 			<ITEM m_id="57" w_id="" _x="0" _y="0" _rotation="36" range="136" label="SS7|MTP2" fsize="11" mc="rItem3" color="5747121">
-				<ITEM m_id="58" w_id="30" _x="0" _y="0" _rotation="72" range="165" label="Коррекция|ошибок" fsize="9" mc="rItem4" color="5747121" />
+				<ITEM m_id="58" w_id="30" _x="0" _y="0" _rotation="72" range="165" label="Коррекция|ошибок" fsize="7" mc="rItem4" color="5747121" />
 				<ITEM m_id="59" w_id="31" _x="0" _y="0" _rotation="36" range="165" label="Устан. и разруш.|сигнального звена" fsize="7" mc="rItem4" color="5747121" />
 				<ITEM m_id="60" w_id="32" _x="0" _y="0" _rotation="0" range="165" label="Управл. нагруз.|сигнального звена" fsize="7" mc="rItem4" color="5747121" />
 			</ITEM>
@@ -89,6 +152,11 @@
 			<ITEM m_id="69" w_id="" _x="0" _y="0" _rotation="-72" range="136" label="SS7|ISUP" fsize="11" mc="rItem3" color="5747121">
 				<ITEM m_id="70" w_id="28" _x="0" _y="0" _rotation="72" range="165" label="Обмен|сообщениями" fsize="9" mc="rItem4" color="5747121" />
 				<ITEM m_id="71" w_id="29" _x="0" _y="0" _rotation="36" range="165" label="Формат|сообщений" fsize="9" mc="rItem4" color="5747121" />
+			</ITEM>
+			<ITEM m_id="1121" w_id="0" _x="0" _y="0" _rotation="72" range="165" label="ISDN|доступ" fsize="10" mc="rItem4" color="8044993">
+				<ITEM m_id="1122" w_id="461" _x="0" _y="0" _rotation="72" range="192" label="Введение" fsize="9" mc="rItem5" color="10343122" />
+				<ITEM m_id="1123" w_id="462" _x="0" _y="0" _rotation="36" range="192" label="Стек протоколов" fsize="9" mc="rItem5" color="10343122" />
+				<ITEM m_id="1124" w_id="463" _x="0" _y="0" _rotation="0" range="194" label="Базовый вызов|Услуги ISDN" fsize="9" mc="rItem5" color="10343122" />
 			</ITEM>
 		</ITEM>
 		<ITEM m_id="871" w_id="0" _x="0" _y="0" _rotation="-36" range="103" label="PLMN" fsize="13" mc="rItem2" color="3383713">
@@ -120,11 +188,11 @@
 			<ITEM m_id="969" w_id="398" _x="0" _y="0" _rotation="-72" range="132" label="ICMP" fsize="9" mc="rItem3" color="13805296" />
 		</ITEM>
 		<ITEM m_id="978" w_id="0" _x="0" _y="0" _rotation="-36" range="103" label="Маршрутизация" fsize="6" mc="rItem2" color="13078764">
+			<ITEM m_id="981" w_id="367" _x="0" _y="0" _rotation="72" range="132" label="RIP" fsize="9" mc="rItem3" color="13805296" />
 			<ITEM m_id="982" w_id="0" _x="0" _y="0" _rotation="36" range="132" label="OSPF" fsize="9" mc="rItem3" color="13805296">
 				<ITEM m_id="984" w_id="369" _x="0" _y="0" _rotation="36" range="162" label="Формат сообщения" fsize="8" mc="rItem4" color="13805296" />
 				<ITEM m_id="983" w_id="368" _x="0" _y="0" _rotation="72" range="164" label="Определения|и метрики" fsize="8" mc="rItem4" color="13805296" />
 			</ITEM>
-			<ITEM m_id="981" w_id="367" _x="0" _y="0" _rotation="72" range="132" label="RIP" fsize="9" mc="rItem3" color="13805296" />
 			<ITEM m_id="985" w_id="370" _x="0" _y="0" _rotation="0" range="132" label="BGP" fsize="9" mc="rItem3" color="13805296" />
 		</ITEM>
 		<ITEM m_id="992" w_id="0" _x="0" _y="0" _rotation="-72" range="103" label="Прикладные|протоколы" fsize="7" mc="rItem2" color="13078764">
@@ -133,7 +201,24 @@
 			<ITEM m_id="996" w_id="400" _x="0" _y="0" _rotation="-72" range="132" label="HTTP" fsize="9" mc="rItem3" color="13805296" />
 			<ITEM m_id="997" w_id="406" _x="0" _y="0" _rotation="-36" range="132" label="FTP" fsize="9" mc="rItem3" color="13805296" />
 		</ITEM>
+		<ITEM m_id="1273" w_id="0" _x="0" _y="0" _rotation="-36" range="130" label="Blockchain" fsize="8" mc="rItem3" color="13805296">
+			<ITEM m_id="1310" w_id="586" _x="0" _y="0" _rotation="36" range="160" label="Принцип работы" fsize="8" mc="rItem4" color="14597876" />
+			<ITEM m_id="1311" w_id="584" _x="0" _y="0" _rotation="0" range="160" label="Формат блока" fsize="8" mc="rItem4" color="14597876" />
+			<ITEM m_id="1312" w_id="502" _x="0" _y="0" _rotation="72" range="164" label="Введение,|Архитектура сети" fsize="8" mc="rItem4" color="14597876" />
+		</ITEM>
+		<ITEM m_id="1275" w_id="0" _x="0" _y="0" _rotation="-72" range="130" label="Big Data" fsize="8" mc="rItem3" color="13805296">
+			<ITEM m_id="1286" w_id="501" _x="0" _y="0" _rotation="72" range="160" label="Большие данные" fsize="8" mc="rItem4" color="13805296" />
+			<ITEM m_id="1287" w_id="572" _x="0" _y="0" _rotation="36" range="160" label="Аналитика данных" fsize="8" mc="rItem4" color="13805296" />
+			<ITEM m_id="1289" w_id="574" _x="0" _y="0" _rotation="0" range="160" label="Обзор технологий" fsize="7" mc="rItem4" color="13805296" />
+		</ITEM>
 		<ITEM m_id="949" w_id="352" _x="0" _y="0" _rotation="0" range="133" label="CLI" fsize="13" mc="rItem3" color="13805296" />
+		<ITEM m_id="1166" w_id="0" _x="0" _y="0" _rotation="36" range="135" label="Интернет|вещей (IoT)" fsize="8" mc="rItem3" color="13805296">
+			<ITEM m_id="1170" w_id="490" _x="0" _y="0" _rotation="36" range="160" label="MQTT" fsize="9" mc="rItem4" color="14597876" />
+			<ITEM m_id="1171" w_id="496" _x="0" _y="0" _rotation="0" range="160" label="CoAP" fsize="9" mc="rItem4" color="14597876" />
+			<ITEM m_id="1297" w_id="580" _x="0" _y="0" _rotation="72" range="160" label="Введение в IoT" fsize="9" mc="rItem4" color="14597876" />
+			<ITEM m_id="1298" w_id="581" _x="0" _y="0" _rotation="-36" range="160" label="Безопасность IoT" fsize="9" mc="rItem4" color="14597876" />
+		</ITEM>
+		<ITEM m_id="1178" w_id="497" _x="0" _y="0" _rotation="72" range="135" label="SDN|NFV" fsize="8" mc="rItem3" color="13805296" />
 	</ITEM>
 	<ITEM m_id="22" w_id="" _x="0" _y="0" _rotation="0" range="73" label="ИБ" fsize="11" mc="rItem1" color="2713848">
 		<ITEM m_id="659" w_id="175" sublink="section_1" _x="0" _y="0" _rotation="72" range="100" label="Законы" fsize="6" mc="rItem2" color="7379706" />
@@ -142,6 +227,17 @@
 		<ITEM m_id="663" w_id="178" sublink="section_5" _x="0" _y="0" _rotation="-72" range="105" label="Сканеры|безопасности" fsize="6" mc="rItem2" color="7379706" />
 		<ITEM m_id="662" w_id="177" sublink="section_4" _x="0" _y="0" _rotation="-36" range="108" label="Сетевая|безопасность|Сетевые атаки" fsize="6" mc="rItem2" color="7379706" />
 		<ITEM m_id="664" w_id="186" sublink="section_6" _x="0" _y="0" _rotation="72" range="136" label="Борьба c|киберпреступностью|фрод" fsize="6" mc="rItem3" color="7379706" />
+	</ITEM>
+	<ITEM m_id="1145" w_id="0" _x="0" _y="0" _rotation="-72" range="73" label="СОРМ" fsize="11" mc="rItem1" color="16745031">
+		<ITEM m_id="1146" w_id="476" _x="0" _y="0" _rotation="72" range="103" label="DPI" fsize="11" mc="rItem2" color="16755845" />
+	</ITEM>
+	<ITEM m_id="746" w_id="" _x="0" _y="0" _rotation="-36" range="75" label="Речевая|аналитика" fsize="7" mc="rItem1" color="14296349">
+		<ITEM m_id="747" w_id="219" _x="0" _y="0" _rotation="72" range="102" label="Введение" fsize="6" mc="rItem2" color="15101288" />
+		<ITEM m_id="749" w_id="221" _x="0" _y="0" _rotation="0" range="104" label="Акустическое|моделирование" fsize="6" mc="rItem2" color="15101288" />
+		<ITEM m_id="750" w_id="222" _x="0" _y="0" _rotation="-36" range="104" label="Лингвистический|процессор" fsize="6" mc="rItem2" color="15101288" />
+		<ITEM m_id="751" w_id="223" _x="0" _y="0" _rotation="-72" range="104" label="Языковое|моделирование" fsize="6" mc="rItem2" color="15101288" />
+		<ITEM m_id="748" w_id="220" _x="0" _y="0" _rotation="36" range="107" label="Цифровая|обработка|сигнала" fsize="6" mc="rItem2" color="15101288" />
+		<ITEM m_id="752" w_id="224" _x="0" _y="0" _rotation="72" range="133" label="Распознавание|речи" fsize="6" mc="rItem3" color="15101288" />
 	</ITEM>
 </ITEM>
 <ITEM m_id="3" w_id="0" _x="398.8" _y="71.9" _rotation="0" range="0" label="" fsize="12" mc="item0theoryRu" color="0">

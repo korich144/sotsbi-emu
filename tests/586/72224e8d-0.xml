@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Принцип работы" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Что такое пул транзакций (mempool или memory pool)?" />
+<ANSWER id="0" value="Пул транзакций - это база неподтвержденных транзакций в сети Blockchain" />
+<ANSWER id="1" value="Пул транзакций - это база подтвержденных транзакций в сети Blockchain" />
+<ANSWER id="2" value="Пул транзакций - это база потерянных транзакций в сети Blockchain" />
+
+</ROOT>

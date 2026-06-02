@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Мобильная сеть. Стандарт GSM 900/1800 МГц" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Для идентификации мобильного терминала MS в сети GSM используется:" />
-<ANSWER id="0" value="IMSI" />
-<ANSWER id="1" value="TMSI" />
-<ANSWER id="2" value="?&gt; IMEI " />
-
-</ROOT>

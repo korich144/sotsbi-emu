@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="SDN/NFV" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какой протокол обеспечивает управление устройствами (портами и маршрутизаторами, коммутаторами, компьютерами) в IP-сетях с использованием  базы информации MIB?" />
+<ANSWER id="0" value="SNMP (Simple Network Management Protocol)" />
+<ANSWER id="1" value="SCSI (Small Computer System Interface)" />
+
+</ROOT>

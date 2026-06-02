@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Введение. Архитектура сети" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Какой тип Blockchain походит для банков и централизованных организаций?" />
+<ANSWER id="0" value="Public Blockchain" />
+<ANSWER id="1" value="Consortium Blockchain" />
+<ANSWER id="2" value="Private Blockchain" />
+
+</ROOT>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Уровни модели OSI.
+" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Наиболее широкое применение какого протокола используется для реализации серверов точного времени?" />
+<ANSWER id="0" value="DNS" />
+<ANSWER id="1" value="FTP" />
+<ANSWER id="2" value="NTP" />
+<ANSWER id="3" value="ICMP" />
+<ANSWER id="4" value="NFS" />
+<ANSWER id="5" value="XMPP" />
+
+</ROOT>

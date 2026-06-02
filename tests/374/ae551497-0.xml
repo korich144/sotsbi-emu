@@ -1,6 +1,7 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Основы протокола UDP " /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="В отличие от TCP, основанные на UDP приложения не обязательно имеют хорошие механизмы контроля и избежания перегрузок. Чувствительные к перегрузкам UDP-приложения, которые потребляют значительную часть доступной пропускной способности, могут поставить под угрозу стабильность в Интернете. Какой протокол позволяет избежать этих нагрузок?" />
-<ANSWER id="0" value="&gt; DCCP (Datagram Congestion Control Protocol)" />
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Основы протокола UDP
+" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="В отличие от TCP, основанные на UDP приложения не обязательно имеют хорошие механизмы контроля и избежания перегрузок. Чувствительные к перегрузкам UDP-приложения, которые потребляют значительную часть доступной пропускной способности, могут поставить под угрозу стабильность в Интернете. Какой протокол позволяет избежать этих нагрузок?" />
+<ANSWER id="0" value="DCCP (Datagram Congestion Control Protocol)" />
 <ANSWER id="1" value="CAN (Controller Area Network)" />
 <ANSWER id="2" value="RIP (Routing Information Protocol)" />
 <ANSWER id="3" value="TCP (Transmission Control Protocol)" />

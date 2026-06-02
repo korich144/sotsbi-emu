@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Обмен сообщениями протокола RADIUS при осуществлении контроля прав доступа пользователя
+" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="В каком сообщении передается разделяемый ключ (shared secret)?" />
+<ANSWER id="0" value="Access-Request" />
+<ANSWER id="1" value="Access-Reject" />
+<ANSWER id="2" value="Access-Accept" />
+<ANSWER id="3" value="Access-Challenge" />
+<ANSWER id="4" value="Все перечисленные варианты ответов верны" />
+<ANSWER id="5" value="Все перечисленные варианты ответов не верны" />
+
+</ROOT>

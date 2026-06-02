@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Основы VLAN
+" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Что необходимо для передачи пакетов в режиме Q-in-Q?" />
+<ANSWER id="0" value="Увеличить размер MTU на 4 байта " />
+<ANSWER id="1" value="Уменьшить размер MTU на 4 байта " />
+<ANSWER id="2" value="Увеличить размер MTU на 2 байт " />
+<ANSWER id="3" value="Уменьшить размер MTU на 6 байт" />
+
+</ROOT>

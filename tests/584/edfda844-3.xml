@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Формат блока" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Транзакции - это...:" />
+<ANSWER id="0" value="пересылка данных c одного адреса на другой" />
+<ANSWER id="1" value="особая структура записи информации в Blockchain" />
+<ANSWER id="2" value="тип сообщения Blockchain" />
+<ANSWER id="3" value="все варианты ответов верны" />
+
+</ROOT>

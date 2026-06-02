@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Формат сообщения протокола RADIUS" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Для каких пакетов RADIUS используется значение поле Code=1?" />
+<ANSWER id="0" value="Access-Request" />
+<ANSWER id="1" value="Access-Accept" />
+<ANSWER id="2" value="Access Challenge" />
+<ANSWER id="3" value="Disconnect-Request" />
+<ANSWER id="4" value="Нет сообщений с таким значением поля Code" />
+
+</ROOT>

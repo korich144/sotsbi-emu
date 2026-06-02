@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Закрепить знания по технологии Ethernet" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="На каких уровнях модели OSI работает технология Ethernet?" />
-<ANSWER id="0" value="сетевой" />
-<ANSWER id="1" value="канальный и сетевой" />
-<ANSWER id="2" value="?&gt; физический и канальный" />
-<ANSWER id="3" value="физический, канальный и сетевой" />
-
-</ROOT>

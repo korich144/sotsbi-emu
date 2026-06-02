@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Сеть передачи данных. Стек TCP/IP ч.2. Протокол TCP" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Как называют блок данных протокола TCP?" />
+<ANSWER id="0" value="кадр" />
+<ANSWER id="1" value="пакет" />
+<ANSWER id="2" value="датаграмма" />
+<ANSWER id="3" value="сегмент" />
+
+</ROOT>

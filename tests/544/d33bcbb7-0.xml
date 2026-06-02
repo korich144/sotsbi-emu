@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <ROOT><TARGET value="Сеть NGN. Архитектура IMS." /><THEME c1="211482" c2="814654" c3="3383713" /><QUESTION value="В рамках какой процедуры за UE закрепляется обслуживающая S-CSCF?" />
-<ANSWER id="0" value="&gt; В рамках процедуры Регистрации/аутентификации в IMS" />
+<ANSWER id="0" value="В рамках процедуры Регистрации/аутентификации в IMS" />
 <ANSWER id="1" value="В рамках процедуры GPRS/Attach" />
 
 </ROOT>

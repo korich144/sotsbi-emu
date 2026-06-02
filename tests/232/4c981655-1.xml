@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Введение в специальность
+" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Межстанционная сигнализация ТфОП. Какие подсистемы ОКС7 используются на ССОП России? " />
+<ANSWER id="0" value="IP, TCP, UDP, RTP" />
+<ANSWER id="1" value="MTP2, MTP3, SCCP, ISUP, TCAP, INAP и MAP" />
+<ANSWER id="2" value="TUP, DUP" />
+<ANSWER id="3" value="все варианты ответов верны" />
+<ANSWER id="4" value="все варианты ответов НЕ верны" />
+
+</ROOT>

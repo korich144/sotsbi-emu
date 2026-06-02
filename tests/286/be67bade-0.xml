@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <ROOT><TARGET value="Процедура хэндовера" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какие ресурсы используются для реализации inter-MSC handover?" />
-<ANSWER id="0" value="&gt; ресурсы радио сети, ресурсы CN PLMN,  иногда ресурсы PSTN." />
+<ANSWER id="0" value="ресурсы радио сети, ресурсы CN PLMN,  иногда ресурсы PSTN." />
 <ANSWER id="1" value="только ресурсы радио сети" />
 <ANSWER id="2" value="только ресурсы CN PLMN " />
 

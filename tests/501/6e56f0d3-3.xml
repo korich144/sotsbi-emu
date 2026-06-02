@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Проверка знаний по основным понятиям Big Data" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Основными единицами измерений объемов Big data являются:" />
+<ANSWER id="0" value="Кбайт, Мбайт, Гбайт" />
+<ANSWER id="1" value="Кбайт, Мбайт, Тбайт" />
+<ANSWER id="2" value="Кбайт, Мбайт, Гбайт, Тбайт" />
+<ANSWER id="3" value="Тбайт, Пбайт, Эбайт, Збайт" />
+
+</ROOT>

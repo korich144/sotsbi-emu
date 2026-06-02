@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Стек протоколов доступа ISDN." /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Программы какого уровня выполняют процедуры назначения идентификаторов  терминальному оборудованию?" />
+<ANSWER id="0" value="1" />
+<ANSWER id="1" value="2" />
+<ANSWER id="2" value="3" />
+
+</ROOT>

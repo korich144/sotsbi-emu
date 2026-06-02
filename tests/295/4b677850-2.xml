@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Протокол H.323
+" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Основными протоколами стека H.323 являются:" />
+<ANSWER id="0" value="Протоколы H.225, H.245" />
+<ANSWER id="1" value="Протоколы RAS, H.225, H.245" />
+<ANSWER id="2" value="Протоколы RAS, H.225, H.245, RTP/RTCP" />
+<ANSWER id="3" value="Протоколы H.225, RTP/RTCP" />
+
+</ROOT>

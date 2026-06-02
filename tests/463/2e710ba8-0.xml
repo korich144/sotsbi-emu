@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Установление соединения между пользователями ISDN в режиме коммутации каналов (базовый вызов). Услуги сети ISDN." /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="В каком сообщении Q.931 передаются цифры номера  вызываемого абонента от TE к сети при использовании способа передачи номера с перекрытием (overlap)." />
+<ANSWER id="0" value="INF (INFORMATION)" />
+<ANSWER id="1" value="CALL_PROCEEDING" />
+<ANSWER id="2" value="SAM (Subsequent Address Message)" />
+
+</ROOT>

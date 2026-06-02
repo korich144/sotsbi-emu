@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Протокол H.323
+" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="В обязательно порядке терминалы H.323 должны поддерживать следующие протоколы:" />
+<ANSWER id="0" value="RAS, H.225 и H.245" />
+<ANSWER id="1" value="H.225, H.245 и RTP" />
+<ANSWER id="2" value="H.225, H.245, RTP, RTCP" />
+<ANSWER id="3" value="RAS, H.225, H.245, RTP, RTCP" />
+<ANSWER id="4" value="H.323, SIP, RTP, RTCP" />
+<ANSWER id="5" value="H.323, RTP, RTCP" />
+
+</ROOT>

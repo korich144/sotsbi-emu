@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Стек протоколов доступа ISDN." /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какой стандарт реализуется на физическом уровне при базовом доступе  ISDN?" />
+<ANSWER id="0" value=" I.430" />
+<ANSWER id="1" value="Q.931" />
+<ANSWER id="2" value="LAPB" />
+
+</ROOT>

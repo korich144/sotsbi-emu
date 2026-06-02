@@ -1,10 +1,11 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Типы сообщений MEGACO " /><THEME c1="4950084" c2="14216152" c3="4950084" /><QUESTION value="Для чего в протоколе MEGACO/H.248 используется команда AuditCapabilities(Проверить возможности)?" />
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Типы сообщений MEGACO
+" /><THEME c1="4950084" c2="14216152" c3="4950084" /><QUESTION value="Для чего в протоколе MEGACO/H.248 используется команда AuditCapabilities(Проверить возможности)?" />
 <ANSWER id="0" value="Чтобы запросить возможные значения свойств порта" />
 <ANSWER id="1" value="Чтобы узнать список событий, которые могут быть выявлены портом" />
 <ANSWER id="2" value="Чтобы получить список сигналов, которые порт может посылать в канал" />
 <ANSWER id="3" value="Для определения статических данных порта" />
-<ANSWER id="4" value="&gt; Все ответы верны" />
+<ANSWER id="4" value="Все ответы верны" />
 <ANSWER id="5" value="Все ответы неверны" />
 
 </ROOT>

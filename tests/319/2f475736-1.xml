@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Кредитный контроль" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Основные сообщения кредитного контроля:" />
-<ANSWER id="0" value="Credit-Control-Request (CCR), Credit-Control-Answer (CCA), Accounting-Request (ACR), Accounting-Answer (ACA)" />
-<ANSWER id="1" value="&gt; Credit-Control-Request (CCR), Credit-Control-Answer (CCA)" />
-<ANSWER id="2" value="Credit-Control-Request (CCR), Credit-Control-Answer (CCA), Session-Termination-Request (STR), Session-Termination-Answer (STA)" />
-
-</ROOT>

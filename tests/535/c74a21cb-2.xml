@@ -1,8 +1,8 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <ROOT><TARGET value="Сеть передачи данных. Стек TCP/IP" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="В какой системе счисления принято записывать MAC-адрес?" />
 <ANSWER id="0" value="в двоичном" />
 <ANSWER id="1" value="в десятичном" />
-<ANSWER id="2" value="&gt; в шестнадцатеричном" />
+<ANSWER id="2" value="в шестнадцатеричном" />
 <ANSWER id="3" value="в восьмеричном" />
 
 </ROOT>

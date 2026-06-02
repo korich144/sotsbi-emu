@@ -1,7 +1,8 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Основы VLAN " /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="В каком VLAN передаётся трафик для подключения по SSH и Telnet. " />
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Основы VLAN
+" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="В каком VLAN передаётся трафик для подключения по SSH и Telnet. " />
 <ANSWER id="0" value="VLAN c самым большим ID" />
-<ANSWER id="1" value="&gt; В native (default) VLAN" />
+<ANSWER id="1" value="В native (default) VLAN" />
 <ANSWER id="2" value="VВ 1005 VLAN" />
 <ANSWER id="3" value="VLAN c самым маленьким ID" />
 

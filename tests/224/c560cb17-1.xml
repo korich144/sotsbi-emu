@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Распознавание речи
+" /><THEME c1="15767447" c2="16442082" c3="15767447" /><QUESTION value="Укажите, что НЕ является вариантом верификатора:" />
+<ANSWER id="0" value="нейронная сеть" />
+<ANSWER id="1" value="алгоритм Витерби" />
+<ANSWER id="2" value="филлеры" />
+
+</ROOT>

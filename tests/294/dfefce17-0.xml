@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Протокол H.245 " /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Какими сообщениями обменивается оконечное оборудование для определения ведущего и ведомого оборудования?" />
-<ANSWER id="0" value="&gt; MSD, MasterSlaveDetermination" />
-<ANSWER id="1" value="TT, TerminalType" />
-<ANSWER id="2" value="SDN, StatusDeterminationNumber" />
-<ANSWER id="3" value="TCS, TerminalCapabilitySet" />
-<ANSWER id="4" value="RM, RequestMode" />
-
-</ROOT>

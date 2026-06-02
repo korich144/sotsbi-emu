@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Формат сообщения протокола RADIUS" /><THEME c1="0" c2="0" c3="0" /><QUESTION value="Укажите тип сервера, который должен маршрутизировать сообщения RADIUS на сервер следующего перехода без изменения пар атрибут-значение, не относящихся к маршрутизации. Варианты ответов:" />
-<ANSWER id="0" value="RELAY" />
-<ANSWER id="1" value="&gt; PROXY" />
-<ANSWER id="2" value="REJECT" />
-<ANSWER id="3" value="REDIRECT" />
-<ANSWER id="4" value="LOCAL" />
-
-</ROOT>

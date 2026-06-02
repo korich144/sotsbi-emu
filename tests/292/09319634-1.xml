@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Протокол RAS
+" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какое сообщение протокола RAS инициирует процедуру освобождения сетевых ресурсов?" />
+<ANSWER id="0" value="GRQ (Gatekeeper Request)" />
+<ANSWER id="1" value="DRQ (Disengage Request)" />
+<ANSWER id="2" value="ARQ (Admission Request)" />
+<ANSWER id="3" value="URQ (Unregistration Request)" />
+<ANSWER id="4" value="LRQ (Location Request)" />
+
+</ROOT>

@@ -1,8 +1,9 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Протокол ARP " /><THEME c1="14135026" c2="16121850" c3="14135026" /><QUESTION value="Какой тип протокола канального уровня указывается для технологии ethernet?" />
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Протокол ARP
+" /><THEME c1="14135026" c2="16121850" c3="14135026" /><QUESTION value="Какой тип протокола канального уровня указывается для технологии ethernet?" />
 <ANSWER id="0" value="0x0003" />
 <ANSWER id="1" value="0x0002" />
-<ANSWER id="2" value="&gt; 0x0001" />
+<ANSWER id="2" value="0x0001" />
 <ANSWER id="3" value="0x0000" />
 
 </ROOT>

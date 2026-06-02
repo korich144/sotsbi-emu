@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Проверка основных знаний по протоколу CoAP" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Протоколом какого уровня модели TCP/IP является протокол CoAP?" />
+<ANSWER id="0" value="Прикладного" />
+<ANSWER id="1" value="Транспортного" />
+<ANSWER id="2" value="Сетевого" />
+
+</ROOT>

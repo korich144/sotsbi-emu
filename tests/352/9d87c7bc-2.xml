@@ -1,8 +1,9 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Администрирование UNIX-подобных систем " /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="В каком файле в ОС Linux можно посмотреть список текущих активных сетевых соединений?" />
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Администрирование UNIX-подобных систем
+" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="В каком файле в ОС Linux можно посмотреть список текущих активных сетевых соединений?" />
 <ANSWER id="0" value="/var/log/syslog" />
 <ANSWER id="1" value="/var/log/auth.log" />
-<ANSWER id="2" value="&gt; /var/log/messages" />
+<ANSWER id="2" value="/var/log/messages" />
 <ANSWER id="3" value="/var/log/debug" />
 
 </ROOT>

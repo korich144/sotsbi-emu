@@ -1,6 +1,7 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Параметры сообщений MEGACO " /><THEME c1="4950084" c2="14216152" c3="4950084" /><QUESTION value="Какие Пакеты обычно применяются при передачи статистики?" />
-<ANSWER id="0" value="&gt; amet, rtp, nt" />
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Параметры сообщений MEGACO
+" /><THEME c1="4950084" c2="14216152" c3="4950084" /><QUESTION value="Какие Пакеты обычно применяются при передачи статистики?" />
+<ANSWER id="0" value="amet, rtp, nt" />
 <ANSWER id="1" value="al, tdmc" />
 <ANSWER id="2" value="cd, cg, dd, dg." />
 <ANSWER id="3" value="другими пакетами." />

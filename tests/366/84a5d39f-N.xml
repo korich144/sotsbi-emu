@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Основы протокола IP " /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="В какое поле заголовка IPv4 записывается время жизни пакета в сети?" />
-<ANSWER id="0" value="?&gt; TTL" />
-<ANSWER id="1" value="TL" />
-<ANSWER id="2" value="HC" />
-<ANSWER id="3" value="ToS" />
-
-</ROOT>

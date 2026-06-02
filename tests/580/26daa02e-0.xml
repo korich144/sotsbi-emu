@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Проверка основных знаний по курсу IoT глава Введение" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Выберете строку, где указана технология/средство, не использующиеся для идентификации интернет вещи (объекта)." />
+<ANSWER id="0" value="QR-код, ZigBee" />
+<ANSWER id="1" value="SIM-карта, штрих-код" />
+<ANSWER id="2" value="NFC, RFID" />
+<ANSWER id="3" value="R-UIM карта, RFID" />
+<ANSWER id="4" value="QR-код, NFC" />
+
+</ROOT>

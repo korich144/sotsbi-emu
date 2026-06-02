@@ -1,7 +1,8 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Структура и назначения OSPF-пакетов " /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какое поле заголовка OSPF-пакета используется для контроля целости пакета?" />
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Структура и назначения OSPF-пакетов
+" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какое поле заголовка OSPF-пакета используется для контроля целости пакета?" />
 <ANSWER id="0" value="Длина пакета (Packet Length)" />
-<ANSWER id="1" value="&gt; Контрольная сумма (Checksum)" />
+<ANSWER id="1" value="Контрольная сумма (Checksum)" />
 <ANSWER id="2" value="Тип пакета (Packet Туре)" />
 <ANSWER id="3" value="Тип аутентификации (AuType)" />
 

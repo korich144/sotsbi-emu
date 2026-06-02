@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Инфокоммуникационные протоколы. Введение" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="В какой последовательности развивались мобильные сети?" />
+<ANSWER id="0" value="GSM, LTE, UMTS" />
+<ANSWER id="1" value="GSM, UMTS, LTE" />
+<ANSWER id="2" value="UMTC, GSM, LTE" />
+
+</ROOT>

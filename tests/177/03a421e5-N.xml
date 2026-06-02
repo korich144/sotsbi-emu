@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Сетевая безопасность. Сетевые атаки, Firewall. " /><THEME c1="9285627" c2="15266303" c3="9285627" /><QUESTION value="Какой сетевой элемент обеспечивает преобразование Имени хоста (например, www.sotsbi.ru) в его IP-адрес, например, такой как 10.13.84.4.?" />
-<ANSWER id="0" value="?&gt; Служба DNS." />
-<ANSWER id="1" value="Сервер RADIUS." />
-<ANSWER id="2" value="Сервер ААА." />
-
-</ROOT>

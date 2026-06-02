@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Сценарии обмена сообщениями в процессе установления и разрушения соединения
+" /><THEME c1="4950084" c2="14216152" c3="4950084" /><QUESTION value="Передачу сообщений каких протоколов обеспечивает по сети IP протокол SIGTRAN?" />
+<ANSWER id="0" value="H.248, MEGACO, MGCP, SIP, H.323 " />
+<ANSWER id="1" value="IP, TCP, RTP, RTCP" />
+<ANSWER id="2" value="EDDS-1, V5, подсистем ОКС7 " />
+<ANSWER id="3" value="IP, TCP, UDP, SCTP, ATM" />
+
+</ROOT>

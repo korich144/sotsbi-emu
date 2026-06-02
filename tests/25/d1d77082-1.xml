@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Форма сообщений MEGACO
+" /><THEME c1="4950084" c2="14216152" c3="4950084" /><QUESTION value="Какое оборудование может поддерживать протокол MEGACO/H.248?" />
+<ANSWER id="0" value="Шлюз (MediaGateway) и Контроллер шлюза (MediaGatewayController)" />
+<ANSWER id="1" value="Шлюз (MediaGateway), Контроллер шлюза (MediaGatewayController), Контроллер пограничных сессий (SessionBorderController), медиа-сервер и IP-телефон" />
+<ANSWER id="2" value="Шлюз (MediaGateway) и Прокси-сервер (Proxy)" />
+<ANSWER id="3" value="Шлюз (MediaGateway), Контроллер пограничных сессий (SessionBorderController) и Привратник (Gatekeaper)" />
+<ANSWER id="4" value="Прокси-сервер (Proxy) и Привратник (Gatekeaper)" />
+
+</ROOT>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Проверка знаний по теме "Технологии обработки больших данных"" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Основными элементами архитектуры файловой системы HDFS являются:" />
+<ANSWER id="0" value="Name Node, Data Node " />
+<ANSWER id="1" value="Job Tracker, Task Tracker" />
+<ANSWER id="2" value="Resource Manager, Application Master" />
+<ANSWER id="3" value="Resource Manager, Application Master, Node Manager" />
+
+</ROOT>

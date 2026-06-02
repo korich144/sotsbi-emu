@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Принципы интегрального обслуживания. Цифровые каналы в ISDN. Структура доступа ISDN." /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какие функциональные элементы доступа ISDN, из перечисленных, реализуют три уровня сигнализации DSS1?" />
+<ANSWER id="0" value="NT1" />
+<ANSWER id="1" value="NT2" />
+<ANSWER id="2" value="TE2" />
+<ANSWER id="3" value="LT" />
+
+</ROOT>

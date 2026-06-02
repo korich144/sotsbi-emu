@@ -1,7 +1,8 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Сообщения подсистемы SCCP и их параметры. " /><THEME c1="16680295" c2="16777215" c3="0" /><QUESTION value="В каком поле значащей сигнальной единицы переносится сообщение SCCP?" />
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Сообщения подсистемы SCCP и их параметры.
+" /><THEME c1="16680295" c2="16777215" c3="0" /><QUESTION value="В каком поле значащей сигнальной единицы переносится сообщение SCCP?" />
 <ANSWER id="0" value="байте служебной информации SIO" />
-<ANSWER id="1" value="&gt; поле сигнальной информации SIF" />
+<ANSWER id="1" value="поле сигнальной информации SIF" />
 <ANSWER id="2" value="поле индикатора сети SSF" />
 
 </ROOT>

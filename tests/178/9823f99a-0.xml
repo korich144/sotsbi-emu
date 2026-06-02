@@ -1,6 +1,7 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Сканеры безопасности. IPS, IDS. " /><THEME c1="9285627" c2="15266303" c3="9285627" /><QUESTION value="Какой сканер осуществляет  тестирование межсетевого экрана на наличие известных уязвимостей и неправильной конфигурации?" />
-<ANSWER id="0" value="&gt; Firewall Scanner." />
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Сканеры безопасности. IPS, IDS.
+" /><THEME c1="9285627" c2="15266303" c3="9285627" /><QUESTION value="Какой сканер осуществляет  тестирование межсетевого экрана на наличие известных уязвимостей и неправильной конфигурации?" />
+<ANSWER id="0" value="Firewall Scanner." />
 <ANSWER id="1" value="Web Security Scanner." />
 <ANSWER id="2" value="Intranet Scanner." />
 

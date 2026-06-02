@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Сеть передачи данных. Служебные протоколы. Сервисы" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какой TCP-порт используется для протокола HTTPS?" />
-<ANSWER id="0" value="80" />
-<ANSWER id="1" value="?&gt; 443" />
-<ANSWER id="2" value="8080" />
-<ANSWER id="3" value="53" />
-<ANSWER id="4" value="22" />
-
-</ROOT>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Сценарии обмена сообщениями в процессе установления и разрушения соединения
+" /><THEME c1="4950084" c2="14216152" c3="4950084" /><QUESTION value="Какими фрагментами обеспечивается перенос полезной нагрузки?" />
+<ANSWER id="0" value="INIT" />
+<ANSWER id="1" value="HEARTBET" />
+<ANSWER id="2" value="DATA" />
+<ANSWER id="3" value="ABORT" />
+<ANSWER id="4" value="SHUTDOWN" />
+
+</ROOT>

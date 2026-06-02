@@ -1,9 +1,10 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Типы сообщений MEGACO " /><THEME c1="4950084" c2="14216152" c3="4950084" /><QUESTION value="Какие команды протокола MEGACO/H.248 отправлет MG?" />
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Типы сообщений MEGACO
+" /><THEME c1="4950084" c2="14216152" c3="4950084" /><QUESTION value="Какие команды протокола MEGACO/H.248 отправлет MG?" />
 <ANSWER id="0" value="Add(Добавить), Modify(Изменить), Subtract(Отключить), Move(Перевести) и Notify(Уведомить)" />
 <ANSWER id="1" value="Modify(Изменить), Move(Перевести) и Notify(Уведомить)" />
 <ANSWER id="2" value="Subtract(Отключить)" />
-<ANSWER id="3" value="&gt; Notify(Уведомить) и ServiceChange(Рестарт)" />
+<ANSWER id="3" value="Notify(Уведомить) и ServiceChange(Рестарт)" />
 <ANSWER id="4" value="все ответы неверны" />
 
 </ROOT>

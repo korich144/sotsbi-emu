@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <ROOT><TARGET value="Закрепление полученных знаний по протоколу передачи файлов" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какой стороне принадлежит первое FTP сообщение в канале управления?" />
-<ANSWER id="0" value="&gt; FTP-серверу" />
+<ANSWER id="0" value="FTP-серверу" />
 <ANSWER id="1" value="FTP-клиенту" />
 <ANSWER id="2" value="может быть передано как со стороны клиента, так и со стороны сервера" />
 

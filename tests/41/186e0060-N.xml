@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Адресация сообщений SCCP. Маршрутизация. " /><THEME c1="16680295" c2="16777215" c3="0" /><QUESTION value="Каким образом кодируется индикатор глобального заголовка для полной формы глобального заголовка?" />
-<ANSWER id="0" value="?&gt; 0100" />
-<ANSWER id="1" value="0000" />
-<ANSWER id="2" value="0010" />
-<ANSWER id="3" value="0011" />
-
-</ROOT>

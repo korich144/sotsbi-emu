@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <ROOT><TARGET value="Сеть NGN. Архитектура IMS." /><THEME c1="211482" c2="814654" c3="3383713" /><QUESTION value="Какой параметр используется для идентификации подписки пользователя в IMS?" />
-<ANSWER id="0" value="&gt; PrUI" />
+<ANSWER id="0" value="PrUI" />
 <ANSWER id="1" value="PuUI" />
 <ANSWER id="2" value="IMSI" />
 

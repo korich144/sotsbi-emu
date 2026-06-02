@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Проверка основных знаний по протоколу MQTT" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какое сообщение протокола MQTT может содержать уникальный идентификатор для каждого клиента, подключающегося к брокеру, имя пользователя и пароль для идентификации и авторизации клиента?" />
+<ANSWER id="0" value="CONNECT" />
+<ANSWER id="1" value="CONNACK" />
+<ANSWER id="2" value="SUBSCRIBE" />
+<ANSWER id="3" value="PINGREQ" />
+<ANSWER id="4" value="PINGRESP" />
+
+</ROOT>

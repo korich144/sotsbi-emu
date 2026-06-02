@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="SDN/NFV" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="В каком поле Таблицы потоков хранятся записи, характеризующие параметры данного потока?" />
+<ANSWER id="0" value="Классификаторы" />
+<ANSWER id="1" value="Инструкции" />
+<ANSWER id="2" value="Набор данных" />
+
+</ROOT>

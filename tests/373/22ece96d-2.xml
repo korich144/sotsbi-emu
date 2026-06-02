@@ -1,8 +1,9 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="LDP                                                                                                           " /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какое из этих сообщений запрашивает метку у нижестоящего LSR?" />
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="LDP                                                                                                          
+" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Какое из этих сообщений запрашивает метку у нижестоящего LSR?" />
 <ANSWER id="0" value="Hello" />
 <ANSWER id="1" value="Label Mapping" />
-<ANSWER id="2" value="&gt; Label Request" />
+<ANSWER id="2" value="Label Request" />
 <ANSWER id="3" value="Label Abort Request" />
 
 </ROOT>

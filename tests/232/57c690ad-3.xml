@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Введение в специальность
+" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Принципы построения СПС. Между какими элементами сети GSM используется подсистема MAP системы сигнализации ОКС7? " />
+<ANSWER id="0" value="между MSC и HLR" />
+<ANSWER id="1" value="между HLR и GMSC" />
+<ANSWER id="2" value="между MSC и VLR" />
+<ANSWER id="3" value="все варианты ответов верны" />
+<ANSWER id="4" value="все варианты ответов НЕ верны" />
+
+</ROOT>

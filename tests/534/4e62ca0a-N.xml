@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Сеть передачи данных. Служебные протоколы. Сервисы" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какой из протоколов основан на T.128 и позволяет клиенту, расположенному на компьютере пользователя, получать информацию вывода от удаленного сервера и передавать сведенья о действиях пользователя на сервер?" />
-<ANSWER id="0" value="NFS, Network File System" />
-<ANSWER id="1" value="RDP, Remote Desktop Protocol" />
-<ANSWER id="2" value="?&gt; RFB, Remote Frame Buffer" />
-<ANSWER id="3" value="X11, X Window System" />
-
-</ROOT>

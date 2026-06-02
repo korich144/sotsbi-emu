@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <ROOT><TARGET value="Взаимодействие сетей КК с КП" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Если шлюз сигнализации является удаленным сигнальным терминалом для SP HLR, какой в этом случае будет у  него SPC:" />
-<ANSWER id="0" value="&gt; Тот же что и у HLR" />
+<ANSWER id="0" value="Тот же что и у HLR" />
 <ANSWER id="1" value="SPC SG отличается от  SPC HLR" />
 <ANSWER id="2" value="В этом случае SPC не присваивается" />
 

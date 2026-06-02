@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Сеть передачи данных. Стек TCP/IP" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Что за IPv4 адрес со значением 255.255.255.255?" />
-<ANSWER id="0" value="Широковещательный адрес сети" />
-<ANSWER id="1" value="Адрес сети" />
-<ANSWER id="2" value="Локальный адрес узла" />
-<ANSWER id="3" value="Адрес по-умолчанию" />
-<ANSWER id="4" value="&gt; Глобальный широковещательный адрес" />
-
-</ROOT>

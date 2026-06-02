@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <ROOT><TARGET value="Стандарт GSM, радиодоступ" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какой временной интервал речевого сигнала выбран в стандарте GSM для цифрового преобразования? " />
-<ANSWER id="0" value="&gt; 20 мс" />
+<ANSWER id="0" value="20 мс" />
 <ANSWER id="1" value="125 мкс" />
 <ANSWER id="2" value="2 мс" />
 

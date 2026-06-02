@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Стек протоколов доступа ISDN." /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какие кадры используются для подтверждения? " />
+<ANSWER id="0" value="Информационные кадры" />
+<ANSWER id="1" value="Управляющие кадры S" />
+<ANSWER id="2" value="Ненумерованные кадры U" />
+
+</ROOT>

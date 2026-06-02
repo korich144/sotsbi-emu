@@ -1,7 +1,8 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Основы VLAN " /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="На каком уровне модели OSI хосты могут взаимодействовать между собой напрямую внутри VLAN?" />
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Основы VLAN
+" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="На каком уровне модели OSI хосты могут взаимодействовать между собой напрямую внутри VLAN?" />
 <ANSWER id="0" value="Физическом" />
-<ANSWER id="1" value="&gt; Канальный" />
+<ANSWER id="1" value="Канальный" />
 <ANSWER id="2" value="Сетевой" />
 <ANSWER id="3" value="Транспортный" />
 

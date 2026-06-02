@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Акустическое моделирование
+" /><THEME c1="15767447" c2="16442082" c3="15767447" /><QUESTION value="Пересчет значений параметров HMM (Hidden Markov Model) невозможен без:" />
+<ANSWER id="0" value="кластеризации по методу CART" />
+<ANSWER id="1" value="вычисления Витерби-вероятности" />
+<ANSWER id="2" value="вычисления прямой и обратной вероятностей" />
+
+</ROOT>

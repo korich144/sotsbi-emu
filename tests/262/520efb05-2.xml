@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Уровни модели OSI.
+" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Как называется единица передаваемых данных на канальном уровне? " />
+<ANSWER id="0" value="Пакет" />
+<ANSWER id="1" value="Сообщение" />
+<ANSWER id="2" value="Кадр" />
+<ANSWER id="3" value="Поток" />
+<ANSWER id="4" value="Сегмент" />
+
+</ROOT>

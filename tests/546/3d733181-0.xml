@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <ROOT><TARGET value="ИКТ - Информационно-коммуникационные технологии. Пост NGN. Интернет вещей (IoT). Протокол MQTT. Проверка основных знаний по протоколу MQTT" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какое сообщение протокола MQTT может содержать уникальный идентификатор для каждого клиента, подключающегося к брокеру, имя пользователя и пароль для идентификации и авторизации клиента?" />
-<ANSWER id="0" value="&gt; CONNECT" />
+<ANSWER id="0" value="CONNECT" />
 <ANSWER id="1" value="CONNACK" />
 <ANSWER id="2" value="SUBSCRIBE" />
 <ANSWER id="3" value="PINGREQ" />

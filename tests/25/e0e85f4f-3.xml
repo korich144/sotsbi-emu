@@ -1,9 +1,10 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Форма сообщений MEGACO " /><THEME c1="4950084" c2="14216152" c3="4950084" /><QUESTION value="Какие значения может принимать контекст (Context)?" />
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Форма сообщений MEGACO
+" /><THEME c1="4950084" c2="14216152" c3="4950084" /><QUESTION value="Какие значения может принимать контекст (Context)?" />
 <ANSWER id="0" value="сконфигурированные на MG названия" />
 <ANSWER id="1" value="определенную нумерацию" />
 <ANSWER id="2" value="специальные символы (wildcard) такие как: ROOT, NULL(-), ALL и CHOOSE($)" />
-<ANSWER id="3" value="&gt; все ответы верны" />
+<ANSWER id="3" value="все ответы верны" />
 <ANSWER id="4" value="все ответы неверны" />
 
 </ROOT>

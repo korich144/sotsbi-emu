@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Сеть передачи данных. Служебные протоколы. Сервисы" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Обычно, с помощью какого протокола непосредственно передаются мультимедийные данные во время трансляции под управлением RTSP?" />
-<ANSWER id="0" value="RTCP (Real-Time Transport Control Protocol)" />
-<ANSWER id="1" value="MIME (Multipurpose Internet Mail Extensions)" />
-<ANSWER id="2" value="SDP (Session Description Protocol)" />
-<ANSWER id="3" value="RTSP (Real-Time Streaming Protocol)" />
-<ANSWER id="4" value="&gt; RTP (Real-Time Transport Protocol)" />
-
-</ROOT>

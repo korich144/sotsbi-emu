@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Сеть передачи данных. Служебные протоколы. Сервисы" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какой из заголовков запросов HTTP можно отнести к группе условных заголовков?" />
-<ANSWER id="0" value="&gt; If-Modified-Since" />
-<ANSWER id="1" value="Max-Forwards" />
-<ANSWER id="2" value="Encoding" />
-<ANSWER id="3" value="Authorization" />
-<ANSWER id="4" value="Referer" />
-
-</ROOT>

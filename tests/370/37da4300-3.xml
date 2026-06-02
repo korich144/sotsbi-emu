@@ -1,8 +1,9 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ROOT><TARGET value="Основная терминология и принципы работы протокола BGP " /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="В каком состоянии находится BGP-система перед установлением соединения?" />
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Основная терминология и принципы работы протокола BGP
+" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="В каком состоянии находится BGP-система перед установлением соединения?" />
 <ANSWER id="0" value="Estabilished" />
 <ANSWER id="1" value="Connect" />
 <ANSWER id="2" value="Active" />
-<ANSWER id="3" value="&gt; Idle" />
+<ANSWER id="3" value="Idle" />
 
 </ROOT>

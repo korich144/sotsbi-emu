@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Протокол H.245
+" /><THEME c1="3383713" c2="13034466" c3="3383713" /><QUESTION value="Какой протокол транспортного уровня используется для передачи сообщений протокола H.245?" />
+<ANSWER id="0" value="TCP" />
+<ANSWER id="1" value="UDP" />
+<ANSWER id="2" value="TCP, UDP" />
+<ANSWER id="3" value="IP" />
+<ANSWER id="4" value="H.323" />
+<ANSWER id="5" value="Все варианты ответов верны" />
+
+</ROOT>

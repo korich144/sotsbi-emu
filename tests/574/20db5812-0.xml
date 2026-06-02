@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT><TARGET value="Проверка знаний по теме "Технологии обработки больших данных"" /><THEME c1="14135026" c2="15986423" c3="14135026" /><QUESTION value="Укажите размер блока по умолчанию в файловой системе HDFS:" />
+<ANSWER id="0" value="64 Мб" />
+<ANSWER id="1" value="128 Мб" />
+<ANSWER id="2" value="256 Мб" />
+<ANSWER id="3" value="32 Мб" />
+
+</ROOT>
