@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Такие программы предназначены в основном для исследования содержимого компьютерных носителей информации жестких дисков во время проведения экспертизы.
+Они работают не только на уровне файловой системы, но и ниже - на уровне контроллера винчестера, что позволяет восстанавливать информацию после удаления файлов.
+Перечислим несколько популярных экспертных программ: 
+• Семейство программ ProDiscover (подробнее http://computer-foren-sics-lab.org/lib/?rid=22)
+• SMART (Storage Media Analysis Recovery Toolkit) (http://computer-forensics-lab.org/lib/?cid=18)
+• Forensic Toolkit (FTK) фирмы «AccessData» (http://computer-forensics-lab.org/lib/?rid=26)
+• Encase - экспертная система
+• ILook Investigator (http://www.ilook-forensics.org)
+• SATAN (System Administrator Tools for Analyzing Networks) - средство для снятия полной информации с компьютеров для ОС Unix
+• DIBS Analyzer 2 (http://www.dibsusa.com/products/dan2.html)
+• Helix - экспертный комплект на загрузочном компакт-диске на основе ОС Linux</text>

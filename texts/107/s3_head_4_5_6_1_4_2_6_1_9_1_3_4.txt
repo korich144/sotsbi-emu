@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">-Отказ в предоставлении сервиса.
+Если HLR определяет, что запрашиваемые услуги передачи информации или предоставления соединения для вызываемой MS не поддерживаются, то, в зависимости от причины отказа, шлюзовому MSC в примитиве-ответе MAP-SEND-ROUTING-INFORMATION передается параметр user error со значением &quot;Bearer Service Not Provisioned&quot; или &quot;Teleservice Not Provisioned&quot;. Процедура в HLR завершается.</text>

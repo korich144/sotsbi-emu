@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|"> После успешного взаимодействия MS с целевой базовой станцией в BSS-B передается сообщение HANDOVER-COMPLETE, которое транслируется к MSC-A в примитиве-запросе MAP-SEND-END-SIGNAL.</text>

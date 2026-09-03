@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">11 - Malformed AS_PATH — некорректный формат AS_PATH. Проверяется синтаксическая корректность атрибута AS_PATH. При наличии синтаксических ошибок в пути должно устанавливаться значение Error Subcode = Malformed AS_PATH.</text>

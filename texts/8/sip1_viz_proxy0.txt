@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">В представленном сценарии пользователь User A вызывает пользователя User B. Вызов обслуживается двумя SIP-серверами: SipServ1 и SipServ2.
+SipServ1 обслуживает SIP сеть пользователя User A, SipServ2 - пользователя User B. Адрес SipServ1 был заранее сохранен в настройках терминала User A.</text>

@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">- RAB Configuration Indicator - наличие этого параметра указывает, что MSC-A (или MSC-B при последующем хэндовере) определил параметры канала в радиодоступе с использованием приоритетного кодека из списка доступных кодеков (available codecs list).</text>

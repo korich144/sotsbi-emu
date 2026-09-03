@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Параметр LMU Identifier присутствует, если имеется модуль определения местонахождения LMU (Location Measurement Unit). В параметре LCS Information содержится информация, определяющая выполнение услуги определения местонахождения (Location Services), если абонент подписан на ее реализацию.</text>

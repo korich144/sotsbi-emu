@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">CLASS
+Два октета, определяющих класс данных, содержащихся в поле RDATA.</text>

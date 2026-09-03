@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">3 - Bad BGP Identifier — некорректный идентификатор BGP. Если поле BGP Identifier в принятом сообщении OPEN синтаксически некорректно, Error Subcode принимает значение Bad BGP Identifier. Синтаксическая корректность означает, что поле BGP Identifier содержит допустимый индивидуальный IP-адрес хоста.</text>

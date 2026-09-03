@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">MAP-COMPLETE-CALL, 
+Другие параметры для установления соединения будут переданы в MSC-В примитивом-запросом MAP-COMPLETE-CALL, который инициирует установление соединения между MSC-B и MS-B.</text>

@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">2 - Bad Peer AS — некорректный номер AS у партнера.  В случае если поле My Autonomous System в сообщении OPEN содержит неприемлемое значение, в поле Error Subcode должно помещаться значение Bad Peer AS.</text>

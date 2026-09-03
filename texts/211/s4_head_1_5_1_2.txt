@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Протоколы маршрутизации, используемые AS, относятся либо к протоколам  внутренней маршрутизации IGP (Interior Gateway Protocol), либо к протоколам внешней маршрутизации EGP (Exterior Gateway Protocol).
+Протоколы IGP,  включают протоколы маршрутизации, разработанные для работы внутри автономной системы. Протоколы RIP (Routing Information Protocol), OSPF (Open Shortest Path First) относятся к протоколам IGP.</text>

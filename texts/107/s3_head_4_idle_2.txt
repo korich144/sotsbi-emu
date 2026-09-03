@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">1. Прием запроса MAP-OPEN:
+а) На основе имени прикладного контекста (AC name), принятого в запросе MAP-OPEN, адреса вызываемой/вызывающей стороны Destination/Originating address, процесс MAP_DSM формирует параметры для примитива запроса TC-BEGIN, в том числе dialogue ID.
+Dialogue ID назначается диалогу, организуемому с помощью данного экземпляра MAP_DSM.</text>

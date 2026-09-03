@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|" uts="1493998341">Данные (Data) - поле переменной длины служит для диагностики причины генерации сообщений NOTIFICATION. Содержимое поля данных зависит от значений полей Error Code и Error Subcode.  </text>

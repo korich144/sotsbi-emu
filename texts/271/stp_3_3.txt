@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Существует 2 типа BPDU: 0 - конфигурационный(Configuration BPDU), 1 - уведомление о реконфигурации(TCN BPDU - Topology Change Notification BPDU).</text>

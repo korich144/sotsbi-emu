@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" ?><text>/mnt Стандартный каталог точек монтирования.</text>
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|" uts="1528975696">/mnt Стандартный каталог точек монтирования.</text>

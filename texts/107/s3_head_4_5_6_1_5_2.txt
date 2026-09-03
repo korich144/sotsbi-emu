@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Если VLR-В определяет MSRN, и MS, которой он выделен, разрешен данный вид обслуживания,  VLR-В с помощью запроса MAP-PAGE, либо MAP-SEARCH-FOR-MS дает MSC-B команду начать процедуру поиска MS.</text>

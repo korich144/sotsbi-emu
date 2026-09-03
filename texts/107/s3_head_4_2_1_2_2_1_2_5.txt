@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Responding address (адрес ответившего) включают в примитивы Response и Confirmation, например, если он отличается от адреса места назначения.</text>

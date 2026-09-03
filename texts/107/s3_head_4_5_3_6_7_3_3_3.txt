@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Параметр Regional Subscription Response присутствует в ответе MAP-INSERT-SUBSCRIBER-DATA, если, например, зона обслуживания MSC не входит в перечень разрешенных зон региональной подписки RSZI, или разрешенные зоны RSZ не поддерживаются VLR.</text>

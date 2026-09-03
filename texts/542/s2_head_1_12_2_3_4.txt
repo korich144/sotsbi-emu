@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|" uts="1490027079">Если SDP Offer не содержится в сообщении INVITE, то терминал В должен поместить SDP Offer в свой ответ 200 ОК. Терминал А в этом случае передает SDP Answer в теле сообщения ACK. </text>

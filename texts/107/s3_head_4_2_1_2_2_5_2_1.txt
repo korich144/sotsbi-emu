@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Provider reason (причина отказа со стороны провайдера) указывает причину прекращения диалога MAP:
+- Provider malfunction (сбой у провайдера услуг);
+- Supporting dialogue/transaction released (прекращена поддержка диалога/транзакции);
+- Resource limitation (недостаток ресурсов);
+- Maintenance activity (техобслуживание);
+- version incompatibility (несовместимость версий);
+- abnormal MAP dialogue (некорректный диалог MAP).</text>

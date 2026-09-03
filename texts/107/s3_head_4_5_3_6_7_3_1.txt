@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Передавая ответ MAP-INSERT-SUBSCRIBER-DATA, VLR оповещает HLR о не поддерживаемых категориях услуг передачи пользовательской информации (UDI; 3,1 кГц аудио) и не поддерживаемых услугах обслуживания вызова (параметры Bearer service List и Teleservice List).</text>

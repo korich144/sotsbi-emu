@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|" uts="1493218306">В ответ UE отправляет сообщение «RRC Connection Reconfiguration Complete». eNB завершает процедуру S1-AP Initial Context Setup отправкой сообщения «Initial Context Setup Response» на MME.</text>

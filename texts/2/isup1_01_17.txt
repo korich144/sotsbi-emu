@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Биты-индикаторы прямого (FIB, forward indicator bit) и обратного (BIB, backward indicator bit) направлений вместе с прямым и обратным порядковыми номерами используются в базовом методе исправлений ошибок. </text>

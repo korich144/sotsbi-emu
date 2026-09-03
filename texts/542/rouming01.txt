@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|" uts="1492084749">Если доступ к  IMS обеспечивает сеть GPRS, пользователю необходимо выполнить подключение к сети GPRS (GPRS Attach) </text>

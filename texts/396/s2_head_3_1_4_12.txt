@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Сообщение Change-of-Authorization (CoA) NAK (поле Code=45) отправляется NAS на RADIUS-сервер в ответ на Change-of-Authorization Request в случае, если изменение авторизации пользовательской сессии не произошло. </text>

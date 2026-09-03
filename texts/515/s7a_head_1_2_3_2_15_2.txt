@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" ?><text></text>
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">В RFC-2132 описываются необязательные параметры протокола DHCP.  Код 3 Router – маршрутизатор – указываются доступные маршрутизаторы. Код 1 Subnet Mask  - маска подсети, связанная с параметром Router. Код 6 DNS – сервер доменных имен, перечислены доступные сервера. Код 12 Host Name – имя хоста. Код 15 Domain Name – доменное имя.  Код 50 Requested IP address – Запрашиваемый IP адрес. </text>

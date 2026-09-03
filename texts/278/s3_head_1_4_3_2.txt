@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Доменное имя F.ISI.ARPA имеет смещение 20 от начала сообщения.
+</text>

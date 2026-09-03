@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Параметр User error может принимать значения:
+- Generic error
+- Identification or numbering problem
+- Subscription problem</text>

@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">4 - Hold Timer Expired — истекло время удержания. Если система не получает сообщений KEEPALIVE, UPDATE или NOTIFICATION в течение периода, заданного полем Hold Time в сообщении OPEN, передается сообщение NOTIFICATION с кодом ошибки Hold Timer Expired и соединение BGP закрывается.</text>

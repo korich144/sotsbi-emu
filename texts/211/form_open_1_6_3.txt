@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|" uts="1493996717">Длина параметра (Parameter Length) - однобайтное поле показывает размер Parameter Value в байтах (октетах).</text>

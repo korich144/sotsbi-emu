@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Для установления сеанса связи (получения доступа к услуге SIP-телефонии) SIP Phone формирует запрос INVITE и передает его на SoftSwitch (NAS).</text>

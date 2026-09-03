@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Для определения зоны поиска в сообщение включается параметр Paging Area, переданный ранее в HLR_B из VLR_B.</text>

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Сеть UMTS строится путем модернизации уже существующей сети GSM/GPRS.
+Сеть радиодоступа UMTS называется UTRAN (Universal Terrestrial Radio Access Network). Первый шаг  перехода описывается в документах 3GPP (Проект сотрудничества по созданию системы третьего поколения) Release 99 (1999 г.) и состоит из модернизации сети радиодоступа с помощью технологии UTRA-FDD (W-CDMA) и UTRA-TDD.
+В состав UTRAN входят контроллеры RNC (Radio Network Controller) и узлы базовых станций (Node B). С доменами CS и PS сеть UTRAN взаимодействует по интерфейсам IuCS и IuPS соответственно.</text>

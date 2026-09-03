@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">После этого VLR_B передает к HLR_B ответ MAP-PROVIDE-ROAMING-NUMBER с MSRN, который затем в MAP-SEND-ROUTING-INFORMATION-rsp транслируется к GMSC_B. 
+Параметр ReleaseResourcesSupported присутствует в ответах MAP-PROVIDE-ROAMING-NUMBER и SEND-ROUTING-INFORMATION, если MSC_B поддерживает услугу запроса освобождения радио ресурсов ранее зарезервированных  для выделенного роумингового номера (MAP-RELEASE-RESOURCES).</text>

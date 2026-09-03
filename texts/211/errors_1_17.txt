@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">5 - Attribute Length Error — некорректный размер атрибута. Если в любом распознанном атрибуте Attribute Length конфликтует с ожидаемым значением, должно устанавливаться значение Error Subcode = Attribute Length Error. В поле Data должен включаться связанный с ошибкой атрибут.</text>

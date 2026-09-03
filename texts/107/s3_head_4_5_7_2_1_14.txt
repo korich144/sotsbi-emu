@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">О результатах поиска MS и доставки сообщения адресату VMSC-B информирует SMS-GMSC с помощью MT-FORWARD-SHORT-MESSAGE–rsp. </text>

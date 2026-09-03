@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Процесс обслуживания короткого сообщения SM MO (Short Message Mobile Originated) инициируется, когда MS посылает к MSC Запрос обслуживания c помощью сообщения протокола базовой сети (CNP) CM SERVICE REQUEST. В параметре CM service type указывается тип запрошенной услуги: В данном случае,  доставка короткого сообщения.
+Для передачи коротких сообщений между MS и BS используются логические каналы:
+SDCCH (Stand-alone Dedicated control channel), если для MS не выделен разговорный канал TCH 
+SACCH (Slow associated control channel), если для MS выделен TCH 
+CBCH (Cell Broadcast channel) для широковещательной рассылки SMS всем MS соты.</text>

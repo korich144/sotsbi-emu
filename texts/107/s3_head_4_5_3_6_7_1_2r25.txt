@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">В параметре Access Restriction Data указываются ограничения доступа для MS. Если VLR/SGSN/MME поддерживают режим ограничения доступа, а параметр в сообщении MAP-INSERT-SUBSCRIBER-DATA отсутствует, то считается, что у MS ограничений доступа нет.</text>

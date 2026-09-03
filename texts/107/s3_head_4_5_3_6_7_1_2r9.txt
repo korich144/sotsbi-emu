@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Параметр Roaming Restriction Due To Unsupported Feature используется HLR, если в зоне обслуживания MSC/VLR для абонентов, находящихся в роуминге, на некоторые услуги накладываются ограничения.</text>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Получив информацию о текущем положении абонента А, сервер DomainSip.ru отправляет запрос INVITE на терминал WorkStation10. 
+
+
+
+
+
+</text>

@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">При срабатывании таймера, запущенного после отправки сообщения TerminalCapabilitySet, оборудование, его пославшее, передает сообщение TerminalCapabilitySetRelease.</text>

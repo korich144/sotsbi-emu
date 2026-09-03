@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Тип пакета (PT — packet type): 8 бит. Содержит константу 200 для идентификации пакета, как пакета SR протокола RTCP.
+</text>

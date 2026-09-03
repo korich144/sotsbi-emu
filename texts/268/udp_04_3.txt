@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Помимо перечисленных ранее протоколов, только UDP предпочитают использовать такие официально зарегистрированные IANA технологии, как SYSLOG, L2F/L2TP, Microsoft SSDP, Cisco HSRP, NFS, Cisco MGCP, IPsec NAT traversal, MDNS, X11.</text>

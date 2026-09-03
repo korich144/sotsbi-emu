@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Пакет RTP (rtp, RTP Package) используется для поддержки передачи пакетно-ориентированных мультимедийных данных по протоколу RTP:
+- изменение формата полезной нагрузки - rtp/pltrans (Payload Transition) для дескриптора ObservedEvents содержит параметр типа полезной нагрузки (rtppltype, RTPPayload) в виде пронумерованного списка.
+- отправленные пакеты rtp/ps (Packets Sent)
+- полученные пакеты rtp/pr (Packets Recieved)
+- коэффициент потерь пакетов rtp/pl (Packet Loss)
+- джиттер rtp/jit (Jitter)
+- задержка rtp/delay (Delay)</text>

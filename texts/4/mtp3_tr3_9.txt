@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Сообщения ЕСО и ЕСА входят в группу сообщений ЕСМ (Emergency-changeover messages) (код заголовка Н0=0010).</text>

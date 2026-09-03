@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|" uts="1491317253">Существуют протоколы с групповой рассылкой (multicast routing protocol). Например, DVMRP, PIM-SM, PIM-DM. Сообщения таких протоколов пересылается сразу группе маршрутизаторов.</text>

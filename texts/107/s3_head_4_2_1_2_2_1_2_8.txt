@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Provider error указывает ошибку, произошедшую в подсистеме МАР или обнаруженную ею, например: duplicated invoke Id (дублированный Invoke Id), not supported service (не поддерживаемая услуга), mistyped parameter (неверный параметр), service completion failure (сбой при выполнении услуги) и др.</text>

@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Параметры Destination address и Originating address задают адреса вызываемой и вызывающей стороны, соответственно, используемые в сообщениях SCCP и идентифицирующие пользователей MAP (отправителя и адресата).</text>

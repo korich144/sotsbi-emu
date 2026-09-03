@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Идентификаторы пользователя IMS хранятся в модуле ISIM (IP Multimedia Services Identity Module). 
+Для обеспечения доступа к услугам IMS абонентов сети GSM/GPRS, имеющих только модуль SIM, содержащий идентификатор IMSI, предусмотрена специальная процедура.
+Для абонентов с SIM PrUI формируется  из идентификатора IMSI. Процедура, используемая для получения PrUI из IMSI, описана в стандарте TS [23.003]. 
+Доменное имя сети домашнего оператора для PrUI в формате «operator.com» формируется на основании кода страны подвижной связи  MCC (Mobile Country Code) и  кода сети подвижной связи MNC (Mobile Network Code), взятых из IMSI, а в качестве имени пользователя  используется  весь IMSI. 
+PrUI,  сформированный на базе IMSI &lt;MCC&gt;&lt;MNC&gt;&lt;MSIN&gt;, имеет вид: «&lt;IMSI&gt;@ims.mnc&lt;MNC&gt;.mcc&lt;MCC&gt;.3gppnetwork.org ».
+IMSI: 234150999999999
+MCC = 234;
+MNC = 15;
+MSIN = 0999999999,
+PrUI: 234150999999999@ims.mnc015.mcc234.3gppnetwork.org
+Для абонентов, имеющих мобильные терминалы с модулем  SIM или  UICC (Universal Integrated circuit Card) без интегрированного ISIM, для начальных процедур регистрации SIP, перерегистрации и отмены регистрации по инициативе мобильного абонента, на базе IMSI формируется  временный PuUI (Temporary Public User Identity). Temporary Public User Identity, сформированный на базе IMSI, имеет вид SIP URI: «sip:&lt;IMSI&gt;@ims.mnc&lt;MNC&gt;.mcc&lt;MCC&gt;.3gppnetwork.org».
+Для маршрутизации сообщений SIP при вызове к или от  терминала  с модулем  SIM,  номер MSISDN должен быть преобразован функцией S-CSCF в формат SIP URI или tel URL (sip: 79211973781@operator.net;user=phone).</text>

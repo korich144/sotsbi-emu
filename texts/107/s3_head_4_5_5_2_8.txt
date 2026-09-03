@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|" uts="1478079838">Для переноса к MSC-A выделенного номера хэндовера и информации о ресурсах сети радиодоступа целевого MSC, полученных от BSS-B или RNS-B в ответ на запрос выделения радио ресурсов GSM-HANDOVER-REQUEST (UMTS-RELOCATION-REQUEST), MSC-B использует примитив-ответ MAP-PREPARE-HANDOVER.</text>

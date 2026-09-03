@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" ?><text>И подтверждение со стороны сервера – 200 OK.</text>
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">И подтверждение со стороны сервера – 200 OK.</text>

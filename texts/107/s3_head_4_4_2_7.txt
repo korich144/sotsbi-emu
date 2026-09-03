@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">- P-Abort-Cause
+Значения параметра P-abort-cause отображаются на значения параметра provider-reason (причина, сторона провайдера) примитива-индикации MAP-P-ABORT.</text>

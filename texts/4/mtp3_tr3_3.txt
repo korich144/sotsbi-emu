@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Перевод на свободное от трафика резервное звено в том же пучке, осуществляется обменом сообщениями COO (Changeover order) и COA (Changeover acknowledgement). C использованием таймера Т2 (время ожидания сообщения СОА).</text>

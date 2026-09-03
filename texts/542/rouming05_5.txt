@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|" uts="1490190692">Терминал User B обрабатывает запрос INVITE и отправляет ответ 183 «Session Progress», содержащий SDP-описание сессии для передачи мультимедийных данных от User A к User B.</text>

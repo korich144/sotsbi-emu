@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Обслуживание вызова в мобильной сети включает следующие процедуры:
+- Обслуживание исходящего вызова в VMSC_A (Mobile originated call, MO)
+- Обслуживание вызова в GMSC (VGMSC_ A, VGMSC_B, HGMSC_B)
+- Обслуживание входящего вызова в VMSC_B  (Mobile terminated call, MT)</text>

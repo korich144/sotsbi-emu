@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|" uts="1492178777">Протокол маршрутизации RIP (Routing Information Protocol), в отличии от OSPF, IS-IS и BGP, передается поверх протокола негарантированной доставки UDP. Существует три версии протокола: RIPv1, RIPv2 и RIPng.</text>

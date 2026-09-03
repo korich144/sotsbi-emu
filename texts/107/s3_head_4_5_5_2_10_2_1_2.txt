@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">- номер (номера), используемые для маршрутизации одного или нескольких вызовов при перемещении MS между MSC-A и MSC-B (Relocation Number List). Посылается, если отсутствует параметр Handover Number;</text>

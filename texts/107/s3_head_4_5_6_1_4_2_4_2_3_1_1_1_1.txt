@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">а) Если HLR не может предоставить информацию для маршрутизации вызова, он сообщает об этом в примитиве-ответе 11MAP-SEND-ROUTING-INFORMATION. </text>

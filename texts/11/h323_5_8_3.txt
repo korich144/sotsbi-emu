@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Далее, если сигналный  канал остался открытым, передается сообщение Release Complete (Q.931).</text>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Чтобы управлять интерфейсами, нужны права суперпользователя root.
+Можно воспольоваться командой повышения прав sudo.
+sudo ifconfig eth0 down («Роняем» сетевой интерфейс eth0)
+sudo ifconfig eth0 up («Поднимаем» сетевой интерфейс eth0)
+sudo ifconfig eth0 inet 192.168.14.182 (Меняем IP адрес)
+sudo ifconfig eth0 hw ether 28:92:4a:34:df:59 (Меняем, при необходимости, MAC-адрес)
+sudo ifconfig eth0 netmask 255.255.255.0 (Меняем маску подсети)
+sudo ifconfig eth0 netmask 255.255.255.0 (Меняем маску подсети)
+Настройки сети хранятся в файле /etc/network/interfaces, оттуда они «подхватываются» при загрузке системы.</text>

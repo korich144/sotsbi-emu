@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|" uts="1498504838">Type = 10 - Запрос маршрутизатора (ICMP Router Solicitation Message). В формате сообщения после контрольной суммы 32 бита передаются, но не используются.</text>

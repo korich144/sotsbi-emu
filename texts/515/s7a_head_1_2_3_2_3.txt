@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" ?><text>Третий байт задает длинну аппаратного адреса (Hlen) в байтах (6 байт для MAC-адреса в технологии Ethernet).</text>
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Третий байт задает длинну аппаратного адреса (Hlen) в байтах (6 байт для MAC-адреса в технологии Ethernet).</text>

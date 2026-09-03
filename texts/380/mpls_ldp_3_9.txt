@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Формат сообщения Label Abort Request. Сообщение Label Abort Request может использоваться для отмены ранее переданного и еще не подтвержденного сообщения Label Request. Label Request Message ID TLV — идентификатор сообщения с запросом метки. Идентифицирует сообщение, которое должно быть отменено.</text>

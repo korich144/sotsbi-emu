@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">- между сотами, обслуживаемыми  разными BSC одного коммутатора MSC (inter-BSC handover);</text>

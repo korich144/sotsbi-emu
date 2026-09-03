@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">- AoIP-Supported Codecs List, Anchor – параметр присутствует, если при запросе хэндовера для речевого вызова, реализованного в MSC-A по IP, поддерживаются указанные в списке кодеки.</text>

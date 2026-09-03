@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Второй этап: к MS передается RAND из AV, хранящегося в  VLR. В SIM карте с помощью тех же алгоритмов А3, А8 и iK, а также RAND вычисляется SRES и Kc.
+</text>

@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Полученный от VLR номер ключа шифрования CKSN MS сохраняет в SIM-карте, а вычисленный SRES пересылается к сети в сообщении AUTHENTICATION RESPONSE и далее к VLR в примитиве-ответе MAP-AUTHENTICATE. </text>

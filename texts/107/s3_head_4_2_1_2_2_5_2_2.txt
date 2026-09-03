@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Параметр Source указывает источник принудительного прекращения диалога:
+- MAP problem (проблема в подсистеме MAP);
+- TC problem (проблема TCAP);
+- network service problem (проблема сетевых услуг).</text>

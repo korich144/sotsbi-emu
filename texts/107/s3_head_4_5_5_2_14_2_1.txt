@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|"> -Selected UMTS Algorithms – если  выбрана целевая сота UMTS, параметр определяет выбранный в целевой соте алгоритмы целостности и шифрования;</text>

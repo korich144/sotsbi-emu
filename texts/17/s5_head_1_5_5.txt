@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">В OpenLogicalChannel, который предлагает двунаправленный канал между вызываемым оконечным оборудованием и вызывающим оконечным оборудованием, элемент forwardLogicalChannelParameters и reverseLogicalChannelParameters должен содержать параметры, определяющие характеристики предлагаемого канала.</text>

@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|" uts="1493218315">eNodeB посылает Initial Context Setup Response в MME, сообщение содержит  идентификатор туннеля TEID и адрес eNodeB, эти данные будут использоваться MME для передачи трафика вниз на интерфейсе S1_U.</text>

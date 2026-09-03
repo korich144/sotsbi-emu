@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">ФО управления услугами SC-F (Service Control Function) существует, когда AS-F управляет логикой услуг. SC-F использует протоколы INAP, CAP и MAP, а также открытые API типа JAIN и Parlay.</text>

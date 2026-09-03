@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Функциональные объекты Softswitch:
+CA-F (Call Agent Function) - ФО управления обслуживанием вызова и сигнализации.
+IW-F (Interworking Function) - функциональный объект взаимодействия.
+CA-F и IW-F являются подмножествами MGC-F. CA-F, существует, когда MGC-F управляет обработкой вызова и определяет состояние процесса его обслуживания. Протоколами этого функционального объекта могут являться SIP, SIP-T, BICC, H.323, Q.931, Q.SIG, INAP, ISUP, TCAP, BSSAP, RANAP, MAP и CAP. IW-F, существует, когда MGC-F обеспечивает взаимодействие между разными сетями сигнализации, например, IP и ATM, ОКС7 и SIP и т.п.
+R-F и A-F (Call Routing и Accounting Functions) - ФО маршрутизации и учета стоимости.
+SPS-F (SIP Proxy Server Function) - ФО SIP-прокси-сервера объединяет R-F и A-F.</text>

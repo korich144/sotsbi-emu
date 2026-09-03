@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Для подготовки ответа, VLR с помощью сообщения MAP-PAGE инициирует поиск MS в LA, идентификатор которой хранится в VLR, или с помощью MAP-SEARCH-FOR-MS в нескольких LA, если LAI не известен.</text>

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Следующий этап обслуживания SM - доставка короткого сообщения к SMS-IWMSC с помощью MAP-MO-FORWARD-SHORT-MESSAGE. 
+MSC межсетевого взаимодействия для SMS (Interworking MSC For Short Message Service) представляет собой интерфейс между SC и сетью подвижной связи отправителя и обеспечивает передачу SMS в SC для хранения  сообщений, передаваемых мобильными станциями.
+Функции SMS-IWMSC могут быть реализованы в Serving MSC. </text>

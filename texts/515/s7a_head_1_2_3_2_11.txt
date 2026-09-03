@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" ?><text>Giaddr (Gateway IP) - адрес агента-посредника, когда он используется.</text>
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Giaddr (Gateway IP) - адрес агента-посредника, когда он используется.</text>

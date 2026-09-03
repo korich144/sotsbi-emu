@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Serving MSC для того, чтобы определить, не нарушает ли отправитель SM разрешения и запреты, наложенные Оператором, посылает в VLR отправителя примитив-запрос MAP-SEND-INFO-FOR-MO-SMS с адресом обслуживающего центра SC (Service Centre Address, SCA), полученным от MS.</text>

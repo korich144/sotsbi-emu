@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Иллюстрация назначения запроса CANCEL 
+В данном примере запрос CANCEL отменяет обработку запроса INVITE.</text>

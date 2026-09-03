@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Заголовки Via, Max-Forwards, Call-ID, Cseq запроса REGISTER заполняются согласно  принятым для них общим правилам.
+В заголовке Content-Length стоит значение 0, т.к. запрос REGISTER не содержит тела сообщения, следовательно длина его равна нулю.</text>

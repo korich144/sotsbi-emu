@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|" uts="1490027322">Accounting Function собирает и передает учетную информацию о базовом вызове для целей учета стоимости. </text>

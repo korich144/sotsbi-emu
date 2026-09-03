@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" ?><text>IP-адреса бывают двух видов: IPv4 и IPv6.</text>
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|" uts="1473873696">IP-адреса бывают двух видов: IPv4 и IPv6.</text>

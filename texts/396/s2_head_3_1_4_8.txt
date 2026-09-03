@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Сообщение Disconnect-ACK (поле Code=41) передается NAS-сервером на RADIUS-сервер в случае, если все операции по завершению сеанса связи и закрытию соединения в ответ на сообщение Disconnect-Request прошли успешно. В сообщении Disconnect-ACK может содержаться атрибут Acct-Terminate-Cause.</text>

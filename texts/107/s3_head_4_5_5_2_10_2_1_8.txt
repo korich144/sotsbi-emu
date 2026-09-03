@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">- выбранный кодек в интерфейсе А (AoIP-Selected Codec Target), параметр включается в ответ, если в запросе присутствовал параметр AoIP-Supported Codecs List, Anchor и в А-интерфейсе транскодер реализован в MGW;</text>

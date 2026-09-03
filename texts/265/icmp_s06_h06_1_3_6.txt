@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|" uts="1498488273">Для сообщения тип 11 - истечение времени жизни пакета (Time Exceeded Message) в поле TTL - определно два значения поля код - при доставке обычного пакета (time to live exceeded in transit) и при сборке фрагментированного пакета (fragment reassembly time exceeded).</text>

@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|" uts="1478620846">В MAP-PROVIDE-ROAMING-NUMBER-req параметр Pre-paging supported устанавливается, если HLR_B хочет получить ответ на данный запрос только после выполнения в MSC_B процедуры предварительного поиска MS вызываемого абонента. </text>

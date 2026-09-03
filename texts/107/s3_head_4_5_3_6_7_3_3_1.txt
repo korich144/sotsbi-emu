@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">В параметре Operator Determined Barring General data указываются не поддерживаемые в MSC/VLR категории запретов, определенные в запросе.</text>

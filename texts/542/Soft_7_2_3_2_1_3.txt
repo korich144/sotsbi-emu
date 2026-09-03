@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|" uts="1490094613">InterWorking Function, существует, когда MGC обеспечивает взаимодействие между разными сетями сигнализации, например,  ОКС7 и SIP.   </text>

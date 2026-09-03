@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">P-CSCF передает запрос Register к I-CSCF, в заголовке Authorization   флаг защиты целостности «integrity protection» указывает на ее наличие.</text>

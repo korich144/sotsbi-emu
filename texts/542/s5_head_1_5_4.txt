@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|" uts="1493218402">Теперь пользовательские данные T-PDU от UE могут быть направлены к eNodeB и далее с помощью сообщений GTP-U (Uplink Packet), в Serving GW и PDN GW. ENodeB для отправки данных в Serving GW использует адрес Serving GW и S1-TEID из ранее сформированного контекста </text>

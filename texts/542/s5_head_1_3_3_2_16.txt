@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|" uts="1493218329">Далее UE отправляет сообщение «Direct Transfer», которое включает «Attach Complete» с идентификатором канала в радио доступе (EPS Bearer Identity). </text>

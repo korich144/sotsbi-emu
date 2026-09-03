@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">4 - Attribute Flags Error - некорректные флаги атрибута. Если в любом распознанном атрибуте возникает конфликт Attribute Flags и Attribute Type Code, должно устанавливаться значение Error Subcode = Attribute Flags Error. В поле Data должен включаться связанный с ошибкой атрибут (тип, размер и значение).</text>

@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">После этого NAS-сервер передает запрос Access-Request к RADIUS-серверу с атрибутом User-Name, содержащим значение CHAP username, и атрибут CHAP-Password с параметрами CHAP ID и CHAP-отклик. </text>

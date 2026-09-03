@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">В примитиве-индикации MAP-UPDATE-LOCATION может присутствовать параметр Paging Area, включает несколько LA. PgA посылается из VLR, хранится в HLR и обновляется при каждом изменении зоны поиска.</text>

@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|" uts="1490027187">Абонент User B осуществляет вызов абонента User A. К прокси-серверу DomainSip.ru посылается запрос INVITE со списочным адресом абонента А UserА@domainSip.ru. </text>

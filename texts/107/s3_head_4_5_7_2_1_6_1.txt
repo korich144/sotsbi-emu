@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Параметры сообщения и примитивы услуги 
+MAP-MT-FORWARD-SHORT-MESSAGE
+В параметре SM RP DA передается IMSI или LMSI.</text>

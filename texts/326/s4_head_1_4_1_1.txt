@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Чтобы сетевое взаимодействие было возможно, MAC- и IP-адреса должны быть корректно сопоставлены. Это производится с помощью протокола сетевого уровня ARP (Address Resolution Protocol - Протокол определения адреса).
+С помощью запросов (ARP request) и ответов (ARP reply) протокол ARP определяет физические адреса устройств сети.
+Пакет ARP включает в себя следующие поля:
+Hardware type (HTYPE) – тип протокола канального уровня (Ethernet имеет номер 0x0001).
+Protocol type (PTYPE) – тип протокола сетевого уровня (для IPv4   0x0800).
+Hardware length (HLEN) – длина физического адреса, то есть МАС-адреса в байтах (длина – 6 байтов).
+Protocol length (PLEN) – длина сетевого адреса в байтах (IPv4 адреса имеют длину 4 байта).
+Operation   код операции: ARP-request   1 ARP-reply   2.
+Sender hardware address (SHA) – физический МАС-адрес отправителя.
+Sender protocol address (SPA) – IP-адрес отправителя.
+Target hardware address (THA) – МАС-адрес получателя, при запросе значение поля 0.
+Target protocol address (TPA) – IP-адрес получателя.</text>

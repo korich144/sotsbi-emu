@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|" uts="1537275062">- передача из HLR в обслуживающий VLR данных об MS;- обновление TMSI и LAI в MS</text>

@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Получив запрос INVITE SoftSwitch (NAS) сразу передает обратно ответ 100Trying, информирующий о том, что запрос INVITE принят на обработку.</text>

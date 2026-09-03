@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">DiameterURI
+Формат DiameterURI должен соответствовать правилам синтаксиса URI (Uniform Resource Identifiers, уникальный идентификатор ресурсов), описанным ниже:
+«aaa://» FQDN [ port ] [ transport ] [ protocol ] ; Защита транспортного уровня не используется
+«aaas://» FQDN [ port ] [ transport ] [ protocol ];  Защита транспортного уровня используется
+
+FQDN = Fully Qualified Domain Name
+port = «:» 1*DIGIT
+; Один из портов, используемых для приема входящих сообщений. Если отсутствует, то используется Diameter_порт по умолчанию (3868).
+transport = «;transport=»
+; Транспорт, используемый для приема входящих соединений. Если отсутствует, используется протокол по умолчанию SCTP. UDP не должен использоваться, когда поле aaa_protocol содержит diameter.
+transport_protocol = ( «tcp» / «sctp» / «udp»)
+protocol = «;protocol=»
+; Если отсутствует,то AAA_протоколом по умолчанию является diameter.
+aaa_protocol = ( «diameter» « / » « radius» / «tacacs » ) 
+
+Ниже представлены корректные примеры идентификаторов Diameter-хостов:
+aaa://host.niits.ru;transport=tcp
+aaa://host.niits.ru:6666;transport=tcp
+aaa://host.niits.ru;protocol=diameter
+aaa://host.niits.ru:6666;protocol=diameter
+aaa://host.niits.ru:6666;transport=tcp;protocol=diameter
+aaa://host.niits.ru:1813;transport=udp;protocol=radius 
+</text>

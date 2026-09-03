@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Далее оконечное оборудование 2 посылает сообщение Setup к оконечному оборудованию 3 c идентификатором конференции CID = N и conferenceGoal = invite.</text>

@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">- UESBI-Iu (UE Specific Behaviour Information – Iu) - содержит информацию об особенностях поведения MS в Iu интерфейсе.</text>

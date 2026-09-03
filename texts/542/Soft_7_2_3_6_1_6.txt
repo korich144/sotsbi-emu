@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|" uts="1490094725">V5UA (V5.2-User Adaptation Layer) имеет ряд схожих с протоколом IUA черт и может рассматриваться как расширение IUA.</text>

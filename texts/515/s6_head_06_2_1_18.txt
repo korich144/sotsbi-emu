@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" ?><text>Адреса broadcast для IPv4 распространяют пакет по всем интерфейсам подсети. В IPv6 broadcast заменяют mulicast адресацией.</text>
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|" uts="1473874367">Адреса broadcast для IPv4 распространяют пакет по всем интерфейсам подсети. В IPv6 broadcast заменяют mulicast адресацией.</text>

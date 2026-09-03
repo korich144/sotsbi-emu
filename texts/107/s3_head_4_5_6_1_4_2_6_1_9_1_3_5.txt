@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">-Отклонение CUG.
+В случае отказа при проверке авторизации вызова CUG для данного соединения, шлюзовому MSC в примитиве-ответе MAP-SEND-ROUTING-INFORMATION передается параметр user error со значением &quot;CUG Reject&quot;, и процедура в HLR завершается. </text>

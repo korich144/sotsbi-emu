@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Оборудование, которое получило от другого оборудования сообщение TerminalCapabilitySet, может подтвердить его получение передачей сообщения TerminalCapabilitySetAck. При получении сообщения с некорректным набором возможностей оборудование отвечает сообщением TerminalCapabilitySetReject. </text>

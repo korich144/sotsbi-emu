@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Этот формат параметра используется вместе с Hop Count TLV в сообщениях Label Request и Label Mapping для предотвращения петель.</text>

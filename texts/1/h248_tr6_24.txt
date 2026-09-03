@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Сетевой Пакет (nt, Network Package) описывает Свойства (jit) окончаний независимо от типа сети, а так же События (netfail, qualert) и Статистики (dur, os, or):
+- максимальный размер джиттер-буфера - nt/jit (Maximum Jitter Buffer) используется в дескрипторе LocalControl.
+- сетевой отказ - nt/netfail (Network Failure) для дескриптора ObservedEvents содержит параметр причины (cs, Cause).
+- извещение об ухудшении качества - nt/qualert (Quality Alert) для дескрипторов Events и ObservedEvents содержит параметр порога (th, Threshold).
+- продолжительность - nt/dur (Duration) в мс.
+- число переданных байтов - nt/os (Octet Sent)
+- число принятых байтов - nt/or (Octet Received)</text>

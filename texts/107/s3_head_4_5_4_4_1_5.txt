@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Для передачи запроса аутентификации от MSC к BSS и далее к MS используются сообщения подсистемы BSSAP COMPLETE LAYER 3 INFORMATION и ММ AUTHENTICATION REQUEST. Получив запрос аутентификации, MS, используя присланный RAND и алгоритм А3 в SIM-карте, вычисляет SRES. А с помощью RAND и алгоритма А8 вычисляется Кс.</text>

@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|" uts="1537276362">Для передачи запроса аутентификации от MSC к BSS и далее к MS используются сообщения подсистемы BSSAP COMPLETE LAYER 3 INFORMATION и протокола CNP ММ AUTHENTICATION REQUEST, которые содержат RAND и CKSN из сообщения MAP.</text>

@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">3 - Bad Message Type —некорректный тип сообщения. Если не распознано поле Type в заголовке сообщения, в поле Error Subcode должно помещаться значение Bad Message Type. Поле Data в таких случаях должно содержать ошибочное значение поля Type.</text>

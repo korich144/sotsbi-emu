@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|" uts="1498504605">Определенные в RFC-1256 сообщения с обьявлением маршрутизатора (ICMP Router Advertisement Message) (тип 9) и запрос маршрутизатора (ICMP Router Solicitation Message) (тип 10) не имеют кодов сообщений и значение поля код заполняется нулями.</text>

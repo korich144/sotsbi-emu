@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Функция управления сигнальными маршрутами включает в себя следующие процедуры:
+1) Процедура управляемого переноса (Transfer - controlled procedure).
+2) Процедура запрещения переноса (Transfer - prohibited procedure).
+3) Процедура разрешения переноса (Transfer - allowed procedure).
+4) Процедура ограничения переноса (Transfer - restricted procedure).
+5) Процедура проверки пучка сигнальных маршрутов (Signalling - route - set - test procedure).
+6) Процедура проверки перегрузки пучка сигнальных маршрутов (Signalling - route - set - congestion test procedure).</text>

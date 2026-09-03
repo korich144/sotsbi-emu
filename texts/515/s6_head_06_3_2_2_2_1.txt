@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" ?><text>Следующее поле Code размером в 1 байт определяет код сообщения.</text>
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Следующее поле Code размером в 1 байт определяет код сообщения.</text>

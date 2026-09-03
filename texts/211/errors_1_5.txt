@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">2 - OPEN Message Error — ошибка в сообщении OPEN. Все ошибки, детектируемые в процессе обработки сообщений OPEN, должны указываться сообщениями NOTIFICATION с Error Code = OPEN Message Error. </text>

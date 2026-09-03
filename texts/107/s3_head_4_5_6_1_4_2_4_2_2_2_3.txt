@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">- Call Reference Number – номер вызова, назначаемый GMSC для данного запроса. Присутствует, если тип запроса (Interrogation Type) определяет основной вызов.</text>

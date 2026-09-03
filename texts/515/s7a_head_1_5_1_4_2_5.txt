@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" ?><text>Поле RDLENGTH - длина поля ресурсных данных (RDATA) в байтах. RDLENGTH занимает 2 байта.</text>
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Поле RDLENGTH - длина поля ресурсных данных (RDATA) в байтах. RDLENGTH занимает 2 байта.</text>

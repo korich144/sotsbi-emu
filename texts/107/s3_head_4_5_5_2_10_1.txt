@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|" uts="1478080126">Примитив-ответ MAP-PREPARE-HANDOVER содержит слежующую информацию:- в параметре AN-APDU одно или два сообщения сети радиодоступа с информацией о выделенном ресурсе: в сети GSM – HANDOVER-REQUEST-ACK (BSSAP), в сети UMTS – RELOCATION-REQUEST-ACK (RANAP).</text>

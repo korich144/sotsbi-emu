@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">-Номер изменился.
+Если номер абонента В в домашней PLMN изменился, то шлюзовому MSC в примитиве-ответе MAP-SEND-ROUTING-INFORMATION передается параметр user error со значением &quot;Number Changed&quot;. Процедура в HLR завершается.
+</text>

@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|" uts="1493802323">Type 6 LSA — Multicast OSPF LSA — специализированный LSA, который используют мультикаст OSPF приложения.</text>

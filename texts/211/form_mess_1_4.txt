@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|" uts="1493996223">Тип (Type) - 1-байтное целое число без знака содержит код типа сообщения. Определяются следующие коды типов сообщений:1 — OPEN2 — UPDATE3 — NOTIFICATION4 — KEEPALIVE </text>

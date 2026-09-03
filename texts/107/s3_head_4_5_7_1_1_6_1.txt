@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Проверив наличие идентификаторов MS в своей базе, VLR посылает к Serving MSC примитив MAP-PROCESS-ACCESS-REQUEST-res c указанием MSISDN. Получив подтверждение, Serving MSC направляет к MS сообщение CM_SERVICE_ACCEPT, которое инициирует передачу от MS к  Serving MSC короткого сообщения. </text>

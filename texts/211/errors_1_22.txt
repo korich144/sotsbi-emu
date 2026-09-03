@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">10 - Invalid Network Field некорректное указание сети. Проверяется синтаксическая корректность поля NLRI в сообщении UPDATE. При обнаружении ошибки должно устанавливаться значение Error Subcode = Invalid Network Field;</text>

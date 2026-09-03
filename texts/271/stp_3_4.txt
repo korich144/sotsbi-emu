@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Под флаги BPDU отведен 1 байт. В STP применяются 2 флага: бит Topology Change (TC) уведомляет о изменении топологии, а бит Topology Change Acknowledgment (TCA) - о подтверждении изменения топологии.
+бит 1: Topology Change Ack (0 - нет, 1 - да);
+биты 2-7: не применяются (000000)
+бит 8: Topology Change(0 - нет, 1 - да)</text>

@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">5 - Finite State Machine Error — ошибка машины конечных состояний. Любая ошибка, обнаруженная машиной конечных состояний  BGP, например неожиданное событие, указывается путем передачи сообщения NOTIFICATION с Error Code = Finite State Machine Error.</text>

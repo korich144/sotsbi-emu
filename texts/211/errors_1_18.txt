@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">6 - Invalid ORIGIN Attribute — некорректный атрибут ORIGIN. Если атрибут ORIGIN имеет неопределенный тип, в поле Error Subcode должно указываться значение Invalid Origin Attribute, а в поле Data должен включаться нераспознанный атрибут.</text>

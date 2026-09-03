@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Установленным диалог считается, если в состоянии DIALOG INITIATED был принят примитив-индикацияTC-CONTINUE и процесс MAP_DSM перешел в состояние DIALOGUE ESTABLISHED.</text>

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">VMSC-B, получив примитив-индикацию MT-FORWARD-SHORT-MESSAGE, прежде чем передать абоненту полученное SM, с помощью запроса услуги MAP-SEND-INFO-FOR-MT-SMS запрашивает у VLR информацию об абоненте В. 
+Параметры сообщения и примитивы услуги 
+MAP-SEND-INFO-FOR-MT-SMS</text>

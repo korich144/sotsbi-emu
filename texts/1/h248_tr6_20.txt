@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Пакет обнаружения сигналов DTMF (dd, DTMF Detection Package) расширяет пакет обнаружения тональных сигналов (tonedet) и описывает обнаружение сигналов DTMF:
+- DTMF символы 0-9 - dd/d0-d9 (DTMF Digits 0-9) и DTMF символы A-D - dd/da-dd (DTMF Digits A-D)
+- DTMF символ * - dd/ds (DTMF Digit *) и DTMF символ # - dd/do (DTMF Digit #)
+- событие завершения работы плана нумерации - dd/ce (DigitMap Completion Event)
+Для дескриптора ObservedEvents Событие ce должно иметь параметр строки символов(ds, DigitString) и метод завершения (Meth, Termination Method). Возможные значения параметра Meth (UM, PM и FM) были описаны ранее совместно с дескриптором DigitMap.
+Базовый пакет генератора сигналов DTMF (dg, Basic DTMF Generator Packege) расширяет пакет генератора тональных сигналов (tonegen) и описывает основные сигналы DTMF как Сигналы протокола H.248:
+- сигналы 0-9 DTMF - dg/d0-d9 (DTMF characters 0-9) и сигналы A-D DTMF - dg/da-dd (DTMF characters A-D)
+- сигнал * DTMF - dg/ds (DTMF character *) и сигнал # DTMF - dg/do (DTMF character #)
+Каждый сигнал пакета dg может содержать параметр длительности сигнала (tl).</text>

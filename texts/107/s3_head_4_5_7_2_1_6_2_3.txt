@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Информационный элемент More-Messages-to-Send, указывает на присутствие в SC других сообщений, ожидающих отправки к данной MS. Параметр транслируется из сообщения Short Message переданного из SC к SMS-GMSC.</text>

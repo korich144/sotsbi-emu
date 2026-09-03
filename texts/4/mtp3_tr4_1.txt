@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Функция управления сигнальными звеньями включает в себя следующие процедуры:
+1) Включение в работу, восстановление и выключение сигнальных звеньев (signalling link activation, restoration and deactivation)
+2) Включение в работу пучков сигнальных звеньев (link set activation).
+3) Автоматическое назначение сигнальных терминалов и звеньев передачи данных (automatic allocation of signalling terminals and signalling data links).</text>

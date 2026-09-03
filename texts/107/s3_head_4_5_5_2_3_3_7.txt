@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">-AN-APDU (Access Network - Application Protocol Data Unit)   этот параметр включает в себя сообщение сети доступа (BSSAP или RANAP), которое прозрачно переносится между MSC для доставки информации от обслуживающей BSS (RNS) к целевой.
+</text>

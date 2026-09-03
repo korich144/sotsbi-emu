@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" ?><text>Менее известные технологии официально зарегистрированны IANA для применения только поверх UDP: SYSLOG, L2F/L2TP, Microsoft SSDP, Cisco HSRP, NFS, Cisco MGCP, IPsec NAT traversal, MDNS, X11.</text>
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Менее известные технологии официально зарегистрированны IANA для применения только поверх UDP: SYSLOG, L2F/L2TP, Microsoft SSDP, Cisco HSRP, NFS, Cisco MGCP, IPsec NAT traversal, MDNS, X11.</text>

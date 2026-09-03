@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">При автоматическом способе обнаружения привратника устройство передает запрос Gatekeeper Request (GRQ) протокола RAS в режиме многоадресной рассылке (multicasting), используя IP-адрес 224.0.1.41 - Gatekeeper UDP Discovery Multicast Address - и UDP порт 1718 - Gatekeeper UDP Discovery Port.</text>

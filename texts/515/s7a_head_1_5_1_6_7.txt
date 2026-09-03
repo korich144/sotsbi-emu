@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" ?><text>AAAA (address record для IPv6) - запись адреса связывает доменное имя устройства с адресом IPv6. AAAA соответствует записи А, но применяется для IPv6 адреса.</text>
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">AAAA (address record для IPv6) - запись адреса связывает доменное имя устройства с адресом IPv6. AAAA соответствует записи А, но применяется для IPv6 адреса.</text>

@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">После приема примитива запроса MAP_DELIMETER MAP_DSM должен сформировать и отправить примитив запрос TC_CONTINUE (продолжение диалога).</text>

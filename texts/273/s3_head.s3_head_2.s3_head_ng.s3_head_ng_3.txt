@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|" uts="1492515132">После RTE Next hop передается RTE Net с сведеньями о сети. В RTE Net входит 4 поля: IPv6 префикс в 16 байт, Route tag в 2 байта, длина префикса (Prefix len) в 1 байт и метрика в 1 байт.</text>

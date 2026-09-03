@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">3 - UPDATE Message Error — ошибка в сообщении UPDATE. Все ошибки, детектируемые при обработке сообщений UPDATE, должны приводить к генерации сообщения NOTIFICATION с Error Code принимающим значение UPDATE Message Error. </text>

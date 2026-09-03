@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|" uts="1493218212">После приема «RRC Connection Request» eNB выделяет канал для передачи сигнальной информации и передает его номер к UE в сообщении «RRC Connection Setup».</text>

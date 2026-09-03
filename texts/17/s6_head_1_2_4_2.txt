@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Привратник может переслать сообщение Setup к оконечному оборудованию 1. Тогда оконечное оборудование 1 может ответить либо сообщением Facility, указав routeCallToMC, либо сообщением Release Complete.</text>

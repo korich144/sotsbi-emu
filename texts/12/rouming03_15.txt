@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Получив эту информацию в Server Assignment Answer (SAA) S-CSCF сохраняет ее на время регистрации. Затем S-CSCF сравнивает данные аутентификации, полученные от HSS и от UE.</text>

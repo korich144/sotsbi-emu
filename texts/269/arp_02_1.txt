@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">В 1982г. ARP стандартизирован RFC-826, автор которого David Plummer из компании Symbolics, 
+г.Кеймбридж, штат Массачусетс, США. Компания Symbolics использовала данный протокол в разработанной ей сети ChaosNET.
+В 1985г. взамен RARP в Университе Стенфорд и компании Sun Microsystems создается протокол BOOTP описанный в RFC-951.
+В 1993г. RFC-1541 стандартизируется протокол DHCP Бакнеллским университетом США взамен BOOTP.
+В 1997г. RFC-2131 обновляет стандарт DHCP.
+В 1998г. описывается Inverse Address Resolution Protocol в RFC-2390.
+В 2008г. процедура обнаружения конфликтов адресов протоколом ARP изложена в RFC-5227
+IPv4 Address Conflict Detection.
+В 2009г. Cisco выпускает RFC 5494 IANA Allocation Guidelines for the Address Resolution Protocol (ARP) который утверждает использование ARP для протоколов: HYPERchannel, DHCP options, ATM ARP, HARP (High-Performance Parallel Interface ARP, RFC2834, RFC2835), Dual MAC FDDI ARP (RFC1329), MAPOS, FC (Fibre Channel) ARP (RFC4338), DNS DHCID Resource Record.</text>

@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">I-CSCF принимает ответ 200 OK и передает его к P-CSCF.</text>

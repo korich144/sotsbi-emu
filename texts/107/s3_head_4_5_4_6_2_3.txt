@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Индикатор предпочтения немедленного ответа (Immediate response preferred indicator) указывает HLR, что один из запрашиваемых векторов аутентификации требуется для немедленного использования в VLR (SGSN, IWF(MME)). </text>

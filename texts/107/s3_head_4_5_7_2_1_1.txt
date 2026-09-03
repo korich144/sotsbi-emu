@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Процесс окончания обслуживания короткого сообщения SM MT (Short Message Mobile Terminated) начинается с передачи сообщения, содержащего блок данных TPDU, от SC к SMS-GMSC.
+SMS-GMSC (Gateway MSC For Short Message Service) обеспечивает взаимодействие между SC и сетью подвижной связи получателя SM, с целью доставки коротких сообщений от SC к мобильной станции.</text>

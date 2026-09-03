@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Услуга CFNR (call forwarding no reply) - когда на поступивший по его линии вызов не будет получен ответ в течении определённого времени.
+
+</text>

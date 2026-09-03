@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|" uts="1492530612">Помимо перечисленных ранее протоколов, только TCP предпочитают использовать такие официально зарегистрированные IANA технологии, как NMAP, FTPS, Oracle, OpenVPN, Cisco Skinny (SCCP), DHCP для QIP, Sensor Control Unit Protocol (SCUP), а так же сетевые игры Battle.net и DOOM.</text>

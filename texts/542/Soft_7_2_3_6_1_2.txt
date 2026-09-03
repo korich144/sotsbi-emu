@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|" uts="1490094707">M2PA (MTP2 Peer-to-Peer Adaptation Layer) более строго соответствует МТР2, чем M2UA, но в целом также обеспечивает адаптацию SCTP к MTP3.</text>

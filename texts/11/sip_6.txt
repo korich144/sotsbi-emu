@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Второй подход к построению сетей IP-телефонии, предложенный рабочей группой MMUSIC комитета IETF в документе RFC 2543, основан на использовании протокола SIP - Session Initiation Protocol.
+</text>

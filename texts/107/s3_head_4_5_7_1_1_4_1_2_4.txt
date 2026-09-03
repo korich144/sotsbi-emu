@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">-идентификатор соты, в которой обслуживается абонент (Serving cell Id), и зоны местонахождения  MS в настоящий момент (Current Location Area Id). </text>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Для автоматизации конфигурации VLAN на сети коммутаторов применяется протокол GVRP. 
+GVRP, GARP VLAN Registration Protocol был определен в стандарте IEEE 802.1Q от 1998 года. 
+GARP — это общая структура применяемая в сетевых устройстах для регистрации и перерегистрации специальных атрибутов (идентификаторы VLAN, членство в мультикастовых группах). 
+GARP, Generic attribute registration protocol состоит из двух частей: GARP VLAN Registration Protocol (GVRP) для регистрации VLAN между L3 коммутаторами и GARP Multicast Registration Protocol (GMRP) для регистрации членства в широковещательных посылках.</text>

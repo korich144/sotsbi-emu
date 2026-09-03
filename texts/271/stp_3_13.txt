@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|" uts="1515491728">BPDU составляет 35 байт: идентификатор (2 байта) и версию (1 байт) протокола, тип BPDU (1 байт), флаги BPDU (1 байт), RootID (8 байт), RootPathCost (4 байта), BridgeID (8 байт), PortID (2 байта), Message Age (2 байта) и Max Age (2 байта), Hello Time (2 байта) и Forward Delay (2 байта).</text>

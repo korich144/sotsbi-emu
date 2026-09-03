@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Основным логическим объектом SIP является агент пользователя UA (User Agent), который может выполнять как функции клиента агента пользователя UAC (User Agent Client), так и функции сервера агента пользователя UAS (User Agent Server).
+
+
+</text>

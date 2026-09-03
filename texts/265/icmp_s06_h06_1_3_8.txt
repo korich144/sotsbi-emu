@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|" uts="1498504879">Для сообщений тип 13 и 14 - запрос и ответ отметки времени (Timestamp or Timestamp Reply Message), определенных в RFC-792 поле код устанавливается всегда в значение 0.</text>

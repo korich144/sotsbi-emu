@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|" uts="1496234051">LSA4 - Inter-Area-Router-LSA содержит поля Options (как для LSA1), Metric (в тех же единицах измерения, что и стоимость интерфейса в LSA1) и идентификатор DR (Destination Router ID). Поле Destination Router ID содержит Router ID маршрутизатора описанного в LSA.</text>

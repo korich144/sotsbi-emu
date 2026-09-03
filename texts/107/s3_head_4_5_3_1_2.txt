@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Для процедуры «Обновление данных о местонахождении MS» определены следующие процессы пользователя:
+1) Процессы обновления данных о местонахождении MS. Update_Location_Area_MSC, инициирующий; Update_Location_Area_VLR, отвечающий.
+2) Процессы обновления данных о местонахождении MS при изменении зоны обслуживания. Update_Location_Area_VLR или Update_Location_VLR, инициирующий; Update_Location_HLR, отвечающий.
+3) Процессы запроса данных идентификации. Update_Location_Area_VLR, инициирующий; Send_Identification_PVLR, отвечающий.
+4) Процессы отмены данных о местонахождении MS. Cancel_Location_HLR, инициирующий; Cancel_Location_PVLR, отвечающий.
+5) Процессы отключения IMSI.  Detach_IMSI_MSC, инициирующий; Detach_IMSI_VLR, отвечающий.</text>

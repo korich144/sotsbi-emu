@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">- SM RP UI - данные TPDU (Transfer protocol data unit), данные, содержащие короткое сообщение и другую информацию, переданную от MS.</text>

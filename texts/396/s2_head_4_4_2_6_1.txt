@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Терминал пользователя SIP Phone подтверждает прием ответа 407 Proxy Authentication Required передачей запроса ACK.</text>

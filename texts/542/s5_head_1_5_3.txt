@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|" uts="1493218395">Далее eNB с помощью «Radio Bearer Establishment» активирует выделение  канала радиодоступа E-RAB (E-UTRAN Radio Access Bearer) для передачи пользовательской информации, параметры которого, так же сохраняются в eNB.</text>

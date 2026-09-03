@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">5 - Authentication Failure —ошибка аутентификации. Данный субкод ошибки не используется.</text>

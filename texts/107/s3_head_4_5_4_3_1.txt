@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">В сети UMTS аутентификация осуществляется за четыре шага:
+ - первый шаг: проведение аутентификации сети с помощью числа AUTN (Network authentication  token), которое передается из  VLR в запросе аутентификации MAP-AUTHENTICATE и анализируется в USIM;
+</text>

@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">- Если процедура поиска успешно завершена, для инициирования процесса доступа MS в сеть MSC посылает в VLR запрос MAP_PROCESS_ACCESS_REQUEST или MAP-SEARCH-FOR-MS-rsp.</text>

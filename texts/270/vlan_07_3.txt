@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">В стандарте IEEE 802.1ak от 2007 года, протокол GARP был заменен на 
+Multiple Registration Protocol (MRP).
+Проблема заключался в том, что в случае отказа GARP в момент регистрации атрибутов восстановление проходило слишком медленно, негативно влияло на скорость каналов передачи данных.
+Обе части GARP были также преобразованы для использования в MRP:
+ GVRP в MVRP (Multiple VLAN Registration Protocol), а GMRP в MMRP (Multiple MAC Registration Protocol).
+Все эти изменения GARP, GVRP, и GMRP вошли в обновлённый стандарт 802.1Q. </text>

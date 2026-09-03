@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" ?><text>ARP позволяет обнаруживать конфликты IP-адресов в локальной сети.</text>
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">ARP позволяет обнаруживать конфликты IP-адресов в локальной сети.</text>

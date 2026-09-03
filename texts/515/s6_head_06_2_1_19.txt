@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" ?><text>unicast - данные получает один узел, anycast - 1 узел из группы, multicast - все узлы группы, broadcast - все узлы подсети. В IPv6 для широковещательной рассылки применяют multicast адрес. Например, FF:02::1.</text>
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|" uts="1473874386">unicast - данные получает один узел, anycast - 1 узел из группы, multicast - все узлы группы, broadcast - все узлы подсети. В IPv6 для широковещательной рассылки применяют multicast адрес. Например, FF:02::1.</text>

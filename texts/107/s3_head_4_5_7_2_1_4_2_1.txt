@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">В ответе HLR указывает IMSI адресата (абонента B), LMSI, адрес VMSC–B и/или SGSN (Network Node Number), в зоне обслуживания которого находится абонент В. </text>

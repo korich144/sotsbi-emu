@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Запрос CANCEL отменяет обработку ранее переданных запросов с такими же, как и в запросе CANCEL значениями полей Call-ID, To, From и CSeq.</text>

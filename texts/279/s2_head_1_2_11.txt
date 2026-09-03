@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Giaddr – адрес агента-посредника, в случае, если он есть используется.</text>

@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">3. Средства анализа защищенности приложений. На сегодняшний день их не так много, как этого хотелось бы. Такие средства существуют только для широко распространенных прикладных систем, типа Web-броузеры (Netscape Navigator, Microsoft Internet Explorer), СУБД (Microsoft SQL Server, Oracle) и т.п.</text>

@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|" uts="1490094713">M3UA (MTP3-User Adaptation Layer) обеспечивает интерфейс между SCTP и теми подсистемами OKC№7, которые используют услуги MTP3, например, ISUP и SCCP.</text>

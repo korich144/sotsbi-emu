@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" ?><text src="dbbgn 0.000|">Пакет автоматического учета стоимости (amet, Automatic Metering Package) поддерживает автоматическую отправку повторяющихся тарифных импульсов в линию, обеспечивает возможность извещать MGC о точном числе переданных с окончания тарифных импульсов для сверки результатов благодаря описанию Событий (pr), Сигналов (em, mpb, phsm) и Статистик (cpc, pcslr):
+- отчет - amet/pr (Periodic Report)
+- запуск учета - amet/em (Enable Metering) может содержать параметры числа импульсов (pc, Pulse Count) и интервал повторения импульсов (pri, Pulse Repetition Interval).
+- текущее число импульсов - amet/cpc (Current Pulse Count)
+- число импульсов с момента последнего отчета - amet/pcslr (Pulse Count since Last Report)</text>
